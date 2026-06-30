@@ -1,0 +1,1086 @@
+SiteId,Treatment,N applied,N applications,N type,StartYr,EndYr,Annual.n2o,cumulative.n2o,Cumulative.start,Cumulative.end,crop.n2o,crop,Sample.method,Sample.number,sample.period,StartDate,EndDate,gapfilling.method,gapfilling.method.notes
+datalibrarian.158,Legume.70N,70,70,20 Urea plus 50 banded urea,2012,2013,NA,0.68,NA,NA,NA,sorghum,chamber,NA,281,12/12/2012,9/19/2013,not needed,282
+datalibrarian.158,Legume.0N,0,0,NA,2012,2013,NA,0.24,NA,NA,NA,sorghum,chamber,NA,281,12/12/2012,9/19/2013,not needed,282
+datalibrarian.158,Grass.100N,100,100,20 Urea plus 80 banded urea,2012,2013,NA,0.27,NA,NA,NA,sorghum,chamber,NA,281,12/12/2012,9/19/2013,not needed,282
+datalibrarian.158,Grass.0N,0,0,NA,2012,2013,NA,1.43,NA,NA,NA,sorghum,chamber,NA,281,12/12/2012,9/19/2013,not needed,282
+deantoni,CNT,40,NA,NA/Urea,2011,2012,NA,0.25,NA,NA,NA,wheat-maize,auto chamber,NA,348,7/8/2011,6/20/2012,NA,276
+deantoni,RFR,120,NA,Urea,2011,2012,NA,0.19,NA,NA,NA,wheat-maize,auto chamber,NA,348,7/8/2011,6/20/2012,NA,273
+deantoni,CONV,240,NA,Urea,2011,2012,NA,1.61,NA,NA,NA,wheat-maize,auto chamber,NA,348,7/8/2011,6/20/2012,NA,278
+deantoni,CONV-DMPP,240,NA,Urea plus DMPP,2011,2012,NA,0.5,NA,NA,NA,wheat-maize,auto chamber,NA,348,7/8/2011,6/20/2012,NA,275
+scheer.11,KT_50%_irrigation,200,NA,Urea,2009,2009,NA,5.5,NA,NA,NA,winter wheat,auto chamber,NA,136,6/12/2009,10/26/2009,linear,95
+scheer.11,KT_60%_irrigation,200,NA,Urea,2009,2009,NA,3.2,NA,NA,NA,winter wheat,auto chamber,NA,136,6/12/2009,10/26/2009,linear,92
+scheer.11,KT_85%_irrigation,200,NA,Urea,2009,2009,NA,3.3,NA,NA,NA,winter wheat,auto chamber,NA,136,6/12/2009,10/26/2009,linear,95
+scheer.14,KT_50%_irrigation,200,NA,urea,2009,2010,NA,4.64,NA,NA,NA,cotton,auto chamber,NA,184,11/17/2009,5/20/2010,linear,155
+scheer.14,KT_60%_irrigation,200,NA,urea,2009,2010,NA,6.04,NA,NA,NA,cotton,auto chamber,NA,184,11/17/2009,5/20/2010,linear,156
+scheer.14,KT_85%_irrigation,200,NA,urea,2009,2010,NA,4.55,NA,NA,NA,cotton,auto chamber,NA,184,11/17/2009,5/20/2010,linear,154
+scheer.inhib,Entec,170,NA,urea and DMPP,2012,2013,NA,0.4,NA,NA,NA,sorghum,auto chamber,NA,371,11/1/2012,11/7/2013,NA,341
+scheer.inhib,eNtrench,170,NA,urea and Nitrapyrin,2012,2013,NA,1.58,NA,NA,NA,sorghum,auto chamber,NA,371,11/1/2012,11/7/2013,NA,341
+scheer.inhib,Poly,170,NA,polymer urea,2012,2013,NA,0.69,NA,NA,NA,sorghum,auto chamber,NA,371,11/1/2012,11/7/2013,NA,341
+scheer.inhib,Urea,170,NA,urea,2012,2013,NA,2.31,NA,NA,NA,sorghum,auto chamber,NA,371,11/1/2012,11/7/2013,NA,341
+scheer.inhib,zeroN,170,NA,NA,2012,2013,NA,0.16,NA,NA,NA,sorghum,auto chamber,NA,371,11/1/2012,11/7/2013,NA,341
+barton.79,OM.plus.Urea,100,NA,urea,2012,2013,NA,0.138,NA,NA,NA,canola,auto chamber,NA,364,6/7/2012,6/6/2013,linear,NA
+barton.79,OM.no.Urea,0,NA,NA,2012,2013,NA,5.60E-02,NA,NA,NA,canola,auto chamber,NA,364,6/7/2012,6/6/2013,linear,NA
+barton.79,no.OM.no.Urea,0,NA,NA,2012,2013,NA,2.10E-02,NA,NA,NA,canola,auto chamber,NA,364,6/7/2012,6/6/2013,linear,NA
+barton.79,no.OM.plus.Urea,100,NA,urea,2012,2013,NA,1.40E-02,NA,NA,NA,canola,auto chamber,NA,364,6/7/2012,6/6/2013,linear,NA
+barton.79,OM.plus.Urea,100,NA,urea,2013,2014,NA,0.271,NA,NA,NA,barley,auto chamber,NA,363,6/9/2013,6/7/2014,linear,NA
+barton.79,OM.no.Urea,0,NA,NA,2013,2014,NA,0.146,NA,NA,NA,barley,auto chamber,NA,363,6/9/2013,6/7/2014,linear,NA
+barton.79,no.OM.no.Urea,0,NA,NA,2013,2014,NA,1.90E-02,NA,NA,NA,barley,auto chamber,NA,363,6/9/2013,6/7/2014,linear,NA
+barton.79,no.OM.plus.Urea,100,NA,urea,2013,2014,NA,0,NA,NA,NA,barley,auto chamber,NA,363,6/9/2013,6/7/2014,linear,NA
+barton.79,OM.plus.Urea,100,NA,urea,2014,2014,NA,1.80E-02,NA,NA,NA,oats,auto chamber,NA,180,6/8/2014,12/5/2014,linear,NA
+barton.79,OM.no.Urea,0,NA,NA,2014,2014,NA,-8.00E-03,NA,NA,NA,oats,auto chamber,NA,180,6/8/2014,12/5/2014,linear,NA
+barton.79,no.OM.no.Urea,0,NA,NA,2014,2014,NA,-1.00E-03,NA,NA,NA,oats,auto chamber,NA,180,6/8/2014,12/5/2014,linear,NA
+barton.79,no.OM.plus.Urea,100,NA,urea,2014,2014,NA,-7.00E-03,NA,NA,NA,oats,auto chamber,NA,180,6/8/2014,12/5/2014,linear,NA
+barton.52,Lime.lw,0,NA,NA,2009,2009,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,No-Lime.lw,0,NA,NA,2009,2009,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,Lime.ww,75,NA,urea,2009,2009,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,No-Lime.ww,75,NA,urea,2009,2009,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,Lime.lw,20,NA,urea,2010,2010,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,No-Lime.lw,20,NA,urea,2010,2010,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,Lime.ww,50,NA,urea,2010,2010,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+barton.52,No-Lime.ww,50,NA,urea,2010,2010,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,linear,NA
+Barton.Cunderdin,FertApp,87.5,NA,NA,2005,2007,NA,0.11,NA,NA,NA,wheat,auto chamber,NA,NA,5/19/2005,5/23/2007,linear,NA
+Barton.Cunderdin,Control,0,NA,NA,2005,2007,NA,0.09,NA,NA,NA,wheat,auto chamber,NA,NA,5/19/2005,5/23/2007,linear,NA
+WagnerRiddle,CT,150,NA,granular urea,2000,2000,NA,1.216,NA,NA,NA,corn,Flux-gradient,55,60,6/1/2000,7/31/2000,linear,22
+WagnerRiddle,CT,0,NA,NA,2000,2001,2.429,1.214,NA,NA,NA,fallow,Flux-gradient,124,180,11/1/2000,4/30/2001,linear,109
+WagnerRiddle,CT,0,NA,NA,2001,2001,NA,0.681,NA,NA,NA,soybean,Flux-gradient,172,183,5/1/2001,10/31/2001,linear,132
+WagnerRiddle,CT,0,NA,NA,2001,2002,1.1,0.419,NA,NA,NA,fallow,Flux-gradient,174,180,11/1/2001,4/30/2002,linear,167
+WagnerRiddle,CT,90,NA,granular urea,2002,2002,NA,0.408,NA,NA,NA,wheat,Flux-gradient,147,183,5/1/2002,10/31/2002,linear,92
+WagnerRiddle,CT,0,NA,NA,2002,2003,3.318,2.91,NA,NA,NA,fallow,Flux-gradient,171,180,11/1/2002,4/30/2003,linear,161
+WagnerRiddle,CT,150,NA,granular urea,2003,2003,NA,1.761,NA,NA,NA,corn,Flux-gradient,52,91,5/1/2003,7/31/2003,linear,41
+WagnerRiddle,CT,0,NA,NA,2003,2004,2.677,0.916,NA,NA,NA,fallow,Flux-gradient,156,181,11/1/2003,4/30/2004,linear,135
+WagnerRiddle,CT,0,NA,NA,2004,2004,NA,0.31,NA,NA,NA,soybean,Flux-gradient,93,122,5/1/2004,8/31/2004,linear,84
+WagnerRiddle,CT,0,NA,NA,2004,2005,1.442,1.132,NA,NA,NA,fallow,Flux-gradient,160,180,11/1/2004,4/30/2005,linear,152
+WagnerRiddle,NT,50,NA,granular urea,2000,2000,NA,0.999,NA,NA,NA,corn,Flux-gradient,57,60,6/1/2000,7/31/2000,linear,22
+WagnerRiddle,NT,0,NA,NA,2000,2001,1.822,0.823,NA,NA,NA,fallow,Flux-gradient,136,180,11/1/2000,4/30/2001,linear,109
+WagnerRiddle,NT,0,NA,NA,2001,2001,NA,0.473,NA,NA,NA,soybean,Flux-gradient,171,183,5/1/2001,10/31/2001,linear,132
+WagnerRiddle,NT,0,NA,NA,2001,2002,0.964,0.491,NA,NA,NA,fallow,Flux-gradient,174,180,11/1/2001,4/30/2002,linear,167
+WagnerRiddle,NT,60,NA,granular urea,2002,2002,NA,0.188,NA,NA,NA,wheat,Flux-gradient,137,183,5/1/2002,10/31/2002,linear,92
+WagnerRiddle,NT,0,NA,NA,2002,2003,0.888,0.7,NA,NA,NA,red clover,Flux-gradient,171,180,11/1/2002,4/30/2003,linear,161
+WagnerRiddle,NT,60,NA,granular urea,2003,2003,NA,1.646,NA,NA,NA,corn,Flux-gradient,59,91,5/1/2003,7/31/2003,linear,41
+WagnerRiddle,NT,0,NA,NA,2003,2004,2.176,0.53,NA,NA,NA,fallow,Flux-gradient,152,181,11/1/2003,4/30/2004,linear,135
+WagnerRiddle,NT,0,NA,NA,2004,2004,NA,0.282,NA,NA,NA,soybean,Flux-gradient,92,122,5/1/2004,8/31/2004,linear,84
+WagnerRiddle,NT,0,NA,NA,2004,2005,1.187,0.904,NA,NA,NA,fallow,Flux-gradient,159,180,11/1/2004,4/30/2005,linear,152
+Hoeglwald,spruce,NA,NA,NA,1999,2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/1999,12/31/2012,NA,4085
+kelly.24.27,T3,1000,NA,Urine applied in September,2009,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2009,12/31/2010,NA,413
+kelly.24.27,T4,1000,NA,Urine in Sep plus DCD applied in Aug,2009,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2009,12/31/2010,NA,413
+kelly.24.27,T5,1000,NA,Urine applied in Aug,2009,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2009,12/31/2010,NA,413
+kelly.24.27,T6,1000,NA,Urine in Aug plus DCD in Aug,2009,2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2009,12/31/2010,NA,413
+kelly.30.33,T1,0,NA,NA,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/23/2010,10/12/2011,NA,385
+kelly.30.33,T2,1000,NA,urine,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/23/2010,10/12/2011,NA,385
+kelly.30.33,T3,1000,NA,Urine with DCD at the beginning (one time),2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/23/2010,10/12/2011,NA,385
+kelly.30.33,T4,1000,NA,Urine with DCD each time,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/23/2010,10/12/2011,NA,385
+kelly.52,T2,1000,NA,urine,2013,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,8/16/2013,5/21/2014,NA,279
+kelly.52,T3,1000,NA,Urine plus nitrapryin surface applied,2013,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,8/16/2013,5/21/2014,NA,279
+kelly.52,T4,400,NA,dung,2013,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,8/16/2013,5/21/2014,NA,279
+kelly.52,T1,0,NA,NA,2013,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,8/16/2013,5/21/2014,NA,279
+kelly.38,T1,0,NA,NA,2012,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/7/2012,8/14/2013,NA,342
+kelly.38,T2,1000,NA,Urine,2012,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/7/2012,8/14/2013,NA,342
+kelly.38,T3,1000,NA,Urine plus DCD 10kg a.i./ha,2012,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/7/2012,8/14/2013,NA,342
+kelly.38,T4,1000,NA,Urine plus DCD 20 kg a.i./ha,2012,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,9/7/2012,8/14/2013,NA,342
+fogarty.8,T1,NA,NA,NA,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/1/2010,1/31/2011,NA,315
+fogarty.8,T2,NA,NA,NA,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/1/2010,1/31/2011,NA,331
+fogarty.8,T3,NA,NA,NA,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/1/2010,1/31/2011,NA,347
+fogarty.8,T4,NA,NA,NA,2010,2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/1/2010,1/31/2011,NA,348
+dougherty.6,urea,NA,NA,NA,2012,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,10/30/2012,2/3/2014,NA,428
+dougherty.6,urea+DMPP,NA,NA,NA,2012,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,10/30/2012,2/3/2014,NA,428
+dougherty.6,urea+NBPT,NA,NA,NA,2012,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,10/30/2012,2/3/2014,NA,428
+dougherty.8,0N,0,NA,NA,2014,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/3/2014,4/30/2015,NA,437
+dougherty.8,25N,25,NA,NA,2014,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/3/2014,4/30/2015,NA,437
+dougherty.8,100N,100,NA,NA,2014,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/3/2014,4/30/2015,NA,437
+dougherty.8,50N,50,NA,NA,2014,2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,2/3/2014,4/30/2015,NA,437
+lam.83,bed,NA,NA,NA,2013,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2013,12/31/2013,NA,28
+lam.83,furrow,NA,NA,NA,2013,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2013,12/31/2012,NA,28
+lam.83,bin,NA,NA,NA,2013,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,1/1/2013,12/31/2013,NA,16
+quayle.39,CONV_Irri,172.5,4,DAP & urea,2014,2014,NA,0.496,NA,NA,127,wheat,chamber,NA,163,6/9/2014,11/19/2014,NA,163
+quayle.39,CONV_DMPP,172.5,4,DAP & urea,2014,2014,NA,0.414,NA,NA,129,wheat,chamber,NA,163,6/9/2014,11/19/2014,NA,163
+quayle.39,RED_Irri,172.5,4,DAP & urea,2014,2014,NA,0.569,NA,NA,131,wheat,chamber,NA,163,6/9/2014,11/19/2014,NA,163
+quayle.39,RED_DMPP,172.5,4,DAP & urea,2014,2014,NA,0.249,NA,NA,135,wheat,chamber,NA,163,6/9/2014,11/19/2014,NA,163
+quayle.33,30mm_Irri,300,4,urea,2014,2014,NA,0.88,NA,NA,218,sorghum,chamber,NA,123,1/14/2014,5/16/2014,NA,123
+quayle.33,60mm_Irri,300,4,urea,2014,2014,NA,1.28,NA,NA,231,sorghum,chamber,NA,123,1/14/2014,5/16/2014,NA,123
+quayle.33,90mm_Irri,300,4,urea,2014,2014,NA,1.81,NA,NA,210,sorghum,chamber,NA,123,1/14/2014,5/16/2014,NA,123
+quayle.33,120mm_Irri,300,4,urea,2014,2014,NA,1.71,NA,NA,141,sorghum,chamber,NA,123,1/14/2014,5/16/2014,NA,123
+quayle.27,Banna_Sand_Bare_Soil,100,3,DAP & urea,2013,2013,NA,0.43,NA,NA,NA,fallow,chamber,NA,146,6/20/2013,11/18/2013,NA,146
+quayle.27,Hanwood_Loam_Bare_Soil,100,3,DAP & urea,2013,2013,NA,1.1,NA,NA,NA,fallow,chamber,NA,144,6/20/2013,11/18/2013,NA,144
+quayle.27,Mundiwa_Clay_Loam_Bare_Soil,100,3,DAP & urea,2013,2013,NA,3.65,NA,NA,NA,fallow,chamber,NA,145,6/20/2013,11/18/2013,NA,145
+quayle.27,Banna_Sand_Wheat,100,3,DAP & urea,2013,2013,NA,0.41,NA,NA,72,wheat,chamber,NA,146,6/20/2013,11/18/2013,NA,146
+quayle.27,Hanwood_Loam_Wheat,100,3,DAP & urea,2013,2013,NA,0.46,NA,NA,75,wheat,chamber,NA,144,6/20/2013,11/18/2013,NA,144
+quayle.27,Mundiwa_Clay_Loam_Wheat,100,3,DAP & urea,2013,2013,NA,0.59,NA,NA,72,wheat,chamber,NA,145,6/20/2013,11/18/2013,NA,145
+quayle.10,fertilizer,130,4,Urea,2012,2013,NA,NA,NA,NA,NA,wheat/soybean,NA,NA,119,12/26/2012,5/25/2013,NA,119
+quayle.10,bare,0,4,NA,2012,2013,NA,NA,NA,NA,NA,wheat/soybean,NA,NA,119,12/26/2012,5/25/2013,NA,119
+quayle.10,stubbl,NA,4,wheat stubbl,2012,2013,NA,NA,NA,NA,NA,wheat/soybean,NA,NA,118,12/26/2012,5/25/2013,NA,118
+quayle.10,soybean,NA,4,NA,2012,2013,NA,NA,NA,NA,NA,wheat/soybean,NA,NA,118,12/26/2012,5/25/2013,NA,118
+QuayleHiz,CONV,280,1,Urea,2014,2015,NA,1.37,NA,NA,NA,sorghum,chamber,NA,101,12/22/2014,4/1/2015,NA,NA
+QuayleHiz,CONV-SPLIT,280,2,Urea,2014,2015,NA,1.01,NA,NA,NA,sorghum,chamber,NA,101,12/22/2014,4/1/2015,NA,NA
+QuayleHiz,RED,280,1,Urea,2014,2015,NA,1.16,NA,NA,NA,sorghum,chamber,NA,101,12/22/2014,4/1/2015,NA,NA
+QuayleHiz,RED-SPLIT,280,2,Urea,2014,2015,NA,1.24,NA,NA,NA,sorghum,chamber,NA,101,12/22/2014,4/1/2015,NA,NA
+Matson_2017,Metropolitan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,76,1/1/2011,12/31/2011,NA,NA
+Matson_2017,P27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matson_2017,P8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matson_2017,P19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matson_2017,P32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ruan_2013,CT_soybeans,0.33,NA,ammonium sulfate + glyphosate (0.33 kg N ha-1),2009,2009,NA,NA,NA,NA,NA,smooth brome,NA,3,27,1/1/2009,12/31/2009,NA,NA
+Ruan_2013,NT_soybeans,0.33,NA,ammonium sulfate + glyphosate (0.33 kg N ha-1),2009,2009,NA,NA,NA,NA,NA,smooth brome,NA,3,27,1/1/2009,12/31/2009,NA,NA
+Ruan_2013,CRP_reference,0,NA,NA,2009,2009,NA,NA,NA,NA,NA,smooth brome,NA,3,11,1/1/2009,12/31/2009,NA,NA
+Ruan_2016,0,0,1,granular urea,2009,2009,0.2525,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,28,28,1,granular urea,2009,2009,0.4325,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,56,56,1,granular urea,2009,2009,0.65,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,84,84,1,granular urea,2009,2009,0.88,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,112,112,1,granular urea,2009,2009,1.125,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,140,140,1,granular urea,2009,2009,1.355,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,168,168,1,granular urea,2009,2009,1.5775,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,196,196,1,granular urea,2009,2009,2.1675,NA,NA,NA,NA,switchgrass,static chamber,25,161,6/16/2009,11/24/2009,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,0,0,1,liquid urea ammonium nitrate,2010,2010,0.2275,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,28,28,1,liquid urea ammonium nitrate,2010,2010,0.4525,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,56,56,1,liquid urea ammonium nitrate,2010,2010,0.6925,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,84,84,1,liquid urea ammonium nitrate,2010,2010,0.98,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,112,112,1,liquid urea ammonium nitrate,2010,2010,1.4125,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,140,140,1,liquid urea ammonium nitrate,2010,2010,1.795,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,168,168,1,liquid urea ammonium nitrate,2010,2010,2.47,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,196,196,1,liquid urea ammonium nitrate,2010,2010,3.63,NA,NA,NA,NA,switchgrass,static chamber,26,178,5/17/2010,11/11/2010,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,0,0,1,liquid urea ammonium nitrate,2011,2011,0.2925,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,28,28,1,liquid urea ammonium nitrate,2011,2011,0.5425,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,56,56,1,liquid urea ammonium nitrate,2011,2011,0.9325,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,84,84,1,liquid urea ammonium nitrate,2011,2011,1.3475,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,112,112,1,liquid urea ammonium nitrate,2011,2011,1.6075,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,140,140,1,liquid urea ammonium nitrate,2011,2011,2.2075,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,168,168,1,liquid urea ammonium nitrate,2011,2011,3.045,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_2016,196,196,1,liquid urea ammonium nitrate,2011,2011,4.59,NA,NA,NA,NA,switchgrass,static chamber,32,183,5/19/2011,11/18/2011,linear interpolation,cumulative (annual) values in data sheet don't seem to line up with linear interps when done in R (start/end of yr issue..? )
+Ruan_snow_2016,ambient-snow,85,NA,urea ammonium nitrate,2011,2011,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,ambient-snow,85,NA,urea ammonium nitrate,2012,2012,NA,7.40E-02,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,ambient-snow,85,NA,urea ammonium nitrate,2013,2013,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,double-snow,85,NA,urea ammonium nitrate,2011,2011,NA,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,double-snow,85,NA,urea ammonium nitrate,2012,2012,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,double-snow,85,NA,urea ammonium nitrate,2013,2013,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,no-snow,85,NA,urea ammonium nitrate,2011,2011,NA,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,no-snow,85,NA,urea ammonium nitrate,2012,2012,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Ruan_snow_2016,no-snow,85,NA,urea ammonium nitrate,2013,2013,NA,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,linear interpolation,NA
+Gelfand_2011,M1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2011,M2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2011,M3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2011,M4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oates_KBS_2015,G10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NDMAGWP,CWP,45,NA,NA,2003,2006,2.9,8.6,NA,NA,NA,pasture,static chamber,20,NA,10/21/2003,10/24/2006,NA,no info in paper
+NDMAGWP,HGP,0,NA,NA,2003,2006,1,3.1,NA,NA,NA,pasture,static chamber,20,NA,10/21/2003,10/24/2006,NA,right is grazing days
+NDMAGWP,MGP,0,NA,NA,2003,2006,1.1,3.3,NA,NA,NA,pasture,static chamber,20,NA,10/21/2003,10/24/2006,NA,NA
+NDMAHGPE,control,0,NA,NA,2005,2005,NA,NA,NA,NA,NA,pasture,static chamber,NA,43,7/13/2005,8/25/2005,NA,no emission data
+NDMAHGPE,NH4NO3,336,NA,NH4NO3,2005,2005,NA,NA,NA,NA,NA,pasture,static chamber,NA,43,7/13/2005,8/25/2005,NA,NA
+NDMAHGPE,Urine,336,NA,Urine,2005,2005,NA,NA,NA,NA,NA,pasture,static chamber,NA,43,7/13/2005,8/25/2005,NA,NA
+NDMAHGPE,Tannin_urine,336,NA,Tannin urine,2005,2005,NA,NA,NA,NA,NA,pasture,static chamber,NA,43,7/13/2005,8/25/2005,NA,NA
+NDMASQMF,Fallow,101,NA,NA,NA,NA,NA,1.8,NA,NA,NA,fallow,static chamber,NA,566,10/18/2006,5/6/2008,NA,NA
+NDMASQMF,SR,101,NA,NA,NA,NA,NA,1.8,NA,NA,NA,fallow,static chamber,NA,566,10/18/2006,5/6/2008,NA,NA
+MTSIFERE,CHEM_CA,NA,NA,NA,2010,2010,0.84,NA,NA,NA,NA,alfalfa,static chamber,NA,NA,NA,NA,linear,May-Oct
+MTSIFERE,CHEM_CA,NA,NA,NA,2011,2011,0.42,NA,NA,NA,NA,alfalfa,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,CHEM_CSW,202,NA,Urea,2010,2010,4.11,NA,NA,NA,NA,spring wheat,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,CHEM_CSW,202,NA,Urea,2011,2011,0.79,NA,NA,NA,NA,spring wheat,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,CHEM_WP/BF,252,NA,Urea,2010,2010,1.62,NA,NA,NA,NA,spring wheat-pea/barley hay,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,CHEM_WP/BF,134,NA,Urea,2011,2011,0.51,NA,NA,NA,NA,pea/barley hay-fallow,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,GRAZ_CA,NA,NA,NA,2010,2010,3.14,NA,NA,NA,NA,alfalfa,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,GRAZ_CA,NA,NA,NA,2011,2011,0.39,NA,NA,NA,NA,alfalfa,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,GRAZ_CSW,202,NA,Urea,2010,2010,3.92,NA,NA,NA,NA,spring wheat,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,GRAZ_CSW,202,NA,Urea,2011,2011,1.35,NA,NA,NA,NA,spring wheat,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,GRAZ_WP/BF,252,NA,Urea,2010,2010,1.92,NA,NA,NA,NA,spring wheat-pea/barley hay,static chamber,NA,NA,NA,NA,linear,NA
+MTSIFERE,GRAZ_WP/BF,134,NA,Urea,2011,2011,0.74,NA,NA,NA,NA,pea/barley hay-fallow,static chamber,NA,NA,NA,NA,linear,NA
+MTSINVND,irrigated_CTBN,134,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,static vented chamber,NA,NA,NA,NA,linear,NA
+MTSINVND,irrigated_CTBN,134,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_CTBN,134,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_CTBN,134,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_CTBO,0,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_CTBO,0,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_CTBO,0,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_CTBO,0,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTB-P,134,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTB-P,134,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTB-P,134,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTB-P,134,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBN,134,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBN,134,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBN,134,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBN,134,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBO,0,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBO,0,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBO,0,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,irrigated_NTBO,0,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBN,67,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBN,67,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBN,67,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBN,67,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBO,0,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBO,0,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBO,0,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_CTBO,0,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTB-P,67,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTB-P,67,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTB-P,67,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTB-P,67,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley–pea,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBN,67,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBN,67,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBN,67,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBN,67,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBO,0,NA,Urea,2008,2008,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBO,0,NA,Urea,2009,2009,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBO,0,NA,Urea,2010,2010,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSINVND,nonirrigated_NTBO,0,NA,Urea,2011,2011,NA,NA,NA,NA,NA,malt barley,NA,NA,NA,NA,NA,NA,NA
+MTSIASRU,NTCB_0N,NA,NA,NA,2008,2011,NA,0.285,7/21/2008,11/9/2011,NA,melt barley,static chamber,88,1206,7/21/2008,11/9/2011,linear,NA
+MTSIASRU,NTCB_80N,80,NA,Urea,2008,2011,NA,0.299,7/21/2008,11/9/2011,NA,melt barley,static chamber,88,1206,7/21/2008,11/9/2011,linear,NA
+MTSIASRU,NTB-P_0N,NA,NA,NA,2008,2011,NA,0.312,7/21/2008,11/9/2011,NA,melt barley - pea,static chamber,88,1206,7/21/2008,11/9/2011,linear,NA
+MTSIASRU,NTB-P_80N,80,NA,Urea,2008,2011,NA,0.378,7/21/2008,11/9/2011,NA,melt barley - pea,static chamber,88,1206,7/21/2008,11/9/2011,linear,NA
+MTSIASRU,CTB-F_0N,NA,NA,NA,2008,2011,NA,0.327,7/21/2008,11/9/2011,NA,melt barley - fallow,static chamber,88,1206,7/21/2008,11/9/2011,linear,NA
+MTSIASRU,CTB-F_80N,80,NA,Urea,2008,2011,NA,0.302,7/21/2008,11/9/2011,NA,melt barley - fallow,static chamber,88,1206,7/21/2008,11/9/2011,linear,NA
+KYBGGHG,SuperU,168,NA,SuperU(46% N),2009,2009,NA,2.85,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,SuperU,168,NA,SuperU(46% N),2010,2010,NA,1.83,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,UAN,168,NA,liquid UAN(28% N),2009,2009,NA,3.94,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,UAN,168,NA,liquid UAN(28% N),2010,2010,NA,1.61,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,UAN+AgrotainPlus,168,NA,UAN+AgrotainPlus,2009,2009,NA,3.9,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,UAN+AgrotainPlus,168,NA,UAN+AgrotainPlus,2010,2010,NA,1.8,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,ESN,168,NA,ESN(44% N),2009,2009,NA,5.69,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,ESN,168,NA,ESN(44% N),2010,2010,NA,3.3,10/29/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,Urea,168,NA,dry granular urea (46% N),2009,2009,NA,3.31,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,Urea,168,NA,dry granular urea (46% N),2010,2010,NA,1.7,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,NH4NO3,168,NA,ammonium nitrate(34% N),2009,2009,NA,5.97,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,NH4NO3,168,NA,ammonium nitrate(34% N),2010,2010,NA,2.03,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,Poultry litter,168,NA,Poultry litter(3% N),2009,2009,NA,5.81,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,Poultry litter,168,NA,Poultry litter(3% N),2010,2010,NA,10.85,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,Poultry litter+AgrotainPlus,168,NA,Poultry little+AgrotainPlus,2009,2009,NA,6.6,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,Poultry litter+AgrotainPlus,168,NA,Poultry little+AgrotainPlus,2010,2010,NA,8.9,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+KYBGGHG,Control,NA,NA,NA,2009,2009,NA,1.33,5/1/2009,9/22/2009,NA,corn,chamber,144,144,5/1/2009,9/22/2009,linear,NA
+KYBGGHG,Control,NA,NA,NA,2010,2010,NA,1.01,5/21/2010,9/23/2010,NA,corn,chamber,125,125,5/21/2010,9/23/2010,linear,NA
+INWLTPAC,CT,193,NA,UAN/DAP,2004,2007,3.1,NA,NA,NA,NA,corn-soybean,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,NT,193,NA,UAN/DAP,2004,2007,2.66,NA,NA,NA,NA,corn-soybean,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,NT_cover crop,193,NA,UAN/DAP,2004,2007,3.24,NA,NA,NA,NA,corn-soybean,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,NT_split,168,NA,UAN,2004,2007,2.64,NA,NA,NA,NA,corn-soybean,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,PT,107,NA,UAN,2004,2007,1.92,NA,NA,NA,NA,corn-soybean,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,native grass,0,NA,NA,2004,2007,0.57,NA,NA,NA,NA,native grass,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,biomass_mow+till,135.5,NA,Urea,2004,2007,3.38,NA,NA,NA,NA,sorghum-sudangrass,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,biomass_remove2,135.5,NA,Urea,2004,2007,2.61,NA,NA,NA,NA,sorghum-sudangrass,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+INWLTPAC,biomass_mow2,135.5,NA,Urea,2004,2007,3,NA,NA,NA,NA,sorghum-sudangrass,chamber,NA,2030,4/6/2004,10/27/2009,linear,NA
+MNRsmt,CC-AA,150,NA,anhydrous ammonia,2005,2007,NA,2.15,NA,NA,NA,Corn,static chamber,103,894,4/15/2005,9/26/2007,quadratic model,NA
+MNRsmt,CC-IU,150,NA,Urea,2005,2007,NA,1.01,NA,NA,NA,Corn,static chamber,103,894,4/15/2005,9/26/2007,quadratic model,NA
+MNRsmt,CS-AA,150,NA,anhydrous ammonia,2005,2007,NA,1.37,NA,NA,NA,"Corn, Soybean",static chamber,103,894,4/15/2005,9/26/2007,quadratic model,NA
+MNRsmt,CS-IU,150,NA,Urea,2005,2007,NA,0.8,NA,NA,NA,"Corn, Soybean",static chamber,103,894,4/15/2005,9/26/2007,quadratic model,NA
+MNRsmt,SC-AA,150,NA,anhydrous ammonia,2005,2007,NA,NA,NA,NA,NA,"Corn, Soybean",static chamber,73,894,4/15/2005,9/26/2007,NA,NA
+MNRsmt,SC-IU,150,NA,Urea,2005,2007,NA,NA,NA,NA,NA,"Corn, Soybean",static chamber,73,894,4/15/2005,9/26/2007,NA,NA
+IDKM,control,0,NA,NA,2013,2013,NA,0.21,5/20/2013,10/30/2013,NA,corn,chamber,NA,164,5/20/2013,10/30/2013,FORECAST function,NA
+IDKM,urea,186,NA,granular urea,2013,2013,NA,0.59,5/20/2013,10/30/2013,NA,corn,chamber,NA,164,5/20/2013,10/30/2013,FORECAST function,NA
+IDKM,SuperU,186,NA,SuperU,2013,2013,NA,0.28,5/20/2013,10/30/2013,NA,corn,chamber,NA,164,5/20/2013,10/30/2013,FORECAST function,NA
+IDKM,compost+urea,168,NA,composted dairy manure and granular urea,2013,2013,NA,0.66,5/20/2013,10/30/2013,NA,corn,chamber,NA,164,5/20/2013,10/30/2013,FORECAST function,NA
+IDKM,fall manure,NA,NA,dairy manure,2013,2013,NA,0.46,5/20/2013,10/30/2013,NA,corn,chamber,NA,164,5/20/2013,10/30/2013,FORECAST function,NA
+IDKM,spring manure,570,NA,dairy manure,2013,2013,NA,0.54,5/20/2013,10/30/2013,NA,corn,chamber,NA,164,5/20/2013,10/30/2013,FORECAST function,NA
+IDKM,control,NA,NA,NA,2014,2014,NA,0.4,3/5/2014,12/10/2014,NA,barley,chamber,NA,281,3/5/2014,12/10/2014,FORECAST function,NA
+IDKM,urea,NA,NA,granular urea,2014,2014,NA,0.44,3/5/2014,12/10/2014,NA,barley,chamber,NA,281,3/5/2014,12/10/2014,FORECAST function,NA
+IDKM,SuperU,NA,NA,SuperU,2014,2014,NA,0.43,3/5/2014,12/10/2014,NA,barley,chamber,NA,281,3/5/2014,12/10/2014,FORECAST function,NA
+IDKM,compost+urea,350,NA,composted dairy manure and granular urea,2014,2014,NA,0.52,3/5/2014,12/10/2014,NA,barley,chamber,NA,281,3/5/2014,12/10/2014,FORECAST function,NA
+IDKM,fall manure,1194,NA,dairy manure,2014,2014,NA,1.5,3/5/2014,12/10/2014,NA,barley,chamber,NA,281,3/5/2014,12/10/2014,FORECAST function,NA
+IDKM,spring manure,NA,NA,dairy manure,2014,2014,NA,1.5,3/5/2014,12/10/2014,NA,barley,chamber,NA,281,3/5/2014,12/10/2014,FORECAST function,NA
+IDKM,control,0,NA,NA,2015,2015,NA,0.36,1/8/2015,11/10/2015,NA,alfalfa,chamber,NA,307,1/8/2015,11/10/2015,FORECAST function,NA
+IDKM,urea,67,NA,granular urea,2015,2015,NA,0.47,1/8/2015,11/10/2015,NA,alfalfa,chamber,NA,307,1/8/2015,11/10/2015,FORECAST function,NA
+IDKM,SuperU,67,NA,SuperU,2015,2015,NA,0.48,1/8/2015,11/10/2015,NA,alfalfa,chamber,NA,307,1/8/2015,11/10/2015,FORECAST function,NA
+IDKM,compost+urea,67,NA,composted dairy manure and granular urea,2015,2015,NA,0.55,1/8/2015,11/10/2015,NA,alfalfa,chamber,NA,307,1/8/2015,11/10/2015,FORECAST function,NA
+IDKM,fall manure,NA,NA,dairy manure,2015,2015,NA,0.94,1/8/2015,11/10/2015,NA,alfalfa,chamber,NA,307,1/8/2015,11/10/2015,FORECAST function,NA
+IDKM,spring manure,937,NA,dairy manure,2015,2015,NA,0.81,1/8/2015,11/10/2015,NA,alfalfa,chamber,NA,307,1/8/2015,11/10/2015,FORECAST function,NA
+COFOARD1,N0,0,NA,NA,2003,2006,NA,0.2488,NA,NA,NA,corn,chamber,NA,NA,NA,NA,linear,NA
+COFOARD1,N67,67,NA,Urea,2003,2006,NA,0.686,NA,NA,NA,corn,chamber,NA,NA,NA,NA,linear,NA
+COFOARD1,N134,134,NA,Urea,2003,2006,NA,1.153,NA,NA,NA,corn,chamber,NA,NA,NA,NA,linear,NA
+COFOARD1,N202,202,NA,Urea,2003,2006,NA,1.936,NA,NA,NA,corn,chamber,NA,NA,NA,NA,linear,NA
+COFOARD4,Control,0,NA,NA,2012,2013,NA,0.511,3/20/2012,3/19/2013,NA,corn,static vented chamber,365,365,3/20/2012,3/19/2013,linear,"regression used, R2 < 0.9 thrown out,etc…"
+COFOARD4,Control,0,NA,NA,2013,2014,NA,0.539,3/20/2013,3/19/2014,NA,corn,static vented chamber,365,365,3/20/2013,3/19/2014,linear,NA
+COFOARD4,Control,0,NA,NA,2014,2015,NA,0.615,3/20/2014,3/19/2015,NA,corn,static vented chamber,365,365,3/20/2014,3/19/2015,linear,NA
+COFOARD4,DM,412,NA,dairy manure,2012,2013,NA,1.026,3/20/2012,3/19/2013,NA,corn,static vented chamber,365,365,3/20/2012,3/19/2013,linear,NA
+COFOARD4,DM,NA,NA,dairy manure,2013,2014,NA,1.039,3/20/2013,3/19/2014,NA,corn,static vented chamber,365,365,3/20/2013,3/19/2014,linear,NA
+COFOARD4,DM,NA,NA,dairy manure,2014,2015,NA,0.844,3/20/2014,3/19/2015,NA,corn,static vented chamber,365,365,3/20/2014,3/19/2015,linear,NA
+COFOARD4,DM+AP,412,NA,dairy manure plus AgrotainPlus,2012,2013,NA,1.011,3/20/2012,3/19/2013,NA,corn,static vented chamber,365,365,3/20/2012,3/19/2013,linear,NA
+COFOARD4,DM+AP,NA,NA,dairy manure plus AgrotainPlus,2013,2014,NA,1.09,3/20/2013,3/19/2014,NA,corn,static vented chamber,365,365,3/20/2013,3/19/2014,linear,NA
+COFOARD4,DM+AP,NA,NA,dairy manure plus AgrotainPlus,2014,2015,NA,0.839,3/20/2014,3/19/2015,NA,corn,static vented chamber,365,365,3/20/2014,3/19/2015,linear,NA
+COFOARD4,SU,179,NA,SuperU,2012,2013,NA,0.839,3/20/2012,3/19/2013,NA,corn,static vented chamber,365,365,3/20/2012,3/19/2013,linear,NA
+COFOARD4,SU,NA,NA,SuperU,2013,2014,NA,0.899,3/20/2013,3/19/2014,NA,corn,static vented chamber,365,365,3/20/2013,3/19/2014,linear,NA
+COFOARD4,SU,NA,NA,SuperU,2014,2015,NA,0.86,3/20/2014,3/19/2015,NA,corn,static vented chamber,365,365,3/20/2014,3/19/2015,linear,NA
+COFOARD4,Urea,179,NA,Urea,2012,2013,NA,1.261,3/20/2012,3/19/2013,NA,corn,static vented chamber,365,365,3/20/2012,3/19/2013,linear,NA
+COFOARD4,Urea,NA,NA,Urea,2013,2014,NA,0.833,3/20/2013,3/19/2014,NA,corn,static vented chamber,365,365,3/20/2013,3/19/2014,linear,NA
+COFOARD4,Urea,NA,NA,Urea,2014,2015,NA,0.899,3/20/2014,3/19/2015,NA,corn,static vented chamber,365,365,3/20/2014,3/19/2015,linear,NA
+COFOARD3,Urea_st,202,NA,Urea,2009,2009,NA,1.698,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,ESNssb_st,202,NA,ESN,2009,2009,NA,0.856,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,ESN_st,202,NA,ESN,2009,2009,NA,0.716,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,SuperU_st,202,NA,SuperU,2009,2009,NA,0.631,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,UAN_st,202,NA,UAN,2009,2009,NA,0.765,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,UANplusNf_st,202,NA,UAN,2009,2009,NA,0.468,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,UANplusAgroT_st,202,NA,UAN,2009,2009,NA,0.352,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,Blank,0,NA,NA,2009,2009,NA,0.136,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,Check_st,0,NA,NA,2009,2009,NA,9.90E-02,5/5/2009,9/29/2009,NA,corn,static vented chamber,NA,321,5/5/2009,3/22/2010,linear interpolation,NA
+COFOARD3,Urea_st,202,NA,Urea,2010,2010,NA,1.726,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,ESNssb_st,202,NA,ESN,2010,2010,NA,1.439,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,ESN_st,202,NA,ESN,2010,2010,NA,1.028,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,SuperU_st,202,NA,SuperU,2010,2010,NA,0.972,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,UAN_st,202,NA,UAN,2010,2010,NA,1.214,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,UANplusNf_st,202,NA,UAN,2010,2010,NA,1.001,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,UANplusAgroT_st,202,NA,UAN,2010,2010,NA,0.665,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,Blank,0,NA,NA,2010,2010,NA,0.172,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+COFOARD3,Check_st,0,NA,NA,2010,2010,NA,0.123,5/6/2010,9/29/2010,NA,corn,static vented chamber,NA,174,5/6/2010,10/27/2010,linear interpolation,NA
+CONUNRBS,NR-U,430,NA,Urine,2012,2013,NA,0.8,6/19/2012,6/18/2013,NA,C4 grass,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,NR-F,940,NA,feces,2012,2013,NA,1.26,6/19/2012,6/18/2013,NA,C4 grass,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,NR-Cw,0,NA,NA,2012,2013,NA,0.31,6/19/2012,6/18/2013,NA,C4 grass,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,NR-Cb,0,NA,NA,2012,2013,NA,0.33,6/19/2012,6/18/2013,NA,C4 grass,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,BS-U,430,NA,Urine,2012,2013,NA,0.94,6/19/2012,6/18/2013,NA,C3 pasture,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,BS-F,940,NA,feces,2012,2013,NA,1.27,6/19/2012,6/18/2013,NA,C3 pasture,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,BS-Cw,0,NA,NA,2012,2013,NA,0.37,6/19/2012,6/18/2013,NA,C3 pasture,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,BS-Cb,0,NA,NA,2012,2013,NA,0.37,6/19/2012,6/18/2013,NA,C3 pasture,static chamber,70,359,6/19/2012,6/13/2013,linear,NA
+CONUNRBS,NR-U,430,NA,Urine,2013,2014,NA,0.37,6/19/2013,5/27/2014,NA,C4 grass,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,NR-F,940,NA,feces,2013,2014,NA,0.56,6/19/2013,5/27/2014,NA,C4 grass,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,NR-Cw,0,NA,NA,2013,2014,NA,0.24,6/19/2013,5/27/2014,NA,C4 grass,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,NR-Cb,0,NA,NA,2013,2014,NA,0.28,6/19/2013,5/27/2014,NA,C4 grass,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,BS-U,430,NA,Urine,2013,2014,NA,0.31,6/19/2013,5/27/2014,NA,C3 pasture,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,BS-F,940,NA,feces,2013,2014,NA,0.39,6/19/2013,5/27/2014,NA,C3 pasture,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,BS-Cw,0,NA,NA,2013,2014,NA,0.24,6/19/2013,5/27/2014,NA,C3 pasture,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+CONUNRBS,BS-Cb,0,NA,NA,2013,2014,NA,0.28,6/19/2013,5/27/2014,NA,C3 pasture,static chamber,42,340,6/21/2013,5/27/2014,linear,NA
+MNSP4R,U-S100,146,NA,Urea,2014,2015,NA,0.867,5/19/2014,4/27/2015,NA,corn,nonsteady-state chamber,68,505,4/21/2014,9/8/2015,trapezoidal integration,NA
+MNSP4R,U-Sp100,146,NA,Urea,2014,2015,NA,0.876,5/19/2014,4/27/2015,NA,corn,nonsteady-state chamber,68,505,4/21/2014,9/8/2015,trapezoidal integration,NA
+MNSP4R,U-Sp85,124,NA,Urea,2014,2015,NA,0.911,5/19/2014,4/27/2015,NA,corn,nonsteady-state chamber,68,505,4/21/2014,9/8/2015,trapezoidal integration,NA
+MNSP4R,UI-Sp100,146,NA,Urea,2014,2015,NA,0.823,5/19/2014,4/27/2015,NA,corn,nonsteady-state chamber,68,505,4/21/2014,9/8/2015,trapezoidal integration,NA
+MNSP4R,UI-Sp85,124,NA,Urea,2014,2015,NA,0.659,5/19/2014,4/27/2015,NA,corn,nonsteady-state chamber,68,505,4/21/2014,9/8/2015,trapezoidal integration,NA
+MNSP4R,zero-N,0,NA,NA,2014,2015,NA,0.436,5/19/2014,4/27/2015,NA,corn,nonsteady-state chamber,68,505,4/21/2014,9/8/2015,trapezoidal integration,NA
+NDMAH3,NDMAH3_B,70,NA,Urea,2008,2008,NA,NA,4/4/2008,8/26/2008,NA,corn,chamber,68,228,4/4/2008,11/18/2008,linear mixed,NA
+NDMAH3,NDMAH3_T,70,NA,Urea,2008,2008,NA,NA,4/4/2008,8/26/2008,NA,corn,chamber,70,228,4/4/2008,11/18/2008,linear mixed,NA
+NDMAH3,NDMAH3_C,0,NA,NA,2008,2008,NA,NA,4/4/2008,8/26/2008,NA,Rangeland,chamber,27,71,6/3/2008,8/13/2008,linear mixed,less info for this Trt in paper
+SDaltrot,ConvSys 4yr rot ST YF,48,NA,ammonium nitrate,2007,2008,NA,0.817,5/1/2007,4/30/2008,NA,corn,static chamber,17,328,5/23/2007,4/15/2008,linear,NA
+SDaltrot,ConvSys 4yr rot ST YF,54,NA,ammonium nitrate,2008,2009,NA,1.43,5/1/2008,4/30/2009,NA,pea,static chamber,9,293,6/10/2008,3/30/2009,linear,NA
+SDaltrot,ConvSys 4yr rot ST YF,73,NA,ammonium nitrate,2009,2010,NA,1.36,5/1/2009,4/30/2010,NA,winter wheat,static chamber,14,321,5/29/2009,4/15/2010,linear,NA
+SDaltrot,ConvSys 4yr rot ST YF,73,NA,ammonium nitrate,2010,2011,NA,1.54,5/1/2010,4/30/2011,NA,soybean,static chamber,14,336,5/27/2010,4/28/2011,linear,NA
+SDaltrot,ConvSys 2yr rot CT YF,48,NA,ammonium nitrate,2007,2008,NA,0.866,5/1/2007,4/30/2008,NA,corn,static chamber,17,328,5/23/2007,4/15/2008,linear,NA
+SDaltrot,ConvSys 2yr rot CT YF,54,NA,ammonium nitrate,2008,2009,NA,1.13,5/1/2008,4/30/2009,NA,soybean,static chamber,9,293,6/10/2008,3/30/2009,linear,NA
+SDaltrot,ConvSys 2yr rot CT YF,73,NA,ammonium nitrate,2009,2010,NA,1.14,5/1/2009,4/30/2010,NA,corn,static chamber,14,321,5/29/2009,4/15/2010,linear,NA
+SDaltrot,ConvSys 2yr rot CT YF,73,NA,ammonium nitrate,2010,2011,NA,1.33,5/1/2010,4/30/2011,NA,soybean,static chamber,14,336,5/27/2010,4/28/2011,linear,NA
+NDMASQMF,Fallow,110,NA,ammonium nitrate,2006,2008,NA,1.8,10/18/2006,5/6/2008,NA,Spring wheat-fallow,static chamber,53,566,10/18/2006,5/6/2008,linear,no data for each year
+NDMASQMF,SR,110,NA,ammonium nitrate,2006,2008,NA,1.8,10/18/2006,5/6/2008,NA,Spring wheat-safflower-Rye (fallow),static chamber,53,566,10/18/2006,5/6/2008,linear,NA
+China_CS,C0N0,0,NA,NA,2010,2010,NA,0.23,7/24/2010,10/18/2010,NA,double rice,static chamber,13,87,7/24/2010,10/18/2010,linear,NA
+China_CS,C0N20,240,NA,Urea,2010,2010,NA,1.46,7/24/2010,10/18/2010,NA,double rice,static chamber,13,87,7/24/2010,10/18/2010,linear,NA
+China_CS,C20N20,240,NA,Urea,2010,2010,NA,1.06,7/24/2010,10/18/2010,NA,double rice,static chamber,13,87,7/24/2010,10/18/2010,linear,NA
+China_CS,C40N20,240,NA,Urea,2010,2010,NA,0.72,7/24/2010,10/18/2010,NA,double rice,static chamber,13,87,7/24/2010,10/18/2010,linear,NA
+China_JX,C0N0,0,NA,NA,2010,2010,NA,0.09,8/3/2010,11/3/2010,NA,double rice,static chamber,14,93,8/3/2010,11/3/2010,linear,NA
+China_JX,C0N20,300,NA,Urea,2010,2010,NA,1.47,8/3/2010,11/3/2010,NA,double rice,static chamber,14,93,8/3/2010,11/3/2010,linear,NA
+China_JX,C20N20,300,NA,Urea,2010,2010,NA,0.79,8/3/2010,11/3/2010,NA,double rice,static chamber,14,93,8/3/2010,11/3/2010,linear,NA
+China_JX,C40N20,300,NA,Urea,2010,2010,NA,0.68,8/3/2010,11/3/2010,NA,double rice,static chamber,14,93,8/3/2010,11/3/2010,linear,NA
+China_GH,C0N0,0,NA,NA,2010,2010,NA,0.11,6/13/2010,9/23/2010,NA,rice-winter wheat,static chamber,15,103,6/13/2010,9/23/2010,linear,NA
+China_GH,C0N1,240,NA,Urea,2010,2010,NA,1.88,6/13/2010,9/23/2010,NA,rice-winter wheat,static chamber,15,103,6/13/2010,9/23/2010,linear,NA
+China_GH,C1N1,240,NA,Urea,2010,2010,NA,1.33,6/13/2010,9/23/2010,NA,rice-winter wheat,static chamber,15,103,6/13/2010,9/23/2010,linear,NA
+China_GH,C2N1,240,NA,Urea,2010,2010,NA,0.87,6/13/2010,9/23/2010,NA,rice-winter wheat,static chamber,15,103,6/13/2010,9/23/2010,linear,NA
+guangdi.76_autoChamber,NoTill_0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_autoChamber,NoTill_100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_autoChamber,Till_0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_autoChamber,Till_100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_manualChamber,Trt_2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_manualChamber,Trt_2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_manualChamber,Trt_2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_pasture,Lucerne_Mono,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_pasture,Phalaris_Lucerne_Mix_Subclover,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_pasture,Phalaris_Subclover_Mix,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.76_pasture,Subclover_Mono,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+guangdi.???,normal urea,0,NA,NA,2012,2013,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,NA,NA
+guangdi.???,normal urea,100,NA,NA,2012,2013,NA,NA,NA,NA,NA,NA,auto chamber,NA,NA,NA,NA,NA,NA
+guangdi.???,ENTEC,0,NA,NA,2012,2013,NA,NA,NA,NA,NA,wheat,manual chamber,16,219,NA,NA,regression,"developed from urea autochamber treatments at this site, n2o = 82.725x^0.728, where x is days since major rainfall events"
+guangdi.???,ENTEC,100,NA,NA,2012,2013,NA,53.8,NA,NA,NA,wheat,manual chamber,16,219,NA,NA,regression,"developed from urea autochamber treatments at this site, n2o = 82.725x^0.728, where x is days since major rainfall events"
+guangdi.???,normal urea,0,NA,NA,2012,2013,NA,NA,NA,NA,NA,canola,manual chamber,32,296,NA,NA,regression,"developed from urea autochamber treatments at this site, n2o = 82.725x^0.728, where x is days since major rainfall events"
+guangdi.???,normal urea,100,NA,NA,2012,2013,NA,NA,NA,NA,NA,canola,manual chamber,32,296,NA,NA,regression,"developed from urea autochamber treatments at this site, n2o = 82.725x^0.728, where x is days since major rainfall events"
+guangdi.???,normal urea,0,NA,NA,2012,2013,NA,44.9,NA,NA,NA,wheat,manual chamber,16,219,NA,NA,regression,"developed from urea autochamber treatments at this site, n2o = 82.725x^0.728, where x is days since major rainfall events"
+guangdi.???,normal urea,100,NA,NA,2012,2013,NA,80.9,NA,NA,NA,wheat,manual chamber,16,219,NA,NA,regression,"developed from urea autochamber treatments at this site, n2o = 82.725x^0.728, where x is days since major rainfall events"
+Fuchs.Chamau,ParcelA.Control,NA,NA,NA,2013,2013,5.35,NA,NA,NA,NA,pasture,eddy covariance,348,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelA.Control,NA,NA,NA,2014,2014,5.59,NA,NA,NA,NA,pasture,eddy covariance,360,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelA.Control,NA,NA,NA,2015,2015,3.93,NA,NA,NA,NA,pasture,eddy covariance,345,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelA.Control,NA,NA,NA,2016,2016,5.94,NA,NA,NA,NA,pasture,eddy covariance,278,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelB.Control,NA,NA,NA,2013,2013,4.92,NA,NA,NA,NA,pasture,eddy covariance,361,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelB.Control,NA,NA,NA,2014,2014,4.93,NA,NA,NA,NA,pasture,eddy covariance,365,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelB.Clover,NA,NA,NA,2015,2015,2.17,NA,NA,NA,NA,pasture,eddy covariance,346,365,NA,NA,NA,NA
+Fuchs.Chamau,ParcelB.Clover,NA,NA,NA,2016,2016,3.85,NA,NA,NA,NA,pasture,eddy covariance,281,365,NA,NA,NA,NA
+AC0101_Cambridgeshire,Ammonium nitrate 140 kg N ha,140,NA,NA,2008,NA,1.543029768,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 140 kg N ha,140,NA,NA,2007,NA,1.543029768,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 210 kg N ha,210,NA,NA,2007,NA,1.993653109,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 210 kg N ha,210,NA,NA,2008,NA,1.993653109,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 280 kg N ha,280,NA,NA,2008,NA,2.772467388,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 280 kg N ha,280,NA,NA,2007,NA,2.772467388,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 350 kg N ha,350,NA,NA,2008,NA,4.51643755,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 350 kg N ha,350,NA,NA,2007,NA,4.51643755,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 70 kg N ha,70,NA,NA,2008,NA,0.81392341,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Ammonium nitrate 70 kg N ha,70,NA,NA,2007,NA,0.81392341,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Control,0,NA,NA,2008,NA,0.47861311,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Cambridgeshire,Control,0,NA,NA,2007,NA,0.47861311,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 130 kg N ha,130,NA,NA,2007,NA,4.477246873,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 140 kg N ha,140,NA,NA,2008,NA,3.864745955,NA,NA,NA,NA,Winter Wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 160 kg N ha,160,NA,NA,2007,NA,6.428613639,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 200 kg N ha,200,NA,NA,2007,NA,6.822615177,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 210 kg N ha,210,NA,NA,2008,NA,7.150683431,NA,NA,NA,NA,Winter Wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 280 kg N ha,280,NA,NA,2008,NA,8.016188206,NA,NA,NA,NA,Winter Wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 350 kg N ha,350,NA,NA,2008,NA,9.192507847,NA,NA,NA,NA,Winter Wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 70 kg N ha,70,NA,NA,2007,NA,3.452235631,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 70 kg N ha,70,NA,NA,2008,NA,3.452235631,NA,NA,NA,NA,Winter Wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Ammonium nitrate 90 kg N ha,90,NA,NA,2007,NA,4.468160606,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Control,0,NA,NA,2007,NA,1.872113466,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Devon,Control,0,NA,NA,2008,NA,1.872113466,NA,NA,NA,NA,Winter Wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 140 kg N ha,140,NA,NA,2007,NA,2.52256526,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 140 kg N ha,140,NA,NA,2008,NA,2.52256526,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 210 kg N ha,210,NA,NA,2007,NA,2.916082911,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 210 kg N ha,210,NA,NA,2008,NA,2.916082911,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 280 kg N ha,280,NA,NA,2008,NA,3.21222778,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 280 kg N ha,280,NA,NA,2007,NA,3.21222778,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 350 kg N ha,350,NA,NA,2008,NA,4.003869772,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 350 kg N ha,350,NA,NA,2007,NA,4.003869772,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 70 kg N ha,70,NA,NA,2007,NA,2.005237243,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Ammonium nitrate 70 kg N ha,70,NA,NA,2008,NA,2.005237243,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Control,0,NA,NA,2008,NA,1.310607891,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0101_Nottinghamshire,Control,0,NA,NA,2007,NA,1.310607891,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Cattle slurry,83.725,NA,NA,2010,NA,0.911845042,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Cattle slurry,83.725,NA,NA,2011,NA,0.911845042,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Cattle slurry,83.725,NA,NA,2009,NA,0.911845042,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Cattle slurry,83.725,NA,NA,2010,NA,0.911845042,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Control,0,NA,NA,2009,NA,0.531604152,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Control,0,NA,NA,2011,NA,0.531604152,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Control,0,NA,NA,2010,NA,0.531604152,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Cambridgeshire,Control,0,NA,NA,2010,NA,0.531604152,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2010,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2010,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2010,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2011,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2011,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2008,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2009,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - drained,146.1125,NA,NA,2009,NA,1.786250853,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2011,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2008,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2011,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2010,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2009,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2010,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2009,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Cattle slurry - undrained,145.6761905,NA,NA,2010,NA,1.646335302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2009,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2008,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2011,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2010,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2009,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2010,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2010,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - drained,0,NA,NA,2011,NA,1.003380443,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2009,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2009,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2008,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2010,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2010,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2011,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2011,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Devon,Control - undrained,0,NA,NA,2010,NA,0.279604902,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2011,NA,0.278106883,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2010,NA,0.278106883,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2011,NA,0.278106883,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2011,NA,0.278106883,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2010,NA,0.278106883,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2011,NA,0.278106883,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2010,NA,0.278106883,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2010,NA,0.278106883,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Cattle slurry,116.3,NA,NA,2010,NA,0.278106883,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2010,NA,0.121959997,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2011,NA,0.121959997,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2010,NA,0.121959997,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2010,NA,0.121959997,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2011,NA,0.121959997,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2010,NA,0.121959997,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2011,NA,0.121959997,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2010,NA,0.121959997,NA,NA,NA,NA,Winter oilseed rape,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0111_Oxfordshire,Control,0,NA,NA,2011,NA,0.121959997,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Ammonium nitrate 120 kg N ha,120,NA,NA,2011,NA,1.108545176,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Ammonium nitrate 160 kg N ha and dicyandiamide 20 kg N ha,180,NA,NA,2011,NA,1.036434257,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Ammonium nitrate 180 kg N ha,180,NA,NA,2011,NA,1.436641524,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Ammonium nitrate 240 kg N ha,240,NA,NA,2011,NA,1.288784663,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Ammonium nitrate 300 kg N ha,300,NA,NA,2011,NA,1.807469454,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Ammonium nitrate 60 kg N ha,60,NA,NA,2011,NA,1.236014609,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Control,0,NA,NA,2011,NA,0.765812525,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Dicyandiamide 20 kg N ha,20,NA,NA,2011,NA,0.726438621,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Urea 160 kg N ha and dicyandiamide 20 kg N ha,180,NA,NA,2011,NA,1.036352355,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Bedfordshire,Urea 180 kg N ha,180,NA,NA,2011,NA,1.194467295,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Ammonium nitrate 160 kg N ha,160,NA,NA,2013,NA,1.374650974,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Ammonium nitrate 240 kg N ha,240,NA,NA,2013,NA,1.76780106,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Ammonium nitrate 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2013,NA,1.555194472,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Ammonium nitrate 320 kg N ha,320,NA,NA,2013,NA,2.968534117,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Ammonium nitrate 400 kg N ha,400,NA,NA,2013,NA,3.159412388,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Ammonium nitrate 80 kg N ha,80,NA,NA,2013,NA,0.951346915,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle FYM,126.5,NA,NA,2011,NA,1.280554646,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle FYM,126.5,NA,NA,2012,NA,1.280554646,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry,45.5,NA,NA,2012,NA,1.006265426,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry,45.5,NA,NA,2012,NA,1.006265426,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry,45.5,NA,NA,2011,NA,1.006265426,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry,45.5,NA,NA,2011,NA,1.006265426,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry + DCD,52,NA,NA,2012,NA,0.998336908,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry + DCD,52,NA,NA,2011,NA,0.998336908,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry + DCD,52,NA,NA,2011,NA,0.998336908,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Cattle slurry + DCD,52,NA,NA,2012,NA,0.998336908,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Control,0,NA,NA,2013,NA,0.526108274,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Control,0,NA,NA,2013,NA,0.526108274,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Control,0,NA,NA,2011,NA,0.526108274,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Control,0,NA,NA,2013,NA,0.526108274,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Control,0,NA,NA,2012,NA,0.526108274,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Dicyandiamide 26 kg N ha,26,NA,NA,2013,NA,0.525140611,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Dung,819.3333333,NA,NA,2013,NA,3.125342495,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Dung,819.3333333,NA,NA,2013,NA,3.125342495,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Dung,819.3333333,NA,NA,2013,NA,3.125342495,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Synthetic urine,500.3333333,NA,NA,2013,NA,2.828284302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Synthetic urine,500.3333333,NA,NA,2013,NA,2.828284302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Synthetic urine,500.3333333,NA,NA,2013,NA,2.828284302,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urea 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2013,NA,0.464900077,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urea 320 kg N ha,320,NA,NA,2013,NA,2.061269636,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urine,546,NA,NA,2013,NA,3.232991048,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urine,546,NA,NA,2013,NA,3.232991048,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urine,546,NA,NA,2013,NA,3.232991048,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urine and dicyandiamide,553,NA,NA,2013,NA,1.438735776,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urine and dicyandiamide,553,NA,NA,2013,NA,1.438735776,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Ceredigion,Urine and dicyandiamide,553,NA,NA,2013,NA,1.438735776,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Calcium ammonium nitrate 160 kg N ha,160,NA,NA,2011,NA,1.133333333,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Calcium ammonium nitrate 240 kg N ha,240,NA,NA,2011,NA,1.743333333,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Calcium ammonium nitrate 320 kg N ha,320,NA,NA,2011,NA,1.611666667,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Calcium ammonium nitrate 320 kg N ha and dicyandiamide 26 kg N ha,346,NA,NA,2011,NA,1.893333333,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Calcium ammonium nitrate 400 kg N ha,400,NA,NA,2011,NA,2.813333333,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Calcium ammonium nitrate 80 kg N ha,80,NA,NA,2011,NA,0.716666667,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry,74,NA,NA,2012,NA,0.750168968,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry,74,NA,NA,2012,NA,0.750168968,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry,74,NA,NA,2013,NA,0.750168968,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry,74,NA,NA,2013,NA,0.750168968,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry + DCD,81,NA,NA,2013,NA,0.48760819,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry + DCD,81,NA,NA,2012,NA,0.48760819,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry + DCD,81,NA,NA,2013,NA,0.48760819,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Cattle slurry + DCD,81,NA,NA,2012,NA,0.48760819,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Control,0,NA,NA,2012,NA,0.245897366,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Control,0,NA,NA,2012,NA,0.245897366,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Control,0,NA,NA,2012,NA,0.245897366,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Control,0,NA,NA,2011,NA,0.245897366,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Control,0,NA,NA,2013,NA,0.245897366,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Control,0,NA,NA,2012,NA,0.245897366,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Dicyandiamide 26 kg N ha,20,NA,NA,2011,NA,0.183333333,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Dung,988,NA,NA,2012,NA,1.404699446,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Dung,988,NA,NA,2012,NA,1.404699446,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Dung,988,NA,NA,2012,NA,1.404699446,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Synthetic urine,505.3333333,NA,NA,2012,NA,4.500157403,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Synthetic urine,505.3333333,NA,NA,2012,NA,4.500157403,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Synthetic urine,505.3333333,NA,NA,2012,NA,4.500157403,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urea 320 kg N ha,320,NA,NA,2011,NA,1.173333333,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urea 320 kg N ha and dicyandiamide 26 kg N ha,346,NA,NA,2011,NA,0.306666667,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urea and Agrotain 320 kg N ha,320,NA,NA,2011,NA,1.58,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urea and Agrotain 320 kg N ha and DCD 26 kg N ha,346,NA,NA,2011,NA,0.356666667,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urine,374.6666667,NA,NA,2012,NA,2.098181793,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urine,374.6666667,NA,NA,2012,NA,2.098181793,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urine,374.6666667,NA,NA,2012,NA,2.098181793,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urine and dicyandiamide,374.6666667,NA,NA,2012,NA,1.05800244,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urine and dicyandiamide,374.6666667,NA,NA,2012,NA,1.05800244,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_County Down,Urine and dicyandiamide,374.6666667,NA,NA,2012,NA,1.05800244,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Ammonium nitrate 160 kg N ha,160,NA,NA,2013,NA,3.142256552,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Ammonium nitrate 240 kg N ha,240,NA,NA,2013,NA,4.33212974,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Ammonium nitrate 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2013,NA,7.130976704,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Ammonium nitrate 320 kg N ha,320,NA,NA,2013,NA,9.593272495,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Ammonium nitrate 400 kg N ha,400,NA,NA,2013,NA,12.53673919,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Ammonium nitrate 80 kg N ha,80,NA,NA,2013,NA,2.701640979,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle FYM,128.45,NA,NA,2011,NA,0.876569946,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle FYM,128.45,NA,NA,2012,NA,0.876569946,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry,66.20833333,NA,NA,2011,NA,0.669240697,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry,66.20833333,NA,NA,2012,NA,0.669240697,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry,66.20833333,NA,NA,2012,NA,0.669240697,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry,66.20833333,NA,NA,2011,NA,0.669240697,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry + DCD,75.35,NA,NA,2011,NA,0.524513554,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry + DCD,75.35,NA,NA,2011,NA,0.524513554,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry + DCD,75.35,NA,NA,2012,NA,0.524513554,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Cattle slurry + DCD,75.35,NA,NA,2012,NA,0.524513554,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Control,0,NA,NA,2013,NA,0.672949651,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Control,0,NA,NA,2012,NA,0.672949651,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Control,0,NA,NA,2012,NA,0.672949651,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Control,0,NA,NA,2012,NA,0.672949651,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Control,0,NA,NA,2011,NA,0.672949651,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Control,0,NA,NA,2012,NA,0.672949651,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Dung,769,NA,NA,2012,NA,2.189865631,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Dung,769,NA,NA,2012,NA,2.189865631,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Dung,769,NA,NA,2012,NA,2.189865631,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Synthetic urine,448,NA,NA,2012,NA,5.186606515,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Synthetic urine,448,NA,NA,2012,NA,5.186606515,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Synthetic urine,448,NA,NA,2012,NA,5.186606515,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urea 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2013,NA,2.022572079,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urea 320 kg N ha,320,NA,NA,2013,NA,3.073923647,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urine,423,NA,NA,2012,NA,5.655739893,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urine,423,NA,NA,2012,NA,5.655739893,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urine,423,NA,NA,2012,NA,5.655739893,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urine and dicyandiamide,428.3333333,NA,NA,2012,NA,3.0200978,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urine and dicyandiamide,428.3333333,NA,NA,2012,NA,3.0200978,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Devon,Urine and dicyandiamide,428.3333333,NA,NA,2012,NA,3.0200978,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Ammonium nitrate 160 kg N ha,160,NA,NA,2011,NA,3.15382476,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Ammonium nitrate 240 kg N ha,240,NA,NA,2011,NA,4.284306834,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Ammonium nitrate 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2011,NA,4.533630538,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Ammonium nitrate 320 kg N ha,320,NA,NA,2011,NA,6.063810382,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Ammonium nitrate 400 kg N ha,400,NA,NA,2011,NA,8.314892937,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Ammonium nitrate 80 kg N ha,80,NA,NA,2011,NA,2.184026248,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Control,0,NA,NA,2012,NA,0.925225492,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Control,0,NA,NA,2012,NA,0.925225492,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Control,0,NA,NA,2011,NA,0.925225492,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Control,0,NA,NA,2012,NA,0.925225492,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Dicyandiamide 26 kg N ha,26,NA,NA,2011,NA,1.583723129,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Dung,806.6666667,NA,NA,2012,NA,1.897805765,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Dung,806.6666667,NA,NA,2012,NA,1.897805765,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Dung,806.6666667,NA,NA,2012,NA,1.897805765,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Synthetic urine,343.3333333,NA,NA,2012,NA,2.568847279,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Synthetic urine,343.3333333,NA,NA,2012,NA,2.568847279,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Synthetic urine,343.3333333,NA,NA,2012,NA,2.568847279,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urea 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2011,NA,3.260062627,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urea 320 kg N ha,320,NA,NA,2011,NA,4.238441549,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urine,445,NA,NA,2012,NA,3.103564403,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urine,445,NA,NA,2012,NA,3.103564403,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urine,445,NA,NA,2012,NA,3.103564403,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urine and dicyandiamide,452,NA,NA,2012,NA,2.706141886,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urine and dicyandiamide,452,NA,NA,2012,NA,2.706141886,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Dumfries,Urine and dicyandiamide,452,NA,NA,2012,NA,2.706141886,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Ammonium nitrate 107 kg N ha and dicyandiamide 13 kg N ha,120,NA,NA,2011,NA,2.060666454,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Ammonium nitrate 120 kg N ha,120,NA,NA,2011,NA,3.087921165,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Ammonium nitrate 160 kg N ha,160,NA,NA,2011,NA,3.136850002,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Ammonium nitrate 200 kg N ha,200,NA,NA,2011,NA,3.690692964,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Ammonium nitrate 40 kg N ha,40,NA,NA,2011,NA,1.907661952,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Ammonium nitrate 80 kg N ha,80,NA,NA,2011,NA,1.79625415,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Control,0,NA,NA,2011,NA,1.571709215,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Urea 107 kg N ha and dicyandiamide 13 kg N ha,120,NA,NA,2011,NA,1.236623307,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_East Lothian,Urea 120 kg N ha,120,NA,NA,2011,NA,2.351045726,NA,NA,NA,NA,Spring barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate  240 kg N ha,240,NA,NA,2011,NA,1.101981197,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate 120 kg N ha,120,NA,NA,2011,NA,1.007879446,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate 180 kg N ha,180,NA,NA,2011,NA,1.033321185,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate 220 kg N ha and dicyandiamide 20 kg N ha,240,NA,NA,2011,NA,0.795651941,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate 240 kg N ha,240,NA,NA,2011,NA,0.910299806,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate 300 kg N ha,300,NA,NA,2011,NA,1.041079889,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Ammonium nitrate 60 kg N ha,60,NA,NA,2011,NA,0.911602165,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Broiler litter,217,NA,NA,2013,NA,3.907524177,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Broiler litter,217,NA,NA,2012,NA,3.907524177,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Cattle FYM,214,NA,NA,2012,NA,3.038609841,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Cattle slurry,95,NA,NA,2013,NA,2.311794972,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Cattle slurry,95,NA,NA,2012,NA,2.311794972,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Cattle slurry,95,NA,NA,2013,NA,2.311794972,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Cattle slurry,95,NA,NA,2012,NA,2.311794972,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Control,0,NA,NA,2012,NA,1.458490488,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Control,0,NA,NA,2011,NA,1.458490488,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Control,0,NA,NA,2013,NA,1.458490488,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Dicyandiamide 20 kg N ha,20,NA,NA,2011,NA,0.869342106,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Layer manure,116.5,NA,NA,2012,NA,2.655412502,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Layer manure,116.5,NA,NA,2013,NA,2.655412502,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Urea 220 kg N ha and dicyandiamide 20 kg N ha,240,NA,NA,2011,NA,0.936825519,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Herefordshire,Urea 240 kg N ha,240,NA,NA,2011,NA,0.98101656,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Cattle FYM,175,NA,NA,2012,NA,1.276010887,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Cattle slurry,56.5,NA,NA,2012,NA,1.109810722,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Cattle slurry,56.5,NA,NA,2013,NA,1.109810722,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Cattle slurry,56.5,NA,NA,2013,NA,1.109810722,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Cattle slurry,56.5,NA,NA,2012,NA,1.109810722,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Control,0,NA,NA,2013,NA,0.50501971,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Control,0,NA,NA,2012,NA,0.50501971,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Layer manure,236,NA,NA,2013,NA,1.677305354,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Layer manure,236,NA,NA,2012,NA,1.677305354,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Poultry litter,131,NA,NA,2013,NA,1.48268493,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Midlothian,Poultry litter,131,NA,NA,2012,NA,1.48268493,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Broiler litter,261,NA,NA,2011,NA,5.164938873,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Broiler litter,261,NA,NA,2012,NA,5.164938873,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Control,0,NA,NA,2012,NA,1.292337007,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Control,0,NA,NA,2011,NA,1.292337007,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Layer manure,246.5,NA,NA,2012,NA,3.773164197,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Layer manure,246.5,NA,NA,2011,NA,3.773164197,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Pig FYM,260.5,NA,NA,2012,NA,1.807604362,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Pig FYM,260.5,NA,NA,2011,NA,1.807604362,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Pig slurry,110,NA,NA,2011,NA,1.764602938,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Pig slurry,110,NA,NA,2011,NA,1.764602938,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Pig slurry,110,NA,NA,2012,NA,1.764602938,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Norfolk,Pig slurry,110,NA,NA,2012,NA,1.764602938,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Ammonium nitrate 160 kg N ha,160,NA,NA,2013,NA,1.886175253,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Ammonium nitrate 240 kg N ha,240,NA,NA,2013,NA,1.997159539,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Ammonium nitrate 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2013,NA,2.967950187,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Ammonium nitrate 320 kg N ha,320,NA,NA,2013,NA,2.768018029,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Ammonium nitrate 400 kg N ha,400,NA,NA,2013,NA,3.652833626,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Ammonium nitrate 80 kg N ha,80,NA,NA,2013,NA,1.173381088,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Control,0,NA,NA,2013,NA,0.102331259,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Control,0,NA,NA,2013,NA,0.102331259,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Control,0,NA,NA,2013,NA,0.102331259,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Dung,792.6666667,NA,NA,2013,NA,1.451937691,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Dung,792.6666667,NA,NA,2013,NA,1.451937691,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Dung,792.6666667,NA,NA,2013,NA,1.451937691,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Synthetic urine,497,NA,NA,2013,NA,3.049154328,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Synthetic urine,497,NA,NA,2013,NA,3.049154328,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Synthetic urine,497,NA,NA,2013,NA,3.049154328,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urea 294 kg N ha and dicyandiamide 26 kg N ha,320,NA,NA,2013,NA,0.485975285,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urea 320 kg N ha,320,NA,NA,2013,NA,0.999898109,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urine,488.3333333,NA,NA,2013,NA,3.522576756,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urine,488.3333333,NA,NA,2013,NA,3.522576756,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urine,488.3333333,NA,NA,2013,NA,3.522576756,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urine and dicyandiamide,495,NA,NA,2013,NA,2.272592631,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urine and dicyandiamide,495,NA,NA,2013,NA,2.272592631,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0116_Warwickshire,Urine and dicyandiamide,495,NA,NA,2013,NA,2.272592631,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Ammonium nitrate 180 kg N ha and dicyandiamide 20 kg N ha,200,NA,NA,2012,NA,3.215053358,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Ammonium nitrate 200 kg N ha,200,NA,NA,2012,NA,3.622403098,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Ammonium sulphate nitrate 200 kg N ha,200,NA,NA,2012,NA,3.004011474,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Ammonium sulphate nitrate and DMPP 200 kg N ha,200,NA,NA,2012,NA,2.862564768,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Control,0,NA,NA,2012,NA,0.76193665,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Urea 180 kg N ha and dicyandiamide 20 kg N ha,200,NA,NA,2012,NA,0.875498249,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Cambridgeshire,Urea 200 kg N ha,200,NA,NA,2012,NA,2.603223013,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Ammonium nitrate 100 kg N ha and dicyandiamide 20 kg N ha,120,NA,NA,2010,NA,0.509811184,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Ammonium nitrate 100 kg N ha and dicyandiamide 20 kg N ha,120,NA,NA,2011,NA,0.509811184,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Ammonium nitrate 120 kg N ha,120,NA,NA,2011,NA,0.723653903,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Ammonium nitrate 120 kg N ha,120,NA,NA,2010,NA,0.723653903,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Ammonium sulphate nitrate 120 kg N ha,120,NA,NA,2011,NA,0.27626558,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Ammonium sulphate nitrate and DMPP 120 kg N ha,120,NA,NA,2011,NA,-0.08170752,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Cattle slurry,174,NA,NA,2010,NA,1.749048157,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Cattle slurry,174,NA,NA,2011,NA,1.749048157,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Cattle slurry and dicyandiamide,174,NA,NA,2010,NA,1.121845168,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Cattle slurry and dicyandiamide,174,NA,NA,2011,NA,1.121845168,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Control,0,NA,NA,2010,NA,0.290703323,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Control,0,NA,NA,2012,NA,0.290703323,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Control,0,NA,NA,2011,NA,0.290703323,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Control,0,NA,NA,2011,NA,0.290703323,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Control,0,NA,NA,2012,NA,0.290703323,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Control,0,NA,NA,2010,NA,0.290703323,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urea 100 kg N ha and dicyandiamide 20 kg N ha,120,NA,NA,2010,NA,0.454410621,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urea 100 kg N ha and dicyandiamide 20 kg N ha,120,NA,NA,2011,NA,0.454410621,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urea 120 kg N ha,120,NA,NA,2010,NA,0.829364051,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urea 120 kg N ha,120,NA,NA,2011,NA,0.829364051,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urine,417.5,NA,NA,2012,NA,2.177927244,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urine,417.5,NA,NA,2012,NA,2.177927244,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urine and dicyandiamide,417.5,NA,NA,2012,NA,0.26306889,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urine and dicyandiamide,417.5,NA,NA,2012,NA,0.26306889,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urine and pyrazole derivative,417.5,NA,NA,2012,NA,1.633424402,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Devon,Urine and pyrazole derivative,417.5,NA,NA,2012,NA,1.633424402,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Northumberland,Ammonium nitrate 140 kg N ha and dicyandiamide 20 kg N ha,160,NA,NA,2012,NA,1.679665891,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Northumberland,Ammonium nitrate 160 kg N ha,160,NA,NA,2012,NA,3.009828558,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Northumberland,Control,0,NA,NA,2012,NA,0.609628367,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Northumberland,Urea 140 kg N ha and dicyandiamide 20 kg N ha,160,NA,NA,2012,NA,1.317370397,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Northumberland,Urea 160 kg N ha,160,NA,NA,2012,NA,2.24607532,NA,NA,NA,NA,Winter barley,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Ammonium nitrate 100 kg N ha and dicyandiamide 20 kg N ha,120,NA,NA,2011,NA,0.839019962,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Ammonium nitrate 120 kg N ha,120,NA,NA,2011,NA,1.357604774,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Ammonium nitrate 140 kg N ha and dicyandiamide 20 kg N ha,160,NA,NA,2010,NA,0.390021629,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Ammonium nitrate 160 kg N ha,160,NA,NA,2010,NA,0.528102133,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Cattle slurry,126,NA,NA,2012,NA,0.788306661,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Cattle slurry,126,NA,NA,2011,NA,0.788306661,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Cattle slurry and dicyandiamide,126,NA,NA,2011,NA,0.655850897,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Cattle slurry and dicyandiamide,126,NA,NA,2012,NA,0.655850897,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Control,0,NA,NA,2011,NA,0.419407293,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Control,0,NA,NA,2012,NA,0.419407293,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Control,0,NA,NA,2011,NA,0.419407293,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Control,0,NA,NA,2010,NA,0.419407293,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Control,0,NA,NA,2011,NA,0.419407293,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Control,0,NA,NA,2011,NA,0.419407293,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urea 100 kg N ha and dicyandiamide 20 kg N ha,120,NA,NA,2011,NA,0.220624405,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urea 120 kg N ha,120,NA,NA,2011,NA,0.706904062,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urea 140 kg N ha and dicyandiamide 20 kg N ha,160,NA,NA,2010,NA,0.268270638,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urea 160 kg N ha,160,NA,NA,2010,NA,0.555058641,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urine,556.5,NA,NA,2011,NA,2.173060214,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urine,556.5,NA,NA,2011,NA,2.173060214,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urine and dicyandiamide,556.5,NA,NA,2011,NA,1.6117668,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urine and dicyandiamide,556.5,NA,NA,2011,NA,1.6117668,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urine and pyrazole derivative,556.5,NA,NA,2011,NA,2.262452009,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+AC0213_Nottinghamshire,Urine and pyrazole derivative,556.5,NA,NA,2011,NA,2.262452009,NA,NA,NA,NA,Grassland,chamber,NA,NA,NA,NA,trapezoidal,NA
+ES0115_Cheshire,Cattle slurry,113,NA,NA,2004,NA,1.719723704,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+ES0115_Cheshire,Control,0,NA,NA,2004,NA,0.99228789,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+ES0115_East Yorkshire,Control,0,NA,NA,2005,NA,0.412908479,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+ES0115_East Yorkshire,Pig slurry,48,NA,NA,2005,NA,0.526096188,NA,NA,NA,NA,Winter wheat,chamber,NA,NA,NA,NA,trapezoidal,NA
+Tgas_Manitoba,annual,110,NA,granular urea,2006,2006,6.577181208,NA,NA,NA,NA,Maize,flux-gradient,204,365,1/1/2006,12/31/2006,linear interpolation,NA
+Tgas_Manitoba,annual,0,NA,NA,2007,2007,3.416717511,NA,NA,NA,NA,Faba,flux-gradient,232,365,1/1/2007,12/31/2007,linear interpolation,NA
+Tgas_Manitoba,annual,98,NA,granular urea,2008,2008,3.544844417,NA,NA,NA,NA,Spring Wheat,flux-gradient,234,366,1/1/2008,12/31/2008,linear interpolation,NA
+Tgas_Manitoba,annual,146,NA,granular urea,2009,2009,6.812080537,NA,NA,NA,NA,Rapeseed,flux-gradient,179,365,1/1/2009,12/31/2009,linear interpolation,NA
+Tgas_Manitoba,annual,98,NA,granular urea,2010,2010,6.641244661,NA,NA,NA,NA,Barley,flux-gradient,152,365,1/1/2010,12/31/2010,linear interpolation,NA
+Tgas_Manitoba,annual,112,NA,anhydrous ammonia,2011,2011,4.95424039,NA,NA,NA,NA,Spring Wheat,flux-gradient,334,365,1/1/2011,12/31/2011,linear interpolation,NA
+Tgas_Manitoba,annual,180,NA,anhydrous ammonia,2012,2012,19.09090909,NA,NA,NA,NA,Corn,flux-gradient,216,366,1/1/2012,12/31/2012,linear interpolation,NA
+Tgas_Manitoba,annual,0,NA,NA,2013,2013,4.377669311,NA,NA,NA,NA,Soybean,flux-gradient,233,365,1/1/2013,12/31/2013,linear interpolation,NA
+Tgas_Manitoba,annual,116,NA,anhydrous ammonia,2014,2014,4.142769982,NA,NA,NA,NA,Spring wheat,flux-gradient,271,365,1/1/2014,12/31/2014,linear interpolation,NA
+Tgas_Manitoba,annual,0,NA,NA,2015,2015,2.8828554,NA,NA,NA,NA,Soybean,flux-gradient,257,365,1/1/2015,12/31/2015,linear interpolation,NA
+Tgas_Manitoba,annual,168,NA,granular urea,2016,2016,15.24710189,NA,NA,NA,NA,Soybean,flux-gradient,193,366,1/1/2016,12/31/2016,linear interpolation,NA
+Tgas_Manitoba,annual perennial,110,NA,granular urea,2006,2006,6.619890177,NA,NA,NA,NA,Maize,flux-gradient,188,365,1/1/2006,12/31/2006,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2007,2007,3.416717511,NA,NA,NA,NA,Faba,flux-gradient,224,365,1/1/2007,12/31/2007,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2008,2008,1.409395973,NA,NA,NA,NA,Alfalfa,flux-gradient,240,366,1/1/2008,12/31/2008,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2009,2009,1.067724222,NA,NA,NA,NA,Alfalfa,flux-gradient,171,365,1/1/2009,12/31/2009,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2010,2010,0.982306284,NA,NA,NA,NA,Alfalfa,flux-gradient,132,365,1/1/2010,12/31/2010,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2011,2011,0.021354484,NA,NA,NA,NA,Alfalfa,flux-gradient,334,365,1/1/2011,12/31/2011,linear interpolation,NA
+Tgas_Manitoba,annual perennial,180,NA,anhydrous ammonia,2012,2012,31.32702868,NA,NA,NA,NA,Corn,flux-gradient,211,366,1/1/2012,12/31/2012,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2013,2013,4.377669311,NA,NA,NA,NA,Soybean,flux-gradient,233,365,1/1/2013,12/31/2013,linear interpolation,NA
+Tgas_Manitoba,annual perennial,116,NA,anhydrous ammonia,2014,2014,4.847467968,NA,NA,NA,NA,Spring Wheat,flux-gradient,254,365,1/1/2014,12/31/2014,linear interpolation,NA
+Tgas_Manitoba,annual perennial,0,NA,NA,2015,2015,2.669310555,NA,NA,NA,NA,Soybean,flux-gradient,249,365,1/1/2015,12/31/2015,linear interpolation,NA
+Tgas_Manitoba,annual perennial,168,NA,granular urea,2016,2016,12.57779134,NA,NA,NA,NA,Soybean,flux-gradient,201,366,1/1/2016,12/31/2016,linear interpolation,NA
+Cowan.grassland,EB_Notrh,140,NA,NA,2012,2012,NA,1.65,NA,NA,NA,grass,chamber,NA,175,2/16/2012,9/19/2012,GAM,NA
+Cowan.grassland,EB_South,70,NA,NA,2012,2012,NA,2.14,NA,NA,NA,grass,chamber,NA,175,2/16/2012,9/19/2012,GAM,NA
+GlyndonMN_USA,Control,0,NA,NA,2014,2014,NA,0.25,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+GlyndonMN_USA,SU_146,146,NA,SuperU,2014,2014,NA,0.36,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+GlyndonMN_USA,SU_168,168,NA,SuperU,2014,2014,NA,0.55,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+GlyndonMN_USA,U_146,146,NA,urea,2014,2014,NA,0.67,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+GlyndonMN_USA,U_168,168,NA,urea,2014,2014,NA,1.16,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+GlyndonMN_USA,UI_146,146,NA,urea,2014,2014,NA,0.57,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+GlyndonMN_USA,UI_168,168,NA,urea,2014,2014,NA,0.6,5/28/2014,8/25/2014,NA,Spring Wheat,static chamber,12,89,5/28/2014,8/25/2014,linear,NA
+CarmanMB_CAN,Control,0,NA,NA,2011,2011,NA,1.03,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Urea_i,80,NA,urea,2011,2011,NA,2.7,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Urea_s,80,NA,urea,2011,2011,NA,2.41,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Urea_m,80,NA,urea,2011,2011,NA,2.04,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,ESN_m,80,NA,ESN,2011,2011,NA,1.67,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,SuperU_m,80,NA,SuperU,2011,2011,NA,1.64,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Control,0,NA,NA,2012,2012,NA,0.11,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Urea_i,80,NA,urea,2012,2012,NA,0.3,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Urea_s,80,NA,urea,2012,2012,NA,0.18,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,Urea_m,80,NA,urea,2012,2012,NA,0.51,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,ESN_m,80,NA,ESN,2012,2012,NA,0.39,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+CarmanMB_CAN,SuperU_m,80,NA,SuperU,2012,2012,NA,0.18,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Control,0,NA,NA,2011,2011,NA,7.00E-02,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Urea_i,80,NA,urea,2011,2011,NA,0.94,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Urea_s,80,NA,urea,2011,2011,NA,0.69,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Urea_m,80,NA,urea,2011,2011,NA,0.58,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,ESN_m,80,NA,ESN,2011,2011,NA,0.26,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,SuperU_m,80,NA,SuperU,2011,2011,NA,0.31,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Control,0,NA,NA,2012,2012,NA,0.11,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Urea_i,80,NA,urea,2012,2012,NA,0.2,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Urea_s,80,NA,urea,2012,2012,NA,0.26,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,Urea_m,80,NA,urea,2012,2012,NA,0.25,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,ESN_m,80,NA,ESN,2012,2012,NA,0.16,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+OakBluffMB_CAN,SuperU_m,80,NA,SuperU,2012,2012,NA,0.25,NA,NA,NA,Spring Wheat,static chamber,NA,0,NA,NA,interpolation,NA
+FrederictonNB_CAN,Control,0,NA,NA,2008,2008,NA,0.12,NA,NA,NA,potato,chamber,NA,154,5/20/2008,10/21/2008,linear regression,NA
+FrederictonNB_CAN,Conventional,193,NA,ammonium nitrate,2008,2008,NA,0.42,NA,NA,NA,potato,chamber,NA,154,5/20/2008,10/21/2008,linear regression,NA
+FrederictonNB_CAN,Split,193,NA,ammonium nitrate,2008,2008,NA,0.31,NA,NA,NA,potato,chamber,NA,154,5/20/2008,10/21/2008,linear regression,NA
+FrederictonNB_CAN,PCU,193,NA,ESN,2008,2008,NA,0.44,NA,NA,NA,potato,chamber,NA,154,5/20/2008,10/21/2008,linear regression,NA
+FrederictonNB_CAN,Control,0,NA,NA,2009,2009,NA,0.09,NA,NA,NA,potato,chamber,NA,149,5/13/2009,10/9/2009,linear regression,NA
+FrederictonNB_CAN,Conventional,193,NA,ammonium nitrate,2009,2009,NA,0.49,NA,NA,NA,potato,chamber,NA,149,5/13/2009,10/9/2009,linear regression,NA
+FrederictonNB_CAN,Split,193,NA,ammonium nitrate,2009,2009,NA,0.22,NA,NA,NA,potato,chamber,NA,149,5/13/2009,10/9/2009,linear regression,NA
+FrederictonNB_CAN,PCU,193,NA,ESN,2009,2009,NA,0.94,NA,NA,NA,potato,chamber,NA,149,5/13/2009,10/9/2009,linear regression,NA
+FrederictonNB_CAN,Control,0,NA,NA,2010,2010,NA,0.53,NA,NA,NA,potato,chamber,NA,133,5/10/2010,9/20/2010,linear regression,NA
+FrederictonNB_CAN,Conventional,193,NA,ammonium nitrate,2010,2010,NA,1.02,NA,NA,NA,potato,chamber,NA,133,5/10/2010,9/20/2010,linear regression,NA
+FrederictonNB_CAN,Split,193,NA,ammonium nitrate,2010,2010,NA,0.9,NA,NA,NA,potato,chamber,NA,133,5/10/2010,9/20/2010,linear regression,NA
+FrederictonNB_CAN,PCU,193,NA,ESN,2010,2010,NA,1,NA,NA,NA,potato,chamber,NA,133,5/10/2010,9/20/2010,linear regression,NA
+agassiz_pasture,Control,0,NA,NA,2008,2009,0.3,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Fert400,400,NA,urea,2008,2009,3.19,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS400,404,NA,whole slurry,2008,2009,1.21,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS600,587,NA,whole slurry,2008,2009,2.12,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF400,434,NA,slurry liquid fraction,2008,2009,3.23,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF600,588,NA,slurry liquid fraction,2008,2009,5.88,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Control,0,NA,NA,2009,2010,0.24,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Fert400,400,NA,urea,2009,2010,3.35,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS400,404,NA,whole slurry,2009,2010,1.4,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS600,587,NA,whole slurry,2009,2010,4.02,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF400,434,NA,slurry liquid fraction,2009,2010,2.4,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF600,588,NA,slurry liquid fraction,2009,2010,3.74,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Control,0,NA,NA,2010,2011,0.19,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Fert400,400,NA,urea,2010,2011,3.95,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS400,404,NA,whole slurry,2010,2011,2.67,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS600,587,NA,whole slurry,2010,2011,6.68,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF400,434,NA,slurry liquid fraction,2010,2011,2.21,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF600,588,NA,slurry liquid fraction,2010,2011,3.16,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Control,0,NA,NA,2011,2012,0.17,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Fert400,400,NA,urea,2011,2012,3.98,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS400,404,NA,whole slurry,2011,2012,1.9,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS600,587,NA,whole slurry,2011,2012,4.34,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF400,434,NA,slurry liquid fraction,2011,2012,2.98,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF600,588,NA,slurry liquid fraction,2011,2012,2.95,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Control,0,NA,NA,2012,2013,0.24,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,Fert400,400,NA,urea,2012,2013,3.44,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS400,404,NA,whole slurry,2012,2013,1.55,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,WS600,587,NA,whole slurry,2012,2013,2.83,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF400,434,NA,slurry liquid fraction,2012,2013,3.07,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+agassiz_pasture,SLF600,588,NA,slurry liquid fraction,2012,2013,3.24,NA,NA,NA,NA,grass,vented chamber,NA,NA,NA,NA,linear interpolation,NA
+lethbridge_manure,Control,NA,NA,NA,1993,1994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lethbridge_manure,60Mg,NA,NA,NA,1993,1994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lethbridge_manure,120Mg,NA,NA,NA,1993,1994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+lethbridge_manure,180Mg,NA,NA,NA,1993,1994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+stuttgart1,0N,0,NA,urea,2011,2012,NA,0.833,NA,NA,NA,rice,static chamber,NA,NA,NA,NA,linear,NA
+stuttgart1,112N,112,NA,urea,2011,2012,NA,1.342,NA,NA,NA,rice,static chamber,NA,NA,NA,NA,linear,NA
+stuttgart1,168N,168,NA,urea,2011,2012,NA,1.097,NA,NA,NA,rice,static chamber,NA,NA,NA,NA,linear,NA
+stuttgart1,224N,224,NA,urea,2011,2012,NA,1.868,NA,NA,NA,rice,static chamber,NA,NA,NA,NA,linear,NA
+college_stationTX,0N,0,NA,urea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+college_stationTX,280N,280,NA,urea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Nil,0,NA,NA,2012,2013,NA,0.44,7/20/2012,7/5/2013,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea,50,NA,urea,2012,2013,NA,0.75,7/20/2012,7/5/2013,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea_DCD,50,NA,urea,2012,2013,NA,0.56,7/20/2012,7/5/2013,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea_DMPP,50,NA,urea,2012,2013,NA,0.6,7/20/2012,7/5/2013,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea_nBPT,50,NA,urea,2012,2013,NA,0.8,7/20/2012,7/5/2013,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,UAN,50,NA,urea,2012,2013,NA,NA,7/20/2012,7/5/2013,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Nil,0,NA,NA,2014,2015,NA,0.32,6/23/2014,4/12/2015,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea,50,NA,urea,2014,2015,NA,0.48,6/23/2014,4/12/2015,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea_DCD,50,NA,urea,2014,2015,NA,NA,6/23/2014,4/12/2015,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea_DMPP,50,NA,urea,2014,2015,NA,0.42,6/23/2014,4/12/2015,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,Urea_nBPT,50,NA,urea,2014,2015,NA,0.46,6/23/2014,4/12/2015,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Noorat1,UAN,50,NA,urea,2014,2015,NA,0.42,6/23/2014,4/12/2015,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,CK,0,NA,NA,2006,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,M,120,NA,manure,2006,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,N,120,NA,urea,2006,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,NP,120,NA,urea,2006,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,NPM,120,NA,"urea, manure",2006,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,CK,0,NA,NA,2007,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,M,120,NA,manure,2007,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,N,120,NA,urea,2007,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,NP,120,NA,urea,2007,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sn023_wheat,NPM,120,NA,"urea, manure",2007,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,MP,NA,NA,NA,2013,2014,NA,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,ETw,NA,NA,NA,2013,2014,NA,7.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,LTw,NA,NA,NA,2013,2014,NA,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,Ets,NA,NA,NA,2013,2014,NA,3.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,MP,NA,NA,NA,2014,2015,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,ETw,NA,NA,NA,2014,2015,NA,1.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,LTw,NA,NA,NA,2014,2015,NA,1.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A_HamiltonVIC,Ets,NA,NA,NA,2014,2015,NA,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,TCF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,T7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,TSF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gelfand_2016,TDF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FrancisClar,row,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FrancisClar,band,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zhang_Yt,NT-FS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zhang_Yt,CT-DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zhang_Yt,CT-D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zhang_Yt,CT-FS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zhang_Yt,CT-F,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+de_Rosa_2018,CONV,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+de_Rosa_2018,Ma+CONV,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+de_Rosa_2018,Ma+Rd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+de_Rosa_2018,Co+CONV,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+de_Rosa_2018,Co+Rd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALAUSDR,CT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALAUSDR,CTM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALAUSDR,CsT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ALAUSDR,CsTM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,CT-CC 0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,CT-CC 246U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,CT-CC 246ESN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CC 0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CC 246U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CC 246ESN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CB 0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CB 246U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CB 246SU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CDb 0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CDb 246U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CDb 246SU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CB 157SU,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CDb 157U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT_CB 157U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD2,NT-CDb 56U,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_Bare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_CD_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_CD_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_IT_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_IT_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_ML,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_MR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_MT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NC_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NC_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NM_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NM_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NP_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NP_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NR_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NR_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NS_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLACRE,INWLACRE_NS_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_CC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_CF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_CP,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_CR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_CS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_MS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_RF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_RP,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_RR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_SG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_RH,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLWQFS,INWLWQFS_RN,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLREAP,INWLREAP_Bare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLREAP,INWLREAP_R0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLREAP,INWLREAP_R100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLREAP,INWLREAP_R50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+INWLREAP,INWLREAP_R75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NEMEIRR,NEMEIRR_NT0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NEMEIRR,NEMEIRR_NT50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NEMEIRR,NEMEIRR_NT100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NEMEIRR,NEMEIRR_DK0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NEMEIRR,NEMEIRR_DK50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NEMEIRR,NEMEIRR_DK100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,Switchgrass–spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,Switchgrass–autumn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,Corn–soybean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,Big bluestem–spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,Big bluestem–autumn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,Big bluestem–clover,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOCC,switchgrass–clover,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 2yr rot CT YF_cs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 2yr rot CT YF_sc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot CT YF_s,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot CT YF_w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot CT YF_a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot CT YF_c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST NF_wac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST NF_acs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST NF_cswa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST NF_swa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST YF_wacs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST YF_acsw,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST YF_cswa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,ConvSys 4yr rot ST YF_swac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot CT YF_s,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot CT YF_w,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot CT YF_a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot CT YF_c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot ST YF_acsw,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot ST YF_cswa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot ST YF_swac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MNMOFS,OrgSys 4yr rot ST YF_acs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_PAST,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_RCG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_SWG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PAHAW,PAHAW_ROT8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SDBRREAP,SDBRREAP_TR2C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SDBRREAP,SDBRREAP_TR2S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SDBRREAP,SDBRREAP_TR4C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SDBRREAP,SDBRREAP_TR4S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WIPDBARN,WIPDBARN_SOIL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WIPDBARN,WIPDBARN_SAND,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WIPDBARN,WIPDBARN_BARK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WYPHACE,WYPHACE_A-C-N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WYPHACE,WYPHACE_E-H-N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WYPHACE,WYPHACE_E-C-N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WYPHACE,WYPHACE_A-H-N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WYPHACE,WYPHACE_A-C-S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WYPHACE,WYPHACE_A-C-D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,Check_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,ESN_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,ESNbc_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,ESNbc_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,ESNbd_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,ESNbd_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,ESNssb_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,SuperU_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,SuperUbc_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,SuperUbc_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,SuperUbd_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,SuperUbd_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,UAN_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,UANbc_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,UANbd_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,UANplusAgroT_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,Urea_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,Ureabc_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,Ureabc_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,Ureabd_nt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD3,Ureabd_st,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT134,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT224,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT246ES/UR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT246UA/ES,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,NT67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,N246ES/UR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,N246UA/ES,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COFOARD1,N224,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

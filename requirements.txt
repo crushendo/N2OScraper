@@ -1,0 +1,9 @@
+pandas>=1.4
+sqlalchemy>=1.4
+numpy>=1.21
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+nbconvert

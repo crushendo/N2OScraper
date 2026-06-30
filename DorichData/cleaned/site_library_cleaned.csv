@@ -1,0 +1,103 @@
+SiteName,TreatmentName,Latitude,Longitude,ExperimentName,FluxInstrument,TreatmentDescription,Citation,Management,Sand,Silt,Clay,N2O_Measurements
+Kingaroy,legume.70n,-26.58,151.83,datalibrarian.158,auto chamber,"Sorghum in legume ley pasture-cereal rotation, sorghum fertilised with a total of 70 Kg N ha-1",https://doi.org/10.1016/j.agee.2015.02.007,Conventional,31.0,14.0,55.0,282
+Kingaroy,legume.0n,-26.58,151.83,datalibrarian.158,auto chamber,"Sorghum in legume ley pasture-cereal rotation, no fertilisation",https://doi.org/10.1016/j.agee.2015.02.007,Zero Input,31.0,14.0,55.0,282
+Kingaroy,grass.100n,-26.58,151.83,datalibrarian.158,auto chamber,"Sorghum in grass ley pasture-cereal rotation, sorghum fertilised with a total of 100 Kg N ha-1",https://doi.org/10.1016/j.agee.2015.02.007,Conventional,31.0,14.0,55.0,282
+Kingaroy,grass.0n,-26.58,151.83,datalibrarian.158,auto chamber,"Sorghum in grass ley pasture-cereal rotation, no fertilisation",https://doi.org/10.1016/j.agee.2015.02.007,Zero Input,31.0,14.0,55.0,282
+Kingaroy,cnt,-26.582,151.829,deantoni,auto chamber,"control treatment, 0 kg N/ha applied",https://doi.org/10.1016/j.agee.2014.01.016,Conventional,33.0,17.0,50.0,276
+Kingaroy,rfr,-26.582,151.829,deantoni,auto chamber,"sub-optimal N rate, 20 kg N/ha conv urea applied",https://doi.org/10.1016/j.agee.2014.01.016,Conventional,33.0,17.0,50.0,273
+Kingaroy,conv,-26.582,151.829,deantoni,auto chamber,"optimal N rate, 80 kg N/ha conv urea applied",https://doi.org/10.1016/j.agee.2014.01.016,Conventional,33.0,17.0,50.0,278
+Kingaroy,conv-dmpp,-26.582,151.829,deantoni,auto chamber,"optimal N rate, 80 kg N/ha DMPP urea applied",https://doi.org/10.1016/j.agee.2014.01.016,Conventional,33.0,17.0,50.0,275
+Kingsthorpe,KT_50%_irrigation,-27.48,151.81,scheer.11,auto chamber,fully irrigated- crop irrigation is stimulated when fifty percent of the plants available water capacity is depleted,https://doi.org/10.1007/s11104-012-1197-4,Conventional,,,,95
+Kingsthorpe,KT_60%_irrigation,-27.48,151.81,scheer.11,auto chamber,deficit irrigated- crop irrigation is stimulated when sixty percent of the plants available water capacity is depleted,https://doi.org/10.1007/s11104-012-1197-4,Conventional,,,,92
+Kingsthorpe,KT_85%_irrigation,-27.48,151.81,scheer.11,auto chamber,deficit irrigated three- crop irrigation is stimulated when eighty five percent of the plants available water capacity is depleted,https://doi.org/10.1007/s11104-012-1197-4,Conventional,,,,95
+Kingsthorpe,KT_50%_irrigation,-27.48,151.81,scheer.14,auto chamber,fully irrigated- crop irrigation is stimulated when fifty percent of the plants available water capacity is depleted,https://doi.org/10.1007/s10705-012-9547-4,Conventional,,,,155
+Kingsthorpe,KT_60%_irrigation,-27.48,151.81,scheer.14,auto chamber,deficit irrigated- crop irrigation is stimulated when sixty percent of the plants available water capacity is depleted,https://doi.org/10.1007/s10705-012-9547-4,Conventional,,,,156
+Kingsthorpe,KT_85%_irrigation,-27.48,151.81,scheer.14,auto chamber,deficit irrigated three- crop irrigation is stimulated when eighty five percent of the plants available water capacity is depleted,https://doi.org/10.1007/s10705-012-9547-4,Conventional,,,,154
+Kingsthorpe,Entec,-27.31,151.47,scheer.inhib,auto chamber,urea + DMPP,https://doi.org/10.1071/SR15332,Conventional,,,,341
+Kingsthorpe,eNtrench,-27.31,151.47,scheer.inhib,auto chamber,urea + Nitrapyrin,https://doi.org/10.1071/SR15332,Conventional,,,,341
+Kingsthorpe,Poly,-27.31,151.47,scheer.inhib,auto chamber,PCU_polymer-coated urea,https://doi.org/10.1071/SR15332,Conventional,,,,341
+Kingsthorpe,Urea,-27.31,151.47,scheer.inhib,auto chamber,urea,https://doi.org/10.1071/SR15332,Conventional,,,,341
+Kingsthorpe,zeroN,-27.31,151.47,scheer.inhib,auto chamber,control - 0N,https://doi.org/10.1071/SR15332,Zero Input,,,,341
+Terang,t3,-38.14,142.55,kelly.24.27,auto chamber,urine @ 1000 kg N/ha applied 11 September 2009,http://www.N2O.net.au/knb/metacat/kelly.24.22/html,Organic,53.0,24.0,16.0,258
+Terang,t4,-38.14,142.55,kelly.24.27,auto chamber,urine @ 1000 kg N/ha applied 11 September 2009 plus DCD @ 10 kg a.i./ha applied 14 August 2009,http://www.N2O.net.au/knb/metacat/kelly.24.22/html,Organic,53.0,24.0,16.0,258
+Terang,t5,-38.14,142.55,kelly.24.27,auto chamber,urine @ 1000 kg N/ha applied 14 August 2009,http://www.N2O.net.au/knb/metacat/kelly.24.22/html,Organic,53.0,24.0,16.0,258
+Terang,t6,-38.14,142.55,kelly.24.27,auto chamber,urine @ 1000 kg N/ha applied 14 August 2009 plus DCD @ 10 kg a.i./ha applied 14 August 2009,http://www.N2O.net.au/knb/metacat/kelly.24.22/html,Organic,53.0,24.0,16.0,258
+Terang,t1,-38.24,142.92,kelly.30.33,auto chamber,nil applied,,Zero Input,53.0,24.0,16.0,285
+Terang,t2,-38.24,142.92,kelly.30.33,auto chamber,"urine @1000 kgN/ha applied to 25% of chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010",,Organic,53.0,24.0,16.0,285
+Terang,t3,-38.24,142.92,kelly.30.33,auto chamber,"urine @ 1000 kg N/ha applied to 25% of the chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010 with DCD @10 kg a.i./ha applied 23 Sept 2010",,Organic,53.0,24.0,16.0,285
+Terang,t4,-38.24,142.92,kelly.30.33,auto chamber,"urine @ 1000 kg N/ha applied to 25% of the chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010 with DCD @ 10 kg a.i./ha applied each time",,Organic,53.0,24.0,16.0,285
+Terang,t1,-38.24,142.92,kelly.38,auto chamber,nil applied,http://www.N2O.net.au/knb/metacat/kelly.38.26/html,Zero Input,53.0,24.0,16.0,297
+Terang,t2,-38.24,142.92,kelly.38,auto chamber,"urine @1000 kgN/ha was original target however urine was only applied three times to 25% of chamber base at each application on 17 Sept 2012, 22 Nov 2012 and 16 May 2013",http://www.N2O.net.au/knb/metacat/kelly.38.26/html,Organic,53.0,24.0,16.0,297
+Terang,t3,-38.24,142.92,kelly.38,auto chamber,"urine @ 1000 kg N/ha applied to 25% of the chamber base 17 Sept 2012, 22 Nov 2012 and 16 May 2013 and with DCD @10 kg a.i./ha applied as surface spray on 17 Sept 2012 and again 16 May 2013",http://www.N2O.net.au/knb/metacat/kelly.38.26/html,Organic,53.0,24.0,16.0,297
+Terang,t4,-38.24,142.92,kelly.38,auto chamber,"urine @ 1000 kg N/ha applied to 25% of the chamber base 17 Sept 2012, 22 Nov 2012, and 16 May 2013 with DCD is mixed in with urine at each application at a rate equivalent to 20 kg a.i./ha",http://www.N2O.net.au/knb/metacat/kelly.38.26/html,Organic,53.0,24.0,16.0,297
+Terang,t2,-38.24,142.92,kelly.52,auto chamber,urine @1000 kgN/ha applied 19 September 2013,,Organic,53.0,24.0,16.0,279
+Terang,t3,-38.24,142.92,kelly.52,auto chamber,urine @ 1000 kg N/ha applied 19 September 2013 with nitrapyrin sprayed on after application of urine at 1 kg a.i./ha,,Organic,53.0,24.0,16.0,279
+Terang,t4,-38.24,142.92,kelly.52,auto chamber,fresh dairy cow dung aiming to apply equivalent to 400 kg N/ha applied as three dung pads as circles each of 0.25 m diameter on 19 September 2013,,Conventional,53.0,24.0,16.0,279
+Terang,t1,-38.24,142.92,kelly.52,auto chamber,nil applied,,Zero Input,53.0,24.0,16.0,279
+Buntine,om.plus.urea,-29.987,116.5687,barton.79,auto chamber,Orgain matter and Urea added,doi.org/10.1016/j.agee.2016.07.004,Conventional,,,,332
+Buntine,om.no.urea,-29.987,116.5687,barton.79,auto chamber,"Orgain matter added, no Urea",doi.org/10.1016/j.agee.2016.07.004,Conventional,,,,330
+Buntine,no.om.no.urea,-29.987,116.5687,barton.79,auto chamber,No organic matter and Urea added,doi.org/10.1016/j.agee.2016.07.004,Conventional,,,,332
+Buntine,no.om.plus.urea,-29.987,116.5687,barton.79,auto chamber,"Urea added, no organic matter",doi.org/10.1016/j.agee.2016.07.004,Conventional,,,,332
+Wongan Hills,Lime.lw,-30.8374,116.7193,barton.52,auto chamber,fertilized lupin-wheat rotation with lime,doi.org/10.1016/j.agee.2013.01.003,Conventional,,,,720
+Wongan Hills,No-Lime.lw,-30.8374,116.7193,barton.52,auto chamber,fertilized lupin-wheat rotation no lime,doi.org/10.1016/j.agee.2013.01.003,Conventional,,,,720
+Wongan Hills,Lime.ww,-30.8374,116.7193,barton.52,auto chamber,fertilized wheat-wheat rotation with lime,doi.org/10.1016/j.agee.2013.01.003,Conventional,,,,720
+Wongan Hills,No-Lime.ww,-30.8374,116.7193,barton.52,auto chamber,fertilized wheat-wheat rotation no lime,doi.org/10.1016/j.agee.2013.01.003,Conventional,,,,720
+"Griffith, New South Wales",CONV_Irri,-34.324,146.068,quayle.39,auto chamber,conventional irrigation,doi.org/10.1071/SR15315,Conventional,,,,154
+"Griffith, New South Wales",CONV_DMPP,-34.324,146.068,quayle.39,auto chamber,conventional irrigation with DMPP inhibitor,doi.org/10.1071/SR15315,Conventional,,,,154
+"Griffith, New South Wales",RED_Irri,-34.324,146.068,quayle.39,auto chamber,reduced deficit irrigation,doi.org/10.1071/SR15315,Conventional,,,,154
+"Griffith, New South Wales",RED_DMPP,-34.324,146.068,quayle.39,auto chamber,reduced deficit irrigation with DMPP inhibitor,doi.org/10.1071/SR15315,Conventional,,,,154
+Willbriggie,30mm_Irri,-34.48,145.95,quayle.33,auto chamber,urea with 12 irrigation events of 30mm,doi.org/10.1016/j.agrformet.2015.04.010,Conventional,,,,123
+Willbriggie,60mm_Irri,-34.48,145.95,quayle.33,auto chamber,urea with 6 irrigation events of 60 mm,doi.org/10.1016/j.agrformet.2015.04.010,Conventional,,,,123
+Willbriggie,90mm_Irri,-34.48,145.95,quayle.33,auto chamber,urea with 4 irrigation events of 90 mm,doi.org/10.1016/j.agrformet.2015.04.010,Conventional,,,,123
+Willbriggie,120mm_Irri,-34.48,145.95,quayle.33,auto chamber,urea with 3 irrigation events of 120 mm,doi.org/10.1016/j.agrformet.2015.04.010,Conventional,,,,123
+"Griffith, New South Wales",Banna_Sand_Bare_Soil,-34.32,146.078,quayle.27,auto chamber,irrigated fallow,doi.org/10.1016/j.agrformet.2016.03.022,Conventional,,,,146
+"Griffith, New South Wales",Banna_Sand_Wheat,-34.323,146.069,quayle.27,auto chamber,irrigated wheat,doi.org/10.1016/j.agrformet.2016.03.022,Conventional,,,,146
+"Griffith, New South Wales",Hanwood_Loam_Bare_Soil,-34.323,146.069,quayle.27,auto chamber,irrigated fallow,,Conventional,,,,146
+"Griffith, New South Wales",Hanwood_Loam_Wheat,-34.323,146.069,quayle.27,auto chamber,irrigated wheat,,Conventional,,,,144
+"Griffith, New South Wales",Mundiwa_Clay_Loam_Bare_Soil,-34.323,146.069,quayle.27,auto chamber,irrigated fallow,,Conventional,,,,145
+"Griffith, New South Wales",Mundiwa_Clay_Loam_Wheat,-34.603,146.382,quayle.27,auto chamber,irrigated wheat,doi.org/10.1016/j.agrformet.2016.03.022,Conventional,,,,145
+Griffith,fertilizer,-34.3,146.03,quayle.10,auto chamber,bare soil + fertilizer twice - 65 kg/ha of urea,http://www.N2O.net.au/knb/metacat/quayle.10.19/html,Conventional,,,,119
+Griffith,bare,-34.3,146.03,quayle.10,auto chamber,bare soil treatment,http://www.N2O.net.au/knb/metacat/quayle.10.19/html,Zero Input,,,,119
+Griffith,stubbl,-34.3,146.03,quayle.10,auto chamber,wheat stubble treatment,http://www.N2O.net.au/knb/metacat/quayle.10.19/html,Conventional,,,,118
+Griffith,soybean,-34.3,146.03,quayle.10,auto chamber,"soybeans sown into wheat stubble, irrigation to meet soybean requirement",http://www.N2O.net.au/knb/metacat/quayle.10.19/html,Zero Input,,,,118
+KBS,CT_soybeans,42.26,-85.19,Ruan_2013,static chamber,"conventional tillage used for soybean production, coming out of CRP land",https://doi.org/10.1111/gcb.12216,Zero Input,,,,27
+KBS,NT_soybeans,42.26,-85.19,Ruan_2013,static chamber,"no till management used for soybean production, coming out of CRP land",https://doi.org/10.1111/gcb.12216,Zero Input,,,,27
+KBS,CRP_reference,42.26,-85.19,Ruan_2013,static chamber,control CRP field,https://doi.org/10.1111/gcb.12216,Zero Input,,,,11
+KBS,0,42.24,-85.24,Ruan_2016,static chamber,zero kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,28,42.24,-85.24,Ruan_2016,static chamber,twenty eight kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,56,42.24,-85.24,Ruan_2016,static chamber,fifty six kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,84,42.24,-85.24,Ruan_2016,static chamber,eighty four kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,112,42.24,-85.24,Ruan_2016,static chamber,one hundred and twelve kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,140,42.24,-85.24,Ruan_2016,static chamber,one hundred and forty kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,168,42.24,-85.24,Ruan_2016,static chamber,one hundred and sixty eight kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,196,42.24,-85.24,Ruan_2016,static chamber,one hundred and ninety six kilograms per hectare per year of nitrogen fertilizer applied,https://iopscience.iop.org/article/10.1088/1748-9326/11/6/064007,Conventional,,,,32
+KBS,ambient-snow,42.26,-85.19,Ruan_snow_2016,auto chamber,control plots where snow was neither added nor removed,https://doi.org/10.1007/s10021-016-0077-9,Conventional,,,,73
+KBS,double-snow,42.26,-85.19,Ruan_snow_2016,auto chamber,snow was added to twice the ambient levels with care to maintain snow density,https://doi.org/10.1007/s10021-016-0077-9,Conventional,,,,73
+KBS,no-snow,42.26,-85.19,Ruan_snow_2016,auto chamber,after each snow event ninety five percent of the snow was removed with a hand towel with care to not disturb snow density,https://doi.org/10.1007/s10021-016-0077-9,Conventional,,,,73
+KBS_CRP1,M1,42.24,-85.24,Gelfand_2011,static chamber,first converted site,https://doi.org/10.1073/pnas.1017277108,Zero Input,,,,12
+KBS_CRP2,M2,42.24,-85.24,Gelfand_2011,static chamber,second converted site,https://doi.org/10.1073/pnas.1017277108,Zero Input,,,,12
+KBS_CRP3,M3,42.24,-85.24,Gelfand_2011,static chamber,third converted site,https://doi.org/10.1073/pnas.1017277108,Zero Input,,,,12
+KBS_reference,M4,42.24,-85.24,Gelfand_2011,static chamber,CRP control site,https://doi.org/10.1073/pnas.1017277108,Zero Input,,,,12
+KBS,G2,42.24,-85.24,Oates_KBS_2015,static chamber,phases of a corn-soybean-canola rotation using best management practices for each system,https://doi.org/10.1111/gcbb.12268,Zero Input,,,,32
+Hamilton,T1,-37.73,142.02,fogarty.8,,winter wheat planted by direct drilling into sprayed out long term pasture,http://www.n2o.net.au/knb/metacat/fogarty.8.26/html,Zero Input,,,,315
+Hamilton,T2,-37.73,142.02,fogarty.8,,"As for treatment 1, with nitrification inhibitor sprayed onto the plots as DCD at 10 kg/ha",http://www.n2o.net.au/knb/metacat/fogarty.8.26/html,Zero Input,,,,331
+Hamilton,T3,-37.73,142.02,fogarty.8,,winter wheat planted after conventional cultivation of the soil,http://www.n2o.net.au/knb/metacat/fogarty.8.26/html,Zero Input,,,,347
+Hamilton,T4,-37.73,142.02,fogarty.8,,"As for treatment 3, with DCD also applied at least twice during the year.",http://www.n2o.net.au/knb/metacat/fogarty.8.26/html,Zero Input,,,,348
+,0n,-34.0544,150.6958,dougherty.8,,0 kg N applied,,Zero Input,,,,322
+,25n,-34.0544,150.6958,dougherty.8,,25 kg N applied,,Zero Input,,,,322
+,100n,-34.0544,150.6958,dougherty.8,,100 kg N applied,,Zero Input,,,,322
+,50n,-34.0544,150.6958,dougherty.8,,50 kg N applied,,Zero Input,,,,322
+Tgas_Glenlea_tillage,Field1-rt,49.64,-97.16,Tgas_Manitoba,flux gradient,"reduced tillage - maize, faba",http://dx.doi.org/10.1016/j.agrformet.2012.06.015,Conventional,,,,481
+Tgas_Glenlea_tillage,Field2-ct,49.64,-97.16,Tgas_Manitoba,flux gradient,"conventional tillage - maize, faba, spring wheat",http://dx.doi.org/10.1016/j.agrformet.2012.06.015,Conventional,,,,526
+Tgas_Glenlea_tillage,Field3-ct,49.64,-97.16,Tgas_Manitoba,flux gradient,"conventional tillage - maize, faba, spring wheat",http://dx.doi.org/10.1016/j.agrformet.2012.06.015,Conventional,,,,499
+Tgas_Glenlea_tillage,Field4-rt,49.64,-97.16,Tgas_Manitoba,flux gradient,"reduced tillage - maize, faba",http://dx.doi.org/10.1016/j.agrformet.2012.06.015,Conventional,,,,465
+Tgas_Glenlea_annual_perennial,Field1-perennial,49.64,-97.16,Tgas_Manitoba,flux gradient,annual converted to perennial,doi:10.4141/CJSS2013-025,Zero Input,,,,1057
+Tgas_Glenlea_annual_perennial,Field2-annual,49.64,-97.16,Tgas_Manitoba,flux gradient,"annual (wheat, canola, barley)",doi:10.4141/CJSS2013-025,Conventional,,,,500
+Tgas_Glenlea_annual_perennial,Field3-annual,49.64,-97.16,Tgas_Manitoba,flux gradient,"annual (wheat, canola, barley)",doi:10.4141/CJSS2013-025,Conventional,,,,478
+Tgas_Glenlea_annual_perennial,Field4-perennial,49.64,-97.16,Tgas_Manitoba,flux gradient,annual converted to perennial,doi:10.4141/CJSS2013-025,Zero Input,,,,906
+Tgas_Glenlea_fert_timing,Field2-ferttime,49.64,-97.16,Tgas_Manitoba,flux gradient,"spring-maize, preplant fert vs late fall fert",doi:10.2134/jeq2015.03.0159,Conventional,,,,501
+Tgas_Glenlea_fert_timing,Field3-ferttime,49.64,-97.16,Tgas_Manitoba,flux gradient,"spring-maize, preplant fert vs late fall fert",doi:10.2134/jeq2015.03.0159,Conventional,,,,510
+Tgas_Glenlea_conventional,Field1,49.64,-97.16,Tgas_Manitoba,flux gradient,conventional mgmt (soy-wheat-maize-canola) monitoring,http://dx.doi.org/10.1016/j.agrformet.2017.08.039,Conventional,,,,960
+Tgas_Glenlea_conventional,Field2,49.64,-97.16,Tgas_Manitoba,flux gradient,conventional mgmt (soy-wheat-maize-canola) monitoring,http://dx.doi.org/10.1016/j.agrformet.2017.08.039,Conventional,,,,1037
+Tgas_Glenlea_conventional,Field3,49.64,-97.16,Tgas_Manitoba,flux gradient,conventional mgmt (soy-wheat-maize-canola) monitoring,http://dx.doi.org/10.1016/j.agrformet.2017.08.039,Conventional,,,,962
+Tgas_Glenlea_conventional,Field4,49.64,-97.16,Tgas_Manitoba,flux gradient,conventional mgmt (soy-wheat-maize-canola) monitoring,http://dx.doi.org/10.1016/j.agrformet.2017.08.039,Conventional,,,,1009

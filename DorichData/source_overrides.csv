@@ -1,0 +1,7 @@
+ref,source,verified_by,note
+Mumford_2019,https://doi.org/10.1016/j.agee.2018.11.011,claude-candidate,"Mumford M.T., irrigation scheduling N2O — strong author+year+topic match; PLEASE VERIFY"
+dougherty.8,https://doi.org/10.1071/sr15330,claude-candidate,"Dougherty W., Soil Research 2015 — corroborated: same DOI as dougherty.6's CSIRO link; PLEASE VERIFY"
+vanDelden_2018,https://doi.org/10.1111/gcb.14444,claude-candidate,"van Delden Lona, GCB 2018 N2O — author+year match; PLEASE VERIFY"
+de_rosa_2018,https://doi.org/10.1016/j.scitotenv.2018.05.046,claude-candidate,"De Rosa/Rowlings/Biala 2018 STOTEN, N2O+CO2 organic/mineral N — strong first-author+year+group match; PLEASE VERIFY"
+kelly.30.33,http://www.n2o.net.au/knb/metacat/kelly.30/html,claude-candidate,"n2o.net.au dataset kelly.30 exists but metadata is access-restricted; sourced as repository link (you have project access). Replace with a DOI if a paper exists."
+Rowlings.34,https://doi.org/10.1016/j.agee.2015.09.025,verified-fingerprint,"Rowlings et al. 2016, dairy pasture annual N dynamics. CONFIRMED by exact start date 2012-04-26 (paper: ryegrass+DAP applied 26 April), 365-day annual record, pasture crop, urea/DMPP/zero treatments, irrigation. NOTE: daily Sand/Silt/Clay (66/16/18) for this ref are erroneous — paper site is Red Dermosol clay loam, pH 6.0, OC 4.7%."

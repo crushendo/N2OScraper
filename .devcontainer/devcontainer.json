@@ -1,0 +1,17 @@
+{
+    "name": "DorichScraper ETL",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "scraper",
+    "workspaceFolder": "/workspaces/DorichScraper",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    },
+    "// postCreate": "Install Django + DB libs from the mounted app so the load step uses the same versions as fluxapp.",
+    "postCreateCommand": "pip install -r /workspaces/fluxapp/requirements.txt",
+    "remoteUser": "root"
+}

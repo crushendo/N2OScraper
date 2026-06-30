@@ -1,0 +1,22 @@
+services:
+  scraper:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    command: sleep infinity
+    volumes:
+      # This repo (the folder VSCode attaches to).
+      - ..:/workspaces/DorichScraper:Z
+      # The Django app, so the load step can run `manage.py <loader>` and read
+      # fluxapp's own .env (DATABASE_URL points at the `db` service below).
+      - "/var/home/rackett/Web Projects/fluxapp:/workspaces/fluxapp:Z"
+    networks:
+      - n2o_net
+
+networks:
+  # Joined to the network created by fluxapp/.devcontainer/docker-compose.yml.
+  # Start the fluxapp devcontainer (or `docker compose up db`) first so this
+  # network and the `db` host exist.
+  n2o_net:
+    external: true
+    name: n2o_net

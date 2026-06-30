@@ -1,0 +1,5732 @@
+
+  
+    uid=EDI,o=EDI,dc=edirepository,dc=orgall
+      uid=cdorich,o=EDI,dc=edirepository,dc=org
+      all
+    
+    
+      public
+      read
+    
+  
+  
+    doi:10.6073/pasta/09a95cf44cd7835db002b0089ed5ffc3Global N2O Database version 1.0
+    
+      Christopher Dorich
+      Colorado State University
+      chris.dorich@colostate.edu
+    
+    
+      Rich Conant
+      Colorado State University
+      rich.conant@colostate.edu
+    
+    
+      Daqi Wang
+      Colorado State University
+      daqi.wang@colostate.edu
+    
+    
+      Sydney Lewis
+      technician
+    
+    2021-11-22
+    
+      Agriculture is the primary source of the powerful greenhouse gas (GHG) nitrous oxide (N2O) and an important source of GHG emissions. Due to sampling limitations, N2O measurements have traditionally been sparse; with research studies that often have less than 50 sampled days within a year. Nitrous oxide emissions are highly variable and short-lived peak emission periods may contribute more than 50% to annual emissions. Gap filling around these peaks, if measured at all, can result in poor estimations under the standard practice using linear interpolation. Improved gap filling methods that reflect covariate data will likely reduce uncertainty and improve annual N2O estimates. The Global N2O Database was created to serve as a repository for these datasets as well as become a resource for publicly available data and analytical advances. These datasets have been joined in data sheets that use the same formatting, allowing for easy access and comparison of data sets. We hope that this data availability will lead to improvements in N2O understanding and mitigation.
+    
+    
+      carbon dioxide
+      https://vocab.lternet.edu/vocab/vocab/index.php?tema=676&/co2
+    
+    
+      methane
+      https://vocab.lternet.edu/vocab/vocab/index.php?_search_expresion=methane
+    
+    
+      nitrous oxide
+      https://vocab.lternet.edu/vocab/vocab/index.php?_search_expresion=nitrous+oxide
+    
+    
+      flux
+      https://vocab.lternet.edu/vocab/vocab/index.php?tema=205
+    
+    
+      soilÊ
+      https://vocab.lternet.edu/vocab/vocab/index.php?tema=535&/soil
+    
+    
+      This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data (\"Data User\" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available \"as is.\" The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.
+
+    
+    https://doi.org/10.6073/pasta/09a95cf44cd7835db002b0089ed5ffc3
+      
+        datalibrarian.158
+        
+          151.83
+          151.83
+          -26.58
+          -26.58
+        
+      
+      
+        deantoni
+        
+          151.829
+          151.829
+          -26.582
+          -26.582
+        
+      
+      
+        scheer.11
+        
+          151.81
+          151.81
+          -27.48
+          -27.48
+        
+      
+      
+        scheer.14
+        
+          151.81
+          151.81
+          -27.48
+          -27.48
+        
+      
+      
+        scheer.inhib
+        
+          151.47
+          151.47
+          -27.31
+          -27.31
+        
+      
+      
+        Hoeglwald
+        
+          11.17
+          11.17
+          48.5
+          48.5
+        
+      
+      
+        kelly.24.27
+        
+          142.55
+          142.55
+          -38.14
+          -38.14
+        
+      
+      
+        kelly.30.33
+        
+          142.92
+          142.92
+          -38.24
+          -38.24
+        
+      
+      
+        kelly.38
+        
+          142.92
+          142.92
+          -38.24
+          -38.24
+        
+      
+      
+        kelly.52
+        
+          142.92
+          142.92
+          -38.24
+          -38.24
+        
+      
+      
+        barton.79
+        
+          116.5687
+          116.5687
+          -29.987
+          -29.987
+        
+      
+      
+        barton.52
+        
+          116.7193
+          116.7193
+          -30.8374
+          -30.8374
+        
+      
+      
+        Barton.Cunderdin
+        
+          117.13
+          117.13
+          -31.36
+          -31.36
+        
+      
+      
+        WagnerRiddle
+        
+          -80.24
+          -80.24
+          43.38
+          43.38
+        
+      
+      
+        dougherty.6
+        
+          150.7
+          150.7
+          -34.1
+          -34.1
+        
+      
+      
+        quayle.39
+        
+          146.068
+          146.068
+          -34.324
+          -34.324
+        
+      
+      
+        quayle.33
+        
+          145.95
+          145.95
+          -34.48
+          -34.48
+        
+      
+      
+        quayle.27
+        
+          146.078
+          146.078
+          -34.32
+          -34.32
+        
+      
+      
+        quayle.27
+        
+          146.069
+          146.069
+          -34.323
+          -34.323
+        
+      
+      
+        quayle.27
+        
+          146.382
+          146.382
+          -34.603
+          -34.603
+        
+      
+      
+        quayle.10
+        
+          146.03
+          146.03
+          -34.3
+          -34.3
+        
+      
+      
+        Ruan_2013
+        
+          -85.19
+          -85.19
+          42.26
+          42.26
+        
+      
+      
+        Ruan_2016
+        
+          -85.24
+          -85.24
+          42.24
+          42.24
+        
+      
+      
+        Ruan_snow_2016
+        
+          -85.19
+          -85.19
+          42.26
+          42.26
+        
+      
+      
+        Gelfand_2011
+        
+          -85.24
+          -85.24
+          42.24
+          42.24
+        
+      
+      
+        Oates_KBS_2015
+        
+          -85.24
+          -85.24
+          42.24
+          42.24
+        
+      
+      
+        Oates_Arlington_2015
+        
+          -89.22
+          -89.22
+          43.17
+          43.17
+        
+      
+      
+        Gelfand_2016
+        
+          -85.24
+          -85.24
+          42.24
+          42.24
+        
+      
+      
+        ALAUSDR
+        
+          -85.897
+          -85.897
+          32.423
+          32.423
+        
+      
+      
+        KYBGGHG
+        
+          -86.468
+          -86.468
+          36.9275
+          36.9275
+        
+      
+      
+        MNSP4R
+        
+          -93.1753
+          -93.1753
+          44.9976
+          44.9976
+        
+      
+      
+        MNRsmt
+        
+          -93.07
+          -93.07
+          44.75
+          44.75
+        
+      
+      
+        MTSIASRU
+        
+          -104.2473
+          -104.2473
+          48.55
+          48.55
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          45.6686
+          45.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          37.6686
+          37.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          38.6686
+          38.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          39.6686
+          39.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          40.6686
+          40.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          41.6686
+          41.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          42.6686
+          42.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          43.6686
+          43.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          44.6686
+          44.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          46.6686
+          46.6686
+        
+      
+      
+        MTSIFERE
+        
+          -111.2
+          -111.2
+          47.6686
+          47.6686
+        
+      
+      
+        NDMAGWP
+        
+          -100.91
+          -100.91
+          46.77
+          46.77
+        
+      
+      
+        NDMAHGPE
+        
+          -100.9157
+          -100.9157
+          46.7708
+          46.7708
+        
+      
+      
+        NDMASQMF
+        
+          -100.91
+          -100.91
+          46.77
+          46.77
+        
+      
+      
+        INWLTPAC
+        
+          -86.998
+          -86.998
+          40.4722
+          40.4722
+        
+      
+      
+        IDKM
+        
+          -114.3715
+          -114.3715
+          41.524
+          41.524
+        
+      
+      
+        COFOARD1
+        
+          -105.0781
+          -105.0781
+          40.5592
+          40.5592
+        
+      
+      
+        COFOARD2
+        
+          -105.0781
+          -105.0781
+          40.5592
+          40.5592
+        
+      
+      
+        COFOARD4
+        
+          -105.0781
+          -105.0781
+          40.5592
+          40.5592
+        
+      
+      
+        COFOARD3
+        
+          -105.0781
+          -105.0781
+          40.5592
+          40.5592
+        
+      
+      
+        MTSINVND
+        
+          -103.1
+          -103.1
+          48.1
+          48.1
+        
+      
+      
+        CONUNRBS
+        
+          -104.7062
+          -104.7062
+          40.8418
+          40.8418
+        
+      
+      
+        INWLACRE
+        
+          -86.903
+          -86.903
+          40.283
+          40.283
+        
+      
+      
+        INWLWQFS
+        
+          -86.998
+          -86.998
+          40.4722
+          40.4722
+        
+      
+      
+        INWLREAP
+        
+          -86.998
+          -86.998
+          40.4722
+          40.4722
+        
+      
+      
+        NEMEIRR
+        
+          -96.412
+          -96.412
+          41.1623
+          41.1623
+        
+      
+      
+        MNMOCC
+        
+          -95.8044
+          -95.8044
+          45.6837
+          45.6837
+        
+      
+      
+        MNMOFS
+        
+          -95.8
+          -95.8
+          45.7
+          45.7
+        
+      
+      
+        NDMAH3
+        
+          -100.9167
+          -100.9167
+          46.7667
+          46.7667
+        
+      
+      
+        PAHAW
+        
+          -77.8
+          -77.8
+          40.9
+          40.9
+        
+      
+      
+        SDaltrot
+        
+          -96.8056
+          -96.8056
+          44.3538
+          44.3538
+        
+      
+      
+        SDBRREAP
+        
+          -96.46
+          -96.46
+          44.19
+          44.19
+        
+      
+      
+        WIPDBARN
+        
+          -89.7113
+          -89.7113
+          43.3327
+          43.3327
+        
+      
+      
+        WYPHACE
+        
+          -104.78
+          -104.78
+          41.15
+          41.15
+        
+      
+      
+        FrancisClar
+        
+          8.24
+          8.24
+          47.12
+          47.12
+        
+      
+      
+        Fuchs.Chamau
+        
+          8.24
+          8.24
+          47.12
+          47.12
+        
+      
+      
+        fogarty.8
+        
+          142.02
+          142.02
+          -37.73
+          -37.73
+        
+      
+      
+        dougherty.8
+        
+          150.6958
+          150.6958
+          -34.0544
+          -34.0544
+        
+      
+      
+        Zhang_Yt
+        
+          116.55
+          116.55
+          28.15
+          28.15
+        
+      
+      
+        China_CS
+        
+          104.1
+          104.1
+          28.08
+          28.08
+        
+      
+      
+        China_JX
+        
+          116.2
+          116.2
+          28.15
+          28.15
+        
+      
+      
+        China_GH
+        
+          104.1
+          104.1
+          31.03
+          31.03
+        
+      
+      
+        Tgas_Manitoba
+        
+          -97.16
+          -97.16
+          49.64
+          49.64
+        
+      
+      
+        
+          
+            1980-01-01
+          
+          
+            2016-12-31
+          
+        
+      
+      
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Asteranae
+                        846535
+                        
+                          order
+                          Asterales
+                          35419
+                          
+                            family
+                            Asteraceae
+                            sunflowers
+                            35420
+                            
+                              genus
+                              Achillea
+                              yarrow
+                              35422
+                              
+                                species
+                                Achillea millefolium
+                                common yarrow
+                                milenrama
+                                milfoil
+                                western yarrow
+                                bloodwort
+                                carpenter's weed
+                                yarrow
+                                35423
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Asteranae
+                        846535
+                        
+                          order
+                          Asterales
+                          35419
+                          
+                            family
+                            Asteraceae
+                            sunflowers
+                            35420
+                            
+                              genus
+                              Crepis
+                              hawksbeard
+                              37168
+                              
+                                species
+                                Crepis tectorum
+                                narrowleaf hawksbeard
+                                37212
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Lilianae
+                        monocots
+                        monocotyledons
+                        846542
+                        
+                          order
+                          Poales
+                          846620
+                          
+                            family
+                            Cyperaceae
+                            sedges
+                            39357
+                            
+                              genus
+                              Cyperus
+                              flatsedge
+                              39882
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Rosanae
+                        846548
+                        
+                          order
+                          Malpighiales
+                          822428
+                          
+                            family
+                            Euphorbiaceae
+                            spurge
+                            28031
+                            
+                              genus
+                              Euphorbia
+                              spurge
+                              28032
+                              
+                                species
+                                Euphorbia glyptosperma
+                                ridgeseed spurge
+                                ribseed sandmat
+                                28074
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Rosanae
+                        846548
+                        
+                          order
+                          Fabales
+                          500022
+                          
+                            family
+                            Fabaceae
+                            peas
+                            legumes
+                            500059
+                            
+                              genus
+                              Lespedeza
+                              25892
+                              
+                                species
+                                Lespedeza capitata
+                                roundhead lespedeza
+                                25897
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Rosanae
+                        846548
+                        
+                          order
+                          Brassicales
+                          822943
+                          
+                            family
+                            Brassicaceae
+                            mustards
+                            crucifers
+                            22669
+                            
+                              genus
+                              Lepidium
+                              pepperweed
+                              22953
+                              
+                                species
+                                Lepidium densiflorum
+                                miner's pepperwort
+                                miners' pepperweed
+                                prairie pepperweed
+                                greenflower pepperweed
+                                peppergrass
+                                common pepperweed
+                                22960
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Lilianae
+                        monocots
+                        monocotyledons
+                        846542
+                        
+                          order
+                          Poales
+                          846620
+                          
+                            family
+                            Poaceae
+                            40351
+                            
+                              genus
+                              Poa
+                              41074
+                              
+                                species
+                                Poa pratensis
+                                41088
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Caryophyllanae
+                        846539
+                        
+                          order
+                          Caryophyllales
+                          19520
+                          
+                            family
+                            Polygonaceae
+                            knotweed
+                            buckwheat
+                            20842
+                            
+                              genus
+                              Rumex
+                              dock
+                              20933
+                              
+                                species
+                                Rumex acetosella
+                                sheep sorrel
+                                field sorrel
+                                red sorrel
+                                common sheep sorrel
+                                20934
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Lilianae
+                        monocots
+                        monocotyledons
+                        846542
+                        
+                          order
+                          Poales
+                          846620
+                          
+                            family
+                            Poaceae
+                            40351
+                            
+                              genus
+                              Schizachyrium
+                              42069
+                              
+                                species
+                                Schizachyrium scoparium
+                                42076
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Lilianae
+                        monocots
+                        monocotyledons
+                        846542
+                        
+                          order
+                          Poales
+                          846620
+                          
+                            family
+                            Poaceae
+                            40351
+                            
+                              genus
+                              Bouteloua
+                              41491
+                              
+                                species
+                                Bouteloua gracilis
+                                41493
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          species
+          Koeleria cristata
+          515476
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Tracheophyta
+                  vascular plants
+                  tracheophytes
+                  846496
+                  
+                    subdivision
+                    Spermatophytina
+                    spermatophytes
+                    seed plants
+                    846504
+                    
+                      class
+                      Magnoliopsida
+                      18063
+                      
+                        superorder
+                        Asteranae
+                        846535
+                        
+                          order
+                          Asterales
+                          35419
+                          
+                            family
+                            Asteraceae
+                            sunflowers
+                            35420
+                            
+                              genus
+                              Liatris
+                              blazing star
+                              gayfeather
+                              37906
+                              
+                                species
+                                Liatris aspera
+                                tall blazing star
+                                37909
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        
+          kingdom
+          Plantae
+          plants
+          202422
+          
+            subkingdom
+            Viridiplantae
+            green plants
+            954898
+            
+              infrakingdom
+              Streptophyta
+              land plants
+              846494
+              
+                superdivision
+                Embryophyta
+                954900
+                
+                  division
+                  Bryophyta
+                  mosses
+                  14189
+                
+              
+            
+          
+        
+        
+          Cyp
+        
+      
+    
+    
+      Complete
+    
+    
+      Christopher Dorich
+      Colorado State University
+      chris.dorich@colostate.edu
+    
+    Environmental Data Initiativeinfo@environmentaldatainitiative.orghttps://environmentaldatainitiative.org0330j0z60Environmental Data Initiative
+      
+        
+          N2O can be measured by a variety of methods. Please check the 'siteSummary' and 'cumulativeN2O' data sheets to see how these data sets were measured. 
+Please check Dorich et al., 2020 (https://doi.org/10.1016/j.cosust.2020.04.006) for further scientific background and creation information related to the Global N2O Database.
+
+        
+      
+    
+    
+      Global N2O Database
+      
+        Christopher Dorich
+        Colorado State University
+        chris.dorich@colostate.edu
+        Principal Investigator
+      
+      USDA-NIFA 2018-67019-2781
+      
+        Global N2O Database
+        
+          Rich Conant
+          Colorado State University
+          rich.conant@colostate.edu
+          Principal Investigator
+        
+        USDA-NIFA 2018-67019-2781
+      
+      
+        Global N2O Database
+        
+          Daqi Wang
+          Colorado State University
+          daqi.wang@colostate.edu
+          Principal Investigator
+        
+        USDA-NIFA 2018-67019-2781
+      
+    
+    
+      Sitelibrary
+      Sitelibrary - overview of site-treatments and associated basic meta-data
+      
+        Sitelibrary_V1.csv
+        163080
+        cf7fa7e79dec31094c5e4d0971ff19fe
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/877/1/75d0efec8e89ffb5ea1c002a449b2f99
+          
+        
+      
+      
+        
+          Reference
+          Name of the site
+          string
+          
+            
+              
+                
+                  Name of the site
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          SiteID
+          Name of the site
+          string
+          
+            
+              
+                
+                  Name of the site
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          DB_version
+          first version of the Global N2O Database that this site was present for
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  1
+                  1
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Contact
+          email contact information of the data provider
+          string
+          
+            
+              
+                
+                  email contact information of the data provider
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          license
+          creative commons (or other) licensing level
+          string
+          
+            
+              
+                
+                  creative commons (or other) licensing level
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Other repository/location
+          If the data is published at another repository or location, provide DOI or web link
+          string
+          
+            
+              
+                
+                  If the data is published at another repository or location, provide DOI or web link
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          PrimaryPaper
+          DOI of the primary paper related to this dataset
+          string
+          
+            
+              
+                
+                  DOI of the primary paper related to this dataset
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          SecondaryPaper
+          DOI of a secondary paper related to the dataset, if available
+          string
+          
+            
+              
+                
+                  DOI of a secondary paper related to the dataset, if available
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Type
+          land use type
+          string
+          
+            
+              
+                
+                  land use type
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Latitude
+          latitude
+          float
+          
+            
+              
+                degree
+              
+              
+                real
+                
+                  -38.24
+                  49.64
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Longitude
+          longitude
+          float
+          
+            
+              
+                degree
+              
+              
+                real
+                
+                  -114.3715
+                  151.83
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Start_Date
+          start of the experiment sampling
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          End_Date
+          end of the experiment sampling
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Measurement_method
+          method used for measuring n2o
+          string
+          
+            
+              
+                
+                  method used for measuring n2o
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Trt_#
+          number of treatments examined in the experiment
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  1
+                  23
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment
+          Treatment name/type being examined
+          string
+          
+            
+              
+                
+                  Treatment name/type being examined
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment_Description
+          simple treatment description
+          string
+          
+            
+              
+                
+                  simple treatment description
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          avgN_applied
+          average annual N application rate
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  0
+                  1000
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          N type
+          most common type of N applied
+          string
+          
+            
+              
+                
+                  most common type of N applied
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Sampled_days
+          number of days n2o was sampled during the experiment
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  8
+                  4085
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Missing_days
+          number of missing days during the experimental period
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  8944
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          PercGap
+          percent of experimental period that is missing values
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  99.46619217
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Envir_factors
+          covariates available with the data set
+          string
+          
+            
+              
+                
+                  covariates available with the data set
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Notes
+          any additional notes for the site-treatment
+          string
+          
+            
+              
+                
+                  any additional notes for the site-treatment
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+      
+      438
+    
+    
+      Summary
+      Summary - futher meta-data and site level information
+      
+        Summary_V1.csv
+        269168
+        835feb701ad72f27ab7d4b83babfee3e
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/877/1/290612199861c31d1036b185b4e69b75
+          
+        
+      
+      
+        
+          Reference
+          name of site location
+          string
+          
+            
+              
+                
+                  name of site location
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          SiteID
+          site identification
+          string
+          
+            
+              
+                
+                  site identification
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment
+          Treatment name
+          string
+          
+            
+              
+                
+                  Treatment name
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment description
+          management details about the description
+          string
+          
+            
+              
+                
+                  management details about the description
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Latitude
+          latitude recorded in decimal format
+          float
+          
+            
+              
+                degree
+              
+              
+                real
+                
+                  -38.24
+                  56.5
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Longitude
+          longitutde recorded in decimal format
+          float
+          
+            
+              
+                degree
+              
+              
+                real
+                
+                  -121.866
+                  175.3104
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          elevation_m
+          elevation measured in meters
+          float
+          
+            
+              
+                meter
+              
+              
+                real
+                
+                  2.13
+                  2073
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          DataLevel
+          review
+          string
+          
+            
+              
+                
+                  review
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          PubYear
+          year of publication
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          StudyYear
+          year of study
+          string
+          
+            
+              
+                
+                  year of study
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Fertilizer_Type
+          type of fertilizer applied
+          string
+          
+            
+              
+                
+                  type of fertilizer applied
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Avg_Fert_N_Rate_kgNha
+          average amount of nitrogen applied to the site
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  0
+                  988
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Land_Type
+          type of land use
+          string
+          
+            
+              
+                
+                  type of land use
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Country
+          country where experiment took place
+          string
+          
+            
+              
+                
+                  country where experiment took place
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Location
+          name research station
+          string
+          
+            
+              
+                
+                  name research station
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          MeanPrec_mm
+          mean annula precipitation
+          float
+          
+            
+              
+                millimeter
+              
+              
+                real
+                
+                  127
+                  3400
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          MeanTemp_c
+          mean annual temperature
+          string
+          
+            
+              
+                
+                  mean annual temperature
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Soil_Type_Pub
+          amount of drainage in soil
+          string
+          
+            
+              
+                
+                  amount of drainage in soil
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Soil_Type
+          type of soil
+          string
+          
+            
+              
+                
+                  type of soil
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Sand
+          percent of sand in soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  1
+                  93
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Silt
+          percent of silt in soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  2
+                  70
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Clay
+          percent of clay in soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  1.13
+                  76
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilC_perc
+          percentage of carbon in the soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.43
+                  45.7
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilN_perc
+          percentage of nitorgen in the soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.003
+                  1.85
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          pH
+          measurement of the acidity or alkalinity of the soil
+          float
+          
+            
+              
+                dimensionless
+              
+              
+                real
+                
+                  4.41
+                  9.22
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          CEC
+          cation exchange capacity
+          float
+          
+            
+              
+                mole
+              
+              
+                real
+                
+                  3
+                  15
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          BD
+          bulk density
+          float
+          
+            
+              
+                gramsPerCubicCentimeter
+              
+              
+                real
+                
+                  0.3
+                  1.61
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Drainage
+          type of drainage system used in plot
+          string
+          
+            
+              
+                
+                  type of drainage system used in plot
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Precrop
+          crop grown in plot before experiment
+          string
+          
+            
+              
+                
+                  crop grown in plot before experiment
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Crop
+          crop grown during experiment
+          string
+          
+            
+              
+                
+                  crop grown during experiment
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Residues
+          resiudes left in the field after the crop is harvested
+          float
+          
+            
+              
+                tonnePerHectare
+              
+              
+                real
+                
+                  -9999
+                  5.3
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil_tillage
+          indication of soil being tilled
+          string
+          
+            
+              
+                
+                  indication of soil being tilled
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Irrigation
+          indication of irrigation being present
+          string
+          
+            
+              
+                
+                  indication of irrigation being present
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Liming
+          application of calcium
+          string
+          
+            
+              
+                
+                  application of calcium
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Study_Fertilizer_type
+          review
+          string
+          
+            
+              
+                
+                  review
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Fertilizer_additives
+          fertilizer additives
+          string
+          
+            
+              
+                
+                  fertilizer additives
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Appl_time
+          season of application
+          string
+          
+            
+              
+                
+                  season of application
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Appl_Mode
+          mode of applying fertilizer under the given method
+          string
+          
+            
+              
+                
+                  mode of applying fertilizer under the given method
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          No_Appl
+          number of applications
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  4
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          OMAD_applied
+          inidication of if OMAD was applied
+          string
+          
+            
+              
+                
+                  inidication of if OMAD was applied
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          OMAD_Type
+          type of OMAD applied
+          string
+          
+            
+              
+                
+                  type of OMAD applied
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          OMAD_Kg_N_ha
+          amount of OMAD applied
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  40.8
+                  266
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          OMAD_CN
+          Carbon to nitrogen ratio of applied OMAD
+          float
+          
+            
+              
+                dimensionless
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Total_kg_N_ha
+          total amount nitrogen per hectare applied
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  0
+                  87.5
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          N2OSampleMethod
+          method used for measuring n2o
+          string
+          
+            
+              
+                
+                  method used for measuring n2o
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Chamber_size_m3
+          volume of chamber used
+          float
+          
+            
+              
+                cubicMeter
+              
+              
+                real
+                
+                  0.003
+                  7.0148
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          chmbr_measurement_length_minutes
+          amount of time chamber was recording
+          float
+          
+            
+              
+                minute
+              
+              
+                natural
+                
+                  3
+                  75
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          DM_crop_yield_t_ha
+          crop yield
+          float
+          
+            
+              
+                tonnePerHectare
+              
+              
+                real
+                
+                  0.73
+                  2788
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          avg_Biomass_yield_t_ha
+          biomass of crop yield
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0.94
+                  6496
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+      
+      993
+    
+    
+      Cumulative n2o
+      cumulative - annual and duration of sampling n2o sums
+      
+        cumulativeN2O_V1.csv
+        129208
+        a4f110b28070c31abd6ce0f3c5c4f1e6
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/877/1/99e5eb6034e759d1cea73f0599d5c48e
+          
+        
+      
+      
+        
+          SiteId
+          site where study was conducted
+          string
+          
+            
+              
+                
+                  site where study was conducted
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment
+          treatment being examined
+          string
+          
+            
+              
+                
+                  treatment being examined
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          N applied
+          amount of N (fertilizer, residue, manure) applied that year
+          float
+          
+            
+              
+                kilogramsPerHectarePerYear
+              
+              
+                real
+                
+                  0
+                  1194
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          N applications
+          number of times nitrogen was applied
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  100
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          N type
+          type of nitrogen application
+          string
+          
+            
+              
+                
+                  type of nitrogen application
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          StartYr
+          year n2o samples started to be collected
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          EndYr
+          year n2o samples stopped being collected
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Annual.n2o
+          cumulative annual n2o as reported by data provider
+          float
+          
+            
+              
+                kilogramsPerHectarePerYear
+              
+              
+                real
+                
+                  -0.08170752
+                  31.32702868
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          cumulative.n2o
+          cumulative  n2o as reported by data provider for period reported in sample.period
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  -0.008
+                  80.9
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Cumulative.start
+          cumulative n2o period, start date
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Cumulative.end
+          cumulative n2o period, end date
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          crop.n2o
+          cumulative n2o during a crop period
+          string
+          
+            
+              
+                
+                  cumulative n2o during a crop period
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          crop
+          crop being grown during that year
+          string
+          
+            
+              
+                
+                  crop being grown during that year
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Sample.method
+          n2o sample method (e.g., manual chamber, auto chamber, eddy covariance, etc)
+          string
+          
+            
+              
+                
+                  n2o sample method (e.g., manual chamber, auto chamber, eddy covariance, etc)
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Sample.number
+          numer of samples taken during that year
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  1
+                  365
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          sample.period
+          duration (days) of the sample period (e.g., 365 days)
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  2030
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          StartDate
+          start date of n2o sampling
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          EndDate
+          end date of n2o sampling
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          gapfilling.method
+          commonly: linear, GAMs, ARIMA, or whatever they note in publication for how data was gap-filled
+          string
+          
+            
+              
+                
+                  commonly: linear, GAMs, ARIMA, or whatever they note in publication for how data was gap-filled
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          gapfilling.method.notes
+          notes on gap-filling method
+          string
+          
+            
+              
+                
+                  notes on gap-filling method
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+      
+      1085
+    
+    
+      crop yield
+      crop yield - crop yield data associted with n2o data
+      
+        CropYield_V1.csv
+        132116
+        d7b5d682f4accf7bf4c380a11497378d
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/877/1/64e8349f2b6cd2c25a1a994a2b03db5c
+          
+        
+      
+      
+        
+          SiteId
+          name of site location
+          string
+          
+            
+              
+                
+                  name of site location
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment
+          type of treatment applied to plot
+          string
+          
+            
+              
+                
+                  type of treatment applied to plot
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Crop
+          crop that was harvested
+          string
+          
+            
+              
+                
+                  crop that was harvested
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Year
+          Year the crop was harvested in
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Plant.date
+          date the crop was planted
+          date
+          
+            
+              YYYY-MM-DD
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Harvest.date
+          Date the crop was harvested on
+          date
+          
+            
+              YYYY-MM-DD
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Notes
+          Any notes about crop info at the site
+          string
+          
+            
+              
+                
+                  Any notes about crop info at the site
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Grain_Yield
+          Dry Matter weight of grain harvest yield
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0.13
+                  41.7
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Grain_Yield_Error
+          standard error of Grain_Yield (DM)
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0
+                  1.839560204
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Aboveground_biomass
+          Dry Matter (DM) weight of all aboveground biomass
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0.11115
+                  22.098
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Aboveground_biomass_Error
+          standard error of Aboveground_biomass (DM)
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0.03
+                  2.94
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Harvest_Index
+          % of crop harvested as grain (grain/shoot)
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.21
+                  0.38
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          HIError
+          standard error of Harvest_Index
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.01
+                  0.03
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Total_N_uptake
+          N content of harveste plant
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  2.025
+                  267.82
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Nuptake_Error
+          Standard error for 'Total N uptale'
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  1.53
+                  31
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Shoots_Yield
+          Dry Matter weight of shoots harvest yield
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0.0028
+                  7.76
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Shoots_Yield_Error
+          standard error of Shoots_Yield (DM)
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  4e-04
+                  0.493
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          ShootsC
+          percent of carbon measured in the shoots/straw
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  41.7
+                  42
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          ShootsC_SE
+          standard errof of ShootsC
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.14
+                  0.31
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          ShootsN
+          percent of nitrogen measured in the shoots/straw
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.6
+                  0.7
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          ShootsN_SE
+          standard errof of ShootsN
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.03
+                  0.04
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          GrainC
+          percent of carbon measured in the grains
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  40
+                  56.8
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          GrainC_SE
+          standard error of GrainC
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.1
+                  0.46
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          GrainN
+          percent of nitrogen measured in the grains
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  1.56
+                  4.24
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          GrainN_SE
+          standard error of GrainN
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.03
+                  0.3
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Protein
+          Percent of protein measured in the crop
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  7.078068182
+                  27.5
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Crude.Protein
+          Percent of crude protein measured in the crop
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  13.29666667
+                  24.905
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Total_grain_nitrogen
+          Total nitrogen harvest in grains kgN/ha
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  43
+                  157
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Total_grain_carbon
+          Total carbon harvest in grains kgC/ha
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  1652.58
+                  2062.79
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Total_straw_nitrogen
+          Total nitrogen harvest in shoots kgN/ha
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  15.64
+                  89.93
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Total_Straw_carbon
+          Total carbon harvest in shoots kgC/ha
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  1335.03
+                  3090.62
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Straw_Yield
+          Dry Matter weight of straw harvest yield
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  3.31
+                  9.71
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Straw_Yield_Error
+          standard error of Straw_Yield (DM)
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Straw_res
+          straw remaining in field after harvest (DM)
+          float
+          
+            
+              
+                megagramsPerHectare
+              
+              
+                real
+                
+                  0.97
+                  1.42
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Res_Straw_carbon
+          carbon in straw remaining in field after harvest
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  377.99
+                  577.93
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Res_Straw_nitrogen
+          Total nitrogen removed from plot in harvest, any part of plant, kgN/ha
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  6.29
+                  16.26
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          CN_grain
+          Carbon to nitrogen ratio in grain
+          float
+          
+            
+              
+                dimensionless
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          CN_stem
+          Carbon to nitrogen ratio in shoots/straw
+          float
+          
+            
+              
+                dimensionless
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          CN_roots
+          Carbon to nitrogen ratio in roots
+          float
+          
+            
+              
+                dimensionless
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+      
+      893
+    
+    
+      daily GHG
+      daily ghg - Daily N2O data along with covariates measured at the sites
+      
+        DailyGHG_V1.csv
+        117524079
+        be538b04e1f3216d87cd643b4982ab41
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/877/1/d773858ceb70997e8d0c9b924d435066
+          
+        
+      
+      
+        
+          SiteID
+          name of site location
+          string
+          
+            
+              
+                
+                  name of site location
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Date
+          day of collection
+          date
+          
+            
+              MM-DD-YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Treatment
+          type of treatment applied to plot
+          string
+          
+            
+              
+                
+                  type of treatment applied to plot
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Crop
+          type of crop used
+          string
+          
+            
+              
+                
+                  type of crop used
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Fertilizer.kgN.ha
+          Amount of N applied to site
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  4.5
+                  1194
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Fert.Type
+          type of N application
+          string
+          
+            
+              
+                
+                  type of N application
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Tillage.cm
+          tillage dpeth
+          float
+          
+            
+              
+                centimeter
+              
+              
+                real
+                
+                  4
+                  35
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Tillage.type
+          tillage implement that was used
+          string
+          
+            
+              
+                
+                  tillage implement that was used
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Sand
+          percent of sand in the soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  3.1
+                  83.33333333
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Silt
+          percent of silt in the soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  11.66666667
+                  70.8
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Clay
+          percent of clay in the soil
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.86
+                  60
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          tmax
+          maximum air temperature that day
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -36.92222
+                  46.1
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          tmin
+          minimum air temperature that day
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -40
+                  403.86
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          tavg
+          average air temperature that day
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -34.22458333
+                  999999
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          TotalnetRad
+          total solar radiation measured that day
+          float
+          
+            
+              
+                megajoulePerMeterSquaredPerDay
+              
+              
+                real
+                
+                  0
+                  51.5
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          rain
+          total precipitation that day
+          float
+          
+            
+              
+                millimeter
+              
+              
+                real
+                
+                  0
+                  311.8
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          rain.irrigation
+          amount of irrigation water added that day
+          float
+          
+            
+              
+                millimeter
+              
+              
+                real
+                
+                  0
+                  234
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Dew
+          dewpoint
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -35.049
+                  25.33333333
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          GSR.avg
+          average recorded global radiation
+          float
+          
+            
+              
+                megajoulePerMeterSquaredPerDay
+              
+              
+                natural
+                
+                  7
+                  893
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          humi.max
+          maximum humidty recorded
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  17.7
+                  103.7
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          humi.min
+          minimum humidity recorded
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  98.2
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          humi.avg
+          average humidity recorded
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  104.5
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilt
+          soil temperature
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -100
+                  35
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil.temp5
+          soil temperature measured a soil depth of five centimeters
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -6999
+                  41.3
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil.temp10
+          soil temperature measured a soil depth of ten centimeters
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -20.49833
+                  45.9
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil.temp20
+          soil temperature measured a soil depth of fifteen centimeters
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -10.48938
+                  35.62
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil_temp_x
+          other soil temperature measurements
+          float
+          
+            
+              
+                celsius
+              
+              
+                real
+                
+                  -0.8
+                  31.2
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil_temp_x_depth
+          depth of soil temperature measurement for x profile
+          float
+          
+            
+              
+                centimeter
+              
+              
+                natural
+                
+                  15
+                  15
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilM0
+          soil moisture at 0cm depth, soil surface
+          float
+          
+            
+              
+                gramsPerCubicCentimeter
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilM5
+          soil moisture at 5cm depth
+          float
+          
+            
+              
+                gramsPerCubicCentimeter
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilM10
+          soil moisture at 10cm depth
+          float
+          
+            
+              
+                gramsPerCubicCentimeter
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          SoilM20
+          soil moisture at 20cm depth
+          float
+          
+            
+              
+                gramsPerCubicCentimeter
+              
+              
+                real
+                
+                  1
+                  73.6
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soil.M
+          average soil moisture
+          float
+          
+            
+              
+                gramsPerCubicCentimeter
+              
+              
+                real
+                
+                  0
+                  98.16667
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          soilM_depth
+          depth of soil moisture measurement
+          float
+          
+            
+              
+                centimeter
+              
+              
+                natural
+                
+                  5
+                  30
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          WFPS0
+          WFPS at 0cm depth, soil surface
+          float
+          
+            
+              
+                percent
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          WFPS5
+          WFPS at 5cm depth
+          float
+          
+            
+              
+                percent
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          WFPS10
+          WFPS at 10cm depth
+          float
+          
+            
+              
+                percent
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          WFPS20
+          WFPS at 20cm depth
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  2.23
+                  147.76
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          WFPS
+          average WFPS moisture that day
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0.32
+                  114.5053
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          WFPS_depth
+          depth of wfps soil moisture measurement
+          float
+          
+            
+              
+                percent
+              
+              
+                natural
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Etref_s
+          short crop- less than 0.5m
+          float
+          
+            
+              
+                millimeter
+              
+              
+                real
+                
+                  0.7
+                  13.4
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Etref_t
+          tall crop- taller than 0.5m
+          float
+          
+            
+              
+                millimeter
+              
+              
+                real
+                
+                  0.8
+                  13.9
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          NH4
+          ammonium measured in soil
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  0
+                  477.06
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          NO3
+          nitrate measured in soil
+          float
+          
+            
+              
+                kilogramsPerHectare
+              
+              
+                real
+                
+                  0
+                  1864
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          DOC
+          Mean dissolved organic carbon present in plots
+          float
+          
+            
+              
+                gramsPerGram
+              
+              
+                real
+                
+                  32.7082
+                  516
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          wind
+          wind speed
+          float
+          
+            
+              
+                metersPerSecond
+              
+              
+                real
+                
+                  0
+                  43.452
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          wind.max
+          maximum wind speed measured that day
+          float
+          
+            
+              
+                metersPerSecond
+              
+              
+                real
+                
+                  9.6
+                  47
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          Eto
+          potentional evapotranspiration
+          float
+          
+            
+              
+                metersPerSecond
+              
+              
+                real
+                
+                  0.06
+                  16
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          CH4
+          measured methane flux in sample
+          float
+          
+            
+              
+                gramsPerHectarePerDay
+              
+              
+                real
+                
+                  -90.32559524
+                  941.294879
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          ch4sd
+          standard deviation of the CH4 (ch4) flux
+          float
+          
+            
+              
+                gramsPerHectarePerDay
+              
+              
+                real
+                
+                  -6.175160997
+                  295.5478322
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          CO2
+          measured carbon oxide flux in sample
+          float
+          
+            
+              
+                kilogramsPerHectarePerYear
+              
+              
+                real
+                
+                  -5257.960124
+                  326308.9
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          co2sd
+          standard deviation of the CO2 (co2) flux
+          float
+          
+            
+              
+                kilogramsPerHectarePerYear
+              
+              
+                real
+                
+                  0
+                  58848.35564
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          n2o
+          measured nitrous oxide flux in sample
+          float
+          
+            
+              
+                gramsPerHectarePerDay
+              
+              
+                real
+                
+                  -136
+                  8197
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          n2osd
+          standard deviation of that sample if available
+          float
+          
+            
+              
+                gramsPerHectarePerDay
+              
+              
+                real
+                
+                  0
+                  8679.752094
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          wfps.calc
+          revised water filled pore space in the sheet with >100 days
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  193.6538462
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          pH
+          pH value for soil sample
+          float
+          
+            
+              
+                dimensionless
+              
+              
+                real
+                
+                  4.41
+                  8.01
+                
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          month
+          month the sample was in, for dplyr calls
+          date
+          
+            
+              MM
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+        
+          year
+          year of the sample, for use in dplyr functions
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            Missing Value
+          
+        
+      
+      549454
+    
+  
+  
+    
+      
+        
+          kilogramsPerMeterSquared
+          kilogramPerMeterSquared
+          kilogramsÊperÊhectare
+          kilograms per hectare
+        
+        
+          
+        
+        
+          .01 meters
+        
+        
+          percent oneÊpartÊperÊhundredÊparts aÊdecimalÊratioÊ
+        
+        
+          gramsÊPerÊHectareÊPerÊDay
+        
+        
+          a common unit of temperature
+        
+        
+          .001Êmeters
+        
+        
+          millimetersÊperÊday
+        
+        
+          unitÊofÊpressureÊdefinedÊasÊ101325ÊPaÊ(1.01325Êbar)
+        
+        
+          60 seconds
+        
+        
+          metric ton or tonne per hectare
+        
+        
+          megajoules per square meter per day
+        
+        
+          kilogram/hectare/common_year
+        
+        
+          cubic centimeters per cubic centimeters
+        
+      
+    
+  

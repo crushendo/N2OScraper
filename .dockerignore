@@ -1,0 +1,9 @@
+# Keep the build context small — data is mounted at runtime, not baked in.
+DorichData/
+*.csv
+*.db
+*.ods
+*.xml
+__pycache__/
+.git/
+.venv/
