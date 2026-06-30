@@ -1,0 +1,52 @@
+{
+  "created": "2026-06-30T11:55:57",
+  "source_dir": "/workspaces/DorichScraper/DorichData/cleaned",
+  "dry_run": false,
+  "tables": [
+    {
+      "model": "Publication",
+      "db_table": "Publication",
+      "pk_field": "PubID",
+      "pk_column": "PubID",
+      "count": 36,
+      "pk_min": 60,
+      "pk_max": 95
+    },
+    {
+      "model": "Site",
+      "db_table": "Site",
+      "pk_field": "SiteID",
+      "pk_column": "SiteID",
+      "count": 33,
+      "pk_min": 48,
+      "pk_max": 80
+    },
+    {
+      "model": "Experiment",
+      "db_table": "Experiment",
+      "pk_field": "ExperimentID",
+      "pk_column": "ExperimentID",
+      "count": 39,
+      "pk_min": 59,
+      "pk_max": 97
+    },
+    {
+      "model": "Treatment",
+      "db_table": "Treatment",
+      "pk_field": "TreatmentID",
+      "pk_column": "TreatmentID",
+      "count": 164,
+      "pk_min": 335,
+      "pk_max": 498
+    },
+    {
+      "model": "RawMeasurementTreatment",
+      "db_table": "RawMeasurementTreatment",
+      "pk_field": "rawtreatmentid",
+      "pk_column": "RawTreatmentID",
+      "count": 162739,
+      "pk_min": 211617,
+      "pk_max": 374355
+    }
+  ]
+}

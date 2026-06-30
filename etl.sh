@@ -19,19 +19,37 @@ FLUXAPP_DIR="${FLUXAPP_DIR:-/workspaces/fluxapp}"
 # Site.csv, Experiment.csv, Treatment.csv, RawMeasurementTreatment.csv).
 TABLES_DIR="${TABLES_DIR:-DorichData/cleaned}"
 
-# Django management command that loads the per-table CSVs. There is NO safe
-# default: `import_rawdata` expects a single denormalized RawData.csv and was
-# written for a different project, so a per-table loader must be chosen
-# explicitly to avoid loading the wrong way:
-#     LOAD_CMD=load_tables ./etl.sh
+# Django management command that loads the per-table CSVs in FK order. The load
+# is OPT-IN so you can inspect the transformed CSVs first. The loader is
+# `load_tables`: it writes an undo manifest and is reversible with
+# `--undo <manifest>`. Dry-run first, then load for real:
+#     LOAD_CMD=load_tables ./etl.sh --dry-run        # parse + roll back
+#     LOAD_CMD=load_tables ./etl.sh                  # commit + write manifest
 LOAD_CMD="${LOAD_CMD:-}"
 
-echo "== [1/2] Transform: DorichData/ raw exports -> per-table CSVs in $TABLES_DIR =="
+# Fetch current MAX(PK) of each table from the live DB so generated surrogate
+# keys start above them and don't collide on load. Uses the mounted Django app
+# (reads fluxapp/.env -> DATABASE_URL). Empty/unset tables yield 0.
+echo "== [1/3] Reading existing key offsets from the DB =="
+cd "$FLUXAPP_DIR"
+OFFSETS=$(DJANGO_SETTINGS_MODULE=fluxapp.settings python -c "
+import django; django.setup()
+from django.db.models import Max
+from n2odb.models import Publication, Site, Experiment, Treatment, RawMeasurementTreatment
+mx=lambda m: m.objects.aggregate(x=Max('pk'))['x'] or 0
+print(mx(Publication), mx(Site), mx(Experiment), mx(Treatment), mx(RawMeasurementTreatment))
+")
+read PUB SITE EXP TRT RAW <<< "$OFFSETS"
+echo "   offsets: Publication=$PUB Site=$SITE Experiment=$EXP Treatment=$TRT RawMeasurementTreatment=$RAW"
+
+echo "== [2/3] Transform: DorichData/ raw exports -> per-table CSVs in $TABLES_DIR =="
 cd "$SCRAPER_DIR"
-python build_tables.py --data DorichData --out "$TABLES_DIR"
+python build_tables.py --data DorichData --out "$TABLES_DIR" \
+    --pub-offset "$PUB" --site-offset "$SITE" --exp-offset "$EXP" \
+    --trt-offset "$TRT" --raw-offset "$RAW"
 
 if [[ -z "$LOAD_CMD" ]]; then
-    echo "== [2/2] Load: SKIPPED — no loader chosen." >&2
+    echo "== [3/3] Load: SKIPPED — no loader chosen." >&2
     echo "   The transform produced normalized per-table CSVs in $TABLES_DIR." >&2
     echo "   Set LOAD_CMD to a management command that loads them in FK order" >&2
     echo "   (Publication, Site, Experiment, Treatment, RawMeasurementTreatment), e.g." >&2
@@ -39,7 +57,7 @@ if [[ -z "$LOAD_CMD" ]]; then
     exit 0
 fi
 
-echo "== [2/2] Load: $TABLES_DIR/*.csv -> Django MySQL via 'manage.py $LOAD_CMD' =="
+echo "== [3/3] Load: $TABLES_DIR/*.csv -> Django MySQL via 'manage.py $LOAD_CMD' =="
 cd "$FLUXAPP_DIR"
 python manage.py "$LOAD_CMD" "$SCRAPER_DIR/$TABLES_DIR" "$@"
 

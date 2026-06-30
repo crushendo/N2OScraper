@@ -38,7 +38,7 @@ import time
 import urllib.parse
 import urllib.request
 from collections import Counter, OrderedDict
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 csv.field_size_limit(1 << 24)
@@ -195,11 +195,13 @@ def _extract_doi(raw):
 
 
 def _clean_text(t):
-    """Decode HTML entities, incl. APA-title-cased ones like '&Amp;'."""
+    """Decode HTML entities (incl. APA-title-cased '&Amp;') and collapse any
+    embedded newlines/runs of whitespace to single spaces."""
     if not t:
         return None
     t = re.sub(r"&amp;", "&", t, flags=re.IGNORECASE)
-    return html.unescape(t).strip() or None
+    t = re.sub(r"\s+", " ", html.unescape(t))
+    return t.strip() or None
 
 
 def _doi_get(url, accept, timeout=20):
@@ -538,6 +540,17 @@ def main():
     ap.add_argument("--find-sources", action="store_true",
                     help="Search CrossRef/metacat for unsourced refs, write "
                          "<data>/source_candidates.csv for review, and exit.")
+    # Surrogate-key offsets: generated PKs start at <offset>+1 so they don't
+    # collide with rows already in the target DB. Pass the current MAX(PK) of
+    # each table (0 = standalone output starting at 1).
+    ap.add_argument("--flux-replicates", type=int, default=3,
+                    help="Assumed replicate count n for converting the source SD "
+                         "(n2osd) to FluxStandardError = SD/sqrt(n). Default 3.")
+    ap.add_argument("--pub-offset", type=int, default=0)
+    ap.add_argument("--site-offset", type=int, default=0)
+    ap.add_argument("--exp-offset", type=int, default=0)
+    ap.add_argument("--trt-offset", type=int, default=0)
+    ap.add_argument("--raw-offset", type=int, default=0)
     args = ap.parse_args()
 
     data = Path(args.data)
@@ -698,7 +711,7 @@ def main():
                 author = clip(lead_author(ref_name.get(ref_l)), 32)
                 yr = pubyear.get(ref_l)
                 link = None
-            pid = len(pubs) + 1
+            pid = args.pub_offset + len(pubs) + 1
             pubs.append(dict(PubID=pid, PubTitle=title, LeadAuthor=author,
                              Citation=citation, PubYear=yr, Link=link))
             pub_by_key[key] = pid
@@ -715,10 +728,10 @@ def main():
         key = (name, lat, lon)
         sid = site_by_key.get(key)
         if sid is None:
-            sid = len(sites) + 1
+            sid = args.site_offset + len(sites) + 1
             mp, mt = summary.get(ref_l, (None, None))
             sites.append(dict(SiteID=sid, Latitude=lat, Longitude=lon,
-                              MAP=mp, MAT=mt, Gracenet=None, SiteName=name))
+                              MAP=mp, MAT=mt, Gracenet=0, SiteName=name))  # Dorich data: never GRACEnet
             site_by_key[key] = sid
         return sid
 
@@ -726,7 +739,7 @@ def main():
         eid = exp_by_ref.get(ref_l)
         if eid is None:
             lib_row = by_ref.get(ref_l)
-            eid = len(exps) + 1
+            eid = args.exp_offset + len(exps) + 1
             exps.append(dict(ExperimentID=eid, ExperimentName=clip(ref_name.get(ref_l, ref_l), 255),
                              SiteID=get_site(ref_l, lib_row),
                              PubID=get_pub(ref_l, lib_row)))
@@ -739,7 +752,7 @@ def main():
             continue
         lib_row = by_pair.get((ref_l, trt_l)) or by_ref.get(ref_l)
         eid = get_exp(ref_l)
-        tid = len(treatments) + 1
+        tid = args.trt_offset + len(treatments) + 1
         trt_id[(ref_l, trt_l)] = tid
 
         def mean(box):
@@ -807,11 +820,19 @@ def main():
                   "PlantedCrop", "Tillage", "Harvest", "Management"]
     ntype_seen = Counter()      # (form, type) -> n, for the review summary
     calc_vwc = calc_wfps = irrig = n_till = n_harv = n_fert = 0
-    written = skipped_nodate = 0
-    with open(daily_path, newline="", encoding="utf-8-sig", errors="ignore") as fin, \
-            open(out / "RawMeasurementTreatment.csv", "w", newline="", encoding="utf-8") as fout:
-        w = csv.writer(fout)
-        w.writerow(daily_cols)
+    kept = skipped_nodate = dup_collisions = 0
+    # FluxStandardError is derived from the source SD: SE = SD / sqrt(n). The
+    # source has no replicate count, so n is assumed (--flux-replicates).
+    sqrt_n = max(args.flux_replicates, 1) ** 0.5
+
+    # Pass 2a: read the daily file into one payload per (TreatmentID, Date). The
+    # kept data is already treatment-averaged — one row per treatment-day (verified
+    # zero (tid,date) duplicates; n2osd is the across-replicate SD). A collision
+    # here would mean an unexpected replicate, so we count and warn rather than
+    # silently overwrite. Payloads omit the leading RawTreatmentID pk; it is
+    # assigned at write time so the ids stay contiguous in sorted order.
+    by_trt = {}                 # tid -> {iso_date: payload}
+    with open(daily_path, newline="", encoding="utf-8-sig", errors="ignore") as fin:
         for row in csv.DictReader(fin):
             ref_orig = s(row.get("SiteID")) or ""
             ref_l = lc(ref_orig)
@@ -875,20 +896,60 @@ def main():
             if form:
                 ntype_seen[(form, ntype)] += 1
 
-            written += 1
-            w.writerow([
-                written, tid, iso, doy,
-                f(row.get("n2o")), f(row.get("n2osd")),
+            sd = f(row.get("n2osd"))                  # source standard deviation
+            fse = round(sd / sqrt_n, 4) if sd is not None else None
+
+            # NitrogenApplied is never null: a measured fert-N rate, or 0.
+            napplied_out = napplied if napplied is not None else 0
+
+            payload = [
+                tid, iso, doy,
+                f(row.get("n2o")), fse,
                 vwc, vwc_calc, wfps, wfps_calc,
                 temp(row.get("soilt")), temp(row.get("tavg")), temp(row.get("tmax")), temp(row.get("tmin")),
-                precip, irrigation, napplied,
+                precip, irrigation, napplied_out,
                 form, ntype,
                 f(row.get("NH4")), f(row.get("NO3")),
                 clip(row.get("Crop"), 32),
                 tillage, harvest, management,
-            ])
+            ]
+            day_map = by_trt.setdefault(tid, {})
+            if iso in day_map:
+                dup_collisions += 1
+            day_map[iso] = payload
+            kept += 1
+
+    # Pass 2b: emit one row per calendar day across each treatment's full span,
+    # gap-filling any missing day so every treatment is a continuous daily series,
+    # sorted by TreatmentID then Date. A synthetic gap-day carries the date/DOY,
+    # NitrogenApplied=0, and NULL for every measurement (we do not fabricate data).
+    # GAP_FILL payload layout: [tid, iso, doy] + 12 NULL metrics + [0 N] + 8 NULLs.
+    written = filled = 0
+    with open(out / "RawMeasurementTreatment.csv", "w", newline="", encoding="utf-8") as fout:
+        w = csv.writer(fout)
+        w.writerow(daily_cols)
+        for tid in sorted(by_trt):
+            day_map = by_trt[tid]
+            lo = date.fromisoformat(min(day_map))   # iso strings sort chronologically
+            hi = date.fromisoformat(max(day_map))
+            d = lo
+            while d <= hi:
+                iso = d.isoformat()
+                payload = day_map.get(iso)
+                if payload is None:
+                    payload = ([tid, iso, d.timetuple().tm_yday]
+                               + [None] * 12 + [0] + [None] * 8)
+                    filled += 1
+                written += 1
+                w.writerow([args.raw_offset + written] + payload)
+                d += timedelta(days=1)
+
+    if dup_collisions:
+        print(f"WARNING: {dup_collisions} (TreatmentID,Date) collisions — unexpected "
+              f"replicate-level rows; last value kept (data may not be treatment-averaged).")
     print(f"Wrote RawMeasurementTreatment={written} "
-          f"(skipped {skipped_nodate} rows with no parseable Date)")
+          f"(read {kept} daily rows; gap-filled {filled} missing days; "
+          f"skipped {skipped_nodate} with no parseable Date; sorted by TreatmentID, Date)")
     print(f"Derived VWCCalculated for {calc_vwc} rows, WFPSCalculated for {calc_wfps} rows; "
           f"IrrigationApplied for {irrig} rows.")
     print(f"Management events: fertilizer={n_fert} tillage={n_till} harvest={n_harv} "

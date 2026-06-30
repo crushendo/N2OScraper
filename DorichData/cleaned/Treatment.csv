@@ -1,165 +1,165 @@
 TreatmentID,ExperimentID,PrimaryCrop,Management,Tillage,FluxInstrument,TreatmentName,SandMean,SiltMean,ClayMean,TreatmentDescription,pH,BulkDensity,SOMMean
-1,1,lupin,Conventional,,auto chamber,Lime.lw,,,,fertilized lupin-wheat rotation with lime,6.1708,,10.3
-2,1,wheat,Conventional,,auto chamber,Lime.ww,,,,fertilized wheat-wheat rotation with lime,5.9131,,10.3
-3,1,lupin,Conventional,,auto chamber,No-Lime.lw,,,,fertilized lupin-wheat rotation no lime,4.9069,,10.3
-4,1,wheat,Conventional,,auto chamber,No-Lime.ww,,,,fertilized wheat-wheat rotation no lime,4.6319,,10.3
-5,2,barley,Conventional,offsetdisk,auto chamber,no.om.no.urea,,,,No organic matter and Urea added,,,
-6,2,barley,Conventional,offsetdisk,auto chamber,no.om.plus.urea,,,,"Urea added, no organic matter",,,
-7,2,barley,Conventional,offsetdisk,auto chamber,om.no.urea,,,,"Orgain matter added, no Urea",,,
-8,2,barley,Conventional,offsetdisk,auto chamber,om.plus.urea,,,,Orgain matter and Urea added,,,
-9,3,Unknown,,,,Early.Termination,,,,,,,
-10,3,Unknown,,,,Late.Termination,,,,,,,
-11,3,Unknown,,,,Mowed.Pasture,,,,,,,
-12,3,Unknown,,,,Spring.Crop,,,,,,,
-13,4,Unknown,Conventional,,static chamber,C0N0,,,,"no biochar amendment, no N fertilizer",,0.91,1.876
-14,4,Unknown,Conventional,,static chamber,C0N20,,,,"no biochar amendment, urea applied",,0.91,1.876
-15,4,Unknown,Conventional,,static chamber,C20N20,,,,"20 t/ha biochar amendment, urea applied",,0.91,1.876
-16,4,Unknown,Conventional,,static chamber,C40N20,,,,"40 t/ha biochar amendment, urea applied",,0.91,1.876
-17,5,Unknown,Conventional,,static chamber,C0N0,,,,"no biochar amendment, no N fertilizer",,1.1,2.011
-18,5,Unknown,Conventional,,static chamber,C0N1,,,,"no biochar amendment, urea applied",,1.1,2.011
-19,5,Unknown,Conventional,,static chamber,C1N1,,,,"20 t/ha biochar amendment, urea applied",,1.1,2.011
-20,5,Unknown,Conventional,,static chamber,C2N1,,,,"40 t/ha biochar amendment, urea applied",,1.1,2.011
-21,6,Unknown,Conventional,,static chamber,C0N0,,,,"no biochar amendment, no N fertilizer",,1.24,1.77
-22,6,Unknown,Conventional,,static chamber,C0N20,,,,"no biochar amendment, urea applied",,1.24,1.77
-23,6,Unknown,Conventional,,static chamber,C20N20,,,,"20 t/ha biochar amendment, urea applied",,1.24,1.77
-24,6,Unknown,Conventional,,static chamber,C40N20,,,,"40 t/ha biochar amendment, urea applied",,1.24,1.77
-25,7,Sorghum,,,,N000,37.09,24.37,38.54,,,,
-26,7,Sorghum,,,,N040,37.09,24.37,38.54,,,,
-27,7,Sorghum,,,,N120,37.09,24.37,38.54,,,,
-28,7,Sorghum,,,,N200,37.09,24.37,38.54,,,,
-29,8,sorghum,Conventional,multi,auto chamber,grass.0n,31.0,14.0,55.0,"Sorghum in grass ley pasture-cereal rotation, no fertilisation",,1.18,0.56
-30,8,sorghum,Conventional,multiple,auto chamber,legume.0n,31.0,14.0,55.0,"Sorghum in legume ley pasture-cereal rotation, no fertilisation",,1.18,0.43
-31,8,sorghum,Conventional,multiple,auto chamber,legume.70n,31.0,14.0,55.0,"Sorghum in legume ley pasture-cereal rotation, sorghum fertilised with a total of 70 Kg N ha-1",,1.18,0.43
-32,8,sorghum,Conventional,multiple,auto chamber,grass.100n,31.0,14.0,55.0,"Sorghum in grass ley pasture-cereal rotation, sorghum fertilised with a total of 100 Kg N ha-1",,1.18,0.56
-33,9,Green beans,,,,Ma+Rd,18.0,22.0,60.0,,,,
-34,9,Green beans,,,,Ma+CONV,18.0,22.0,60.0,,,,
-35,9,Green beans,,,,CONV,18.0,22.0,60.0,,,,
-36,9,Green beans,,,,Co+CONV,18.0,22.0,60.0,,,,
-37,9,Green beans,,,,Co+Rd,18.0,22.0,60.0,,,,
-38,10,maize,Conventional,multiple,auto chamber,cnt,33.0,17.0,50.0,"control treatment, 0 kg N/ha applied",,1.23,0.55
-39,10,maize,Conventional,multiple,auto chamber,conv,33.0,17.0,50.0,"optimal N rate, 80 kg N/ha conv urea applied",,1.23,0.55
-40,10,maize,Conventional,multiple,auto chamber,conv-dmpp,33.0,17.0,50.0,"optimal N rate, 80 kg N/ha DMPP urea applied",,1.23,0.55
-41,10,maize,Conventional,multiple,auto chamber,rfr,33.0,17.0,50.0,"sub-optimal N rate, 20 kg N/ha conv urea applied",,1.23,0.55
-42,11,pasture,Conventional,,auto chamber,Urea,,,,CONTROL standard urea,,1.36,2.9
-43,11,pasture,Conventional,,auto chamber,Urea+DMPP,,,,urea + nitrification inhibitor,,1.36,2.9
-44,11,pasture,Conventional,,auto chamber,Urea+NBPT,,,,urea + urease inhibitor,,1.36,2.9
-45,12,pasture,Conventional,,,0n,,,,0 kg N applied,,,
-46,12,pasture,Conventional,,,100n,,,,100 kg N applied,,,
-47,12,pasture,Conventional,,,25n,,,,25 kg N applied,,,
-48,12,pasture,Conventional,,,50n,,,,50 kg N applied,,,
-49,13,Unknown,Conventional,,,T1,,,,winter wheat planted by direct drilling into sprayed out long term pasture,,,
-50,13,Unknown,Conventional,,,T2,,,,"As for treatment 1, with nitrification inhibitor sprayed onto the plots as DCD at 10 kg/ha",,,
-51,13,Unknown,Conventional,,,T3,,,,winter wheat planted after conventional cultivation of the soil,,,
-52,13,Unknown,Conventional,,,T4,,,,"As for treatment 3, with DCD also applied at least twice during the year.",,,
-53,14,maize,Conventional,Field cultivator,auto chamber,band,,,,on the top of fertilization band,,,
-54,14,maize,Conventional,Field cultivator,auto chamber,row,,,,on the planting row,,,
-55,15,Unknown,Organic,,eddy covariance,ParcelA.Control,,,,Grassland with 4-6 harvests and post harvest slurry application,,1.1,
-56,15,Unknown,Organic,,eddy covariance,Parcelb.Control,,,,Grassland with 4-6 harvests and post harvest slurry application,,1.1,
-57,15,Unknown,Conventional,,eddy covariance,Parcelb.Clover,,,,"Clover oversowed on grass, no liquid slurry applied",,1.1,
-58,16,Unknown,Conventional,,static chamber,M1,,,,first converted site,,,
-59,16,Unknown,Conventional,,static chamber,M2,,,,second converted site,,,
-60,16,Unknown,Conventional,,static chamber,M3,,,,third converted site,,,
-61,16,Unknown,Conventional,,static chamber,M4,,,,CRP control site,,,
-62,17,Unknown,Conventional,,static chamber,TSF,,,,Mid-successional community,,,
-63,17,Unknown,Conventional,,static chamber,T1,,,,corn-soy-wheat CT,,,
-64,17,Unknown,Conventional,,static chamber,T2,,,,corn-soy-wheat NT,,,
-65,17,Unknown,Conventional,,static chamber,T3,,,,corn-soy-wheat NT with cover crops and reduced N,,,
-66,17,Unknown,Conventional,,static chamber,T4,,,,corn-soy-wheat organic with manure,,,
-67,17,Unknown,Conventional,,static chamber,T5,,,,Poplar plantation,,,
-68,17,Unknown,Conventional,,static chamber,T6,,,,Alfalfa,,,
-69,17,Unknown,Conventional,,static chamber,T7,,,,Early Successional,,,
-70,17,Unknown,Conventional,,static chamber,T8,,,,Never-tilled mown grassland with herbaceous vegetation mown every fall,,,
-71,17,Unknown,Conventional,,static chamber,TCF,,,,Coniferous forest plantation,,,
-72,17,Unknown,Conventional,,static chamber,TDF,,,,Deciduous forest,,,
-73,18,Unknown,,,,NoTill_Pasture,,,,,,,
-74,18,Unknown,,,,NoTill_Pea,,,,,,,
-75,18,Unknown,,,,Till_Pasture,,,,,,,
-76,18,Unknown,,,,Till_Pea,,,,,,,
-77,19,Unknown,Conventional,,auto chamber,spruce,,,,spruce forest,,,
-78,20,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 11 September 2009,,,
-79,20,pasture,Organic,,auto chamber,t4,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 11 September 2009 plus DCD @ 10 kg a.i./ha applied 14 August 2009,,,
-80,20,pasture,Organic,,auto chamber,t5,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 14 August 2009,,,
-81,20,pasture,Organic,,auto chamber,t6,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 14 August 2009 plus DCD @ 10 kg a.i./ha applied 14 August 2009,,,
-82,21,pasture,Conventional,,auto chamber,t1,53.0,24.0,16.0,nil applied,,,
-83,21,pasture,Organic,,auto chamber,t2,53.0,24.0,16.0,"urine @1000 kgN/ha applied to 25% of chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010",,,
-84,21,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010 with DCD @10 kg a.i./ha applied 23 Sept 2010",,,
-85,21,pasture,Organic,,auto chamber,t4,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010 with DCD @ 10 kg a.i./ha applied each time",,,
-86,22,pasture,Conventional,,auto chamber,t1,53.0,24.0,16.0,nil applied,,,
-87,22,pasture,Organic,,auto chamber,t2,53.0,24.0,16.0,"urine @1000 kgN/ha was original target however urine was only applied three times to 25% of chamber base at each application on 17 Sept 2012, 22 Nov 2012 and 16 May 2013",,,
-88,22,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 17 Sept 2012, 22 Nov 2012 and 16 May 2013 and with DCD @10 kg a.i./ha applied as surface spray on 17 Sept 2012 and again 16 May 2013",,,
-89,22,pasture,Organic,,auto chamber,t4,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 17 Sept 2012, 22 Nov 2012, and 16 May 2013 with DCD is mixed in with urine at each application at a rate equivalent to 20 kg a.i./ha",,,
-90,23,pasture,Conventional,,auto chamber,t1,53.0,24.0,16.0,nil applied,,,
-91,23,pasture,Organic,,auto chamber,t2,53.0,24.0,16.0,urine @1000 kgN/ha applied 19 September 2013,,,
-92,23,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 19 September 2013 with nitrapyrin sprayed on after application of urine at 1 kg a.i./ha,,,
-93,23,pasture,Conventional,,auto chamber,t4,53.0,24.0,16.0,fresh dairy cow dung aiming to apply equivalent to 400 kg N/ha applied as three dung pads as circles each of 0.25 m diameter on 19 September 2013,,,
-94,24,Unknown,,,,High,,,,,,,
-95,24,Unknown,,,,Low,,,,,,,
-96,24,Unknown,,,,Medium,,,,,,,
-97,25,Unknown,Conventional,,static chamber,G2,,,,phases of a corn-soybean-canola rotation using best management practices for each system,,,
-98,26,soybean,Conventional,,auto chamber,bare,,,,bare soil treatment,,,
-99,26,soybean,Conventional,,auto chamber,fertilizer,,,,bare soil + fertilizer twice - 65 kg/ha of urea,,,
-100,26,soybean,Conventional,,auto chamber,soybean,,,,"soybeans sown into wheat stubble, irrigation to meet soybean requirement",,,
-101,26,soybean,Conventional,,auto chamber,stubbl,,,,wheat stubble treatment,,,
-102,27,Unknown,Conventional,,auto chamber,Banna_Sand_Bare_Soil,,,,irrigated fallow,,1.28,0.93
-103,27,Unknown,Conventional,,auto chamber,Banna_Sand_Wheat,,,,irrigated wheat,,1.28,0.93
-104,27,Unknown,Conventional,,auto chamber,Hanwood_Loam_Bare_Soil,,,,irrigated fallow,,1.49,1.23
-105,27,Unknown,Conventional,,auto chamber,Hanwood_Loam_Wheat,,,,irrigated wheat,,1.49,1.23
-106,27,Unknown,Conventional,,auto chamber,Mundiwa_Clay_Loam_Bare_Soil,,,,irrigated fallow,,1.27,1.17
-107,27,Unknown,Conventional,,auto chamber,Mundiwa_Clay_Loam_Wheat,,,,irrigated wheat,,1.27,1.17
-108,28,Unknown,Conventional,,auto chamber,120mm_Irri,,,,urea with 3 irrigation events of 120 mm,,1.45,1.18
-109,28,Unknown,Conventional,,auto chamber,30mm_Irri,,,,urea with 12 irrigation events of 30mm,,1.45,1.18
-110,28,Unknown,Conventional,,auto chamber,60mm_Irri,,,,urea with 6 irrigation events of 60 mm,,1.45,1.18
-111,28,Unknown,Conventional,,auto chamber,90mm_Irri,,,,urea with 4 irrigation events of 90 mm,,1.45,1.18
-112,29,Unknown,Conventional,,auto chamber,CONV_DMPP,,,,conventional irrigation with DMPP inhibitor,,1.45,
-113,29,Unknown,Conventional,,auto chamber,CONV_Irri,,,,conventional irrigation,,1.45,
-114,29,Unknown,Conventional,,auto chamber,RED_DMPP,,,,reduced deficit irrigation with DMPP inhibitor,,1.45,
-115,29,Unknown,Conventional,,auto chamber,RED_Irri,,,,reduced deficit irrigation,,1.45,
-116,30,Pasture,,,,DMPP.Low,66.0,16.0,18.0,,,,
-117,30,Pasture,,,,Urea_High,66.0,16.0,18.0,,,,
-118,30,Pasture,,,,Urea_Low,66.0,16.0,18.0,,,,
-119,30,Pasture,,,,Zero,66.0,16.0,18.0,,,,
-120,31,Brome Grass,Conventional,,static chamber,CRP_reference,,,,control CRP field,,,
-121,31,Unknown,Conventional,,static chamber,CT_soybeans,,,,"conventional tillage used for soybean production, coming out of CRP land",,,
-122,31,Brome Grass,Conventional,,static chamber,NT_soybeans,,,,"no till management used for soybean production, coming out of CRP land",,,
-123,32,Unknown,Conventional,,static chamber,0,,,,zero kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-124,32,Unknown,Conventional,,static chamber,112,,,,one hundred and twelve kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-125,32,Unknown,Conventional,,static chamber,140,,,,one hundred and forty kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-126,32,Unknown,Conventional,,static chamber,168,,,,one hundred and sixty eight kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-127,32,Unknown,Conventional,,static chamber,196,,,,one hundred and ninety six kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-128,32,Unknown,Conventional,,static chamber,28,,,,twenty eight kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-129,32,Unknown,Conventional,,static chamber,56,,,,fifty six kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-130,32,Unknown,Conventional,,static chamber,84,,,,eighty four kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
-131,33,Unknown,Conventional,,auto chamber,ambient-snow,,,,control plots where snow was neither added nor removed,,,12.9
-132,33,Unknown,Conventional,,auto chamber,double-snow,,,,snow was added to twice the ambient levels with care to maintain snow density,,,12.9
-133,33,Unknown,Conventional,,auto chamber,no-snow,,,,after each snow event ninety five percent of the snow was removed with a hand towel with care to not disturb snow density,,,12.9
-134,34,Unknown,Conventional,,auto chamber,KT_50%_irrigation,,,,fully irrigated- crop irrigation is stimulated when fifty percent of the plants available water capacity is depleted,,0.9,16.1
-135,34,Unknown,Conventional,,auto chamber,KT_60%_irrigation,,,,deficit irrigated- crop irrigation is stimulated when sixty percent of the plants available water capacity is depleted,,0.9,15.0
-136,34,Unknown,Conventional,,auto chamber,KT_85%_irrigation,,,,deficit irrigated three- crop irrigation is stimulated when eighty five percent of the plants available water capacity is depleted,,0.9,15.5
-137,35,Unknown,Conventional,,auto chamber,KT_50%_irrigation,,,,fully irrigated- crop irrigation is stimulated when fifty percent of the plants available water capacity is depleted,,0.9,16.1
-138,35,Unknown,Conventional,,auto chamber,KT_60%_irrigation,,,,deficit irrigated- crop irrigation is stimulated when sixty percent of the plants available water capacity is depleted,,0.9,15.0
-139,35,Unknown,Conventional,,auto chamber,KT_85%_irrigation,,,,deficit irrigated three- crop irrigation is stimulated when eighty five percent of the plants available water capacity is depleted,,0.9,15.5
-140,36,corn,Conventional,harrow,flux gradient,Field1-rt,,,,"reduced tillage - maize, faba",,1.2,3.2
-141,36,corn,Conventional,chisel/harrow,flux gradient,Field2-ct,,,,"conventional tillage - maize, faba, spring wheat",,1.2,3.2
-142,36,corn,Conventional,chisel/harrow,flux gradient,Field3-ct,,,,"conventional tillage - maize, faba, spring wheat",,1.2,3.2
-143,36,corn,Conventional,harrow,flux gradient,Field4-rt,,,,"reduced tillage - maize, faba",,1.2,3.2
-144,36,alfalfa,Conventional,disk,flux gradient,Field1-perennial,,,,annual converted to perennial,,1.15,3.2
-145,36,barley,Conventional,chisel,flux gradient,Field2-annual,,,,"annual (wheat, canola, barley)",,1.15,3.2
-146,36,barley,Conventional,chisel,flux gradient,Field3-annual,,,,"annual (wheat, canola, barley)",,1.15,3.2
-147,36,alfalfa,Conventional,disk,flux gradient,Field4-perennial,,,,annual converted to perennial,,1.15,3.2
-148,36,corn,Conventional,chisel/harrow,flux gradient,Field2-ferttime,,,,"spring-maize, preplant fert vs late fall fert",,1.15,3.2
-149,36,corn,Conventional,chisel/harrow,flux gradient,Field3-ferttime,,,,"spring-maize, preplant fert vs late fall fert",,1.15,3.2
-150,36,soybean,Conventional,harrow,flux gradient,Field1,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
-151,36,soybean,Conventional,harrow,flux gradient,Field2,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
-152,36,soybean,Conventional,harrow,flux gradient,Field3,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
-153,36,soybean,Conventional,harrow,flux gradient,Field4,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
-154,37,Unknown,,,,Fallow,,,,,,,
-155,37,Unknown,,,,Forest,,,,,,,
-156,37,Unknown,,,,Lawn,,,,,,,
-157,37,Unknown,,,,Pasture,,,,,,,
-158,38,corn,No-till,,flux gradient,nt,29.0,52.0,19.0,"Best management practices, No tillage with cover crop in corn-soy-wheat",,1.32,
-159,38,corn,Conventional,disking,flux gradient,ct,29.0,52.0,19.0,"Conventional practices, CT and fert in corn-soy-wheat",,1.19,
-160,39,sorghum,Conventional,,auto chamber,Entec,,,,urea + DMPP,,0.9,1.65
-161,39,sorghum,Conventional,,auto chamber,eNtrench,,,,urea + Nitrapyrin,,0.9,1.65
-162,39,sorghum,Conventional,,auto chamber,Poly,,,,PCU_polymer-coated urea,,0.9,1.65
-163,39,sorghum,Conventional,,auto chamber,Urea,,,,urea,,0.9,1.65
-164,39,sorghum,Conventional,,auto chamber,zeroN,,,,control - 0N,,0.9,1.65
+335,59,lupin,Conventional,,auto chamber,Lime.lw,,,,fertilized lupin-wheat rotation with lime,6.1708,,10.3
+336,59,wheat,Conventional,,auto chamber,Lime.ww,,,,fertilized wheat-wheat rotation with lime,5.9131,,10.3
+337,59,lupin,Conventional,,auto chamber,No-Lime.lw,,,,fertilized lupin-wheat rotation no lime,4.9069,,10.3
+338,59,wheat,Conventional,,auto chamber,No-Lime.ww,,,,fertilized wheat-wheat rotation no lime,4.6319,,10.3
+339,60,barley,Conventional,offsetdisk,auto chamber,no.om.no.urea,,,,No organic matter and Urea added,,,
+340,60,barley,Conventional,offsetdisk,auto chamber,no.om.plus.urea,,,,"Urea added, no organic matter",,,
+341,60,barley,Conventional,offsetdisk,auto chamber,om.no.urea,,,,"Orgain matter added, no Urea",,,
+342,60,barley,Conventional,offsetdisk,auto chamber,om.plus.urea,,,,Orgain matter and Urea added,,,
+343,61,Unknown,,,,Early.Termination,,,,,,,
+344,61,Unknown,,,,Late.Termination,,,,,,,
+345,61,Unknown,,,,Mowed.Pasture,,,,,,,
+346,61,Unknown,,,,Spring.Crop,,,,,,,
+347,62,Unknown,Conventional,,static chamber,C0N0,,,,"no biochar amendment, no N fertilizer",,0.91,1.876
+348,62,Unknown,Conventional,,static chamber,C0N20,,,,"no biochar amendment, urea applied",,0.91,1.876
+349,62,Unknown,Conventional,,static chamber,C20N20,,,,"20 t/ha biochar amendment, urea applied",,0.91,1.876
+350,62,Unknown,Conventional,,static chamber,C40N20,,,,"40 t/ha biochar amendment, urea applied",,0.91,1.876
+351,63,Unknown,Conventional,,static chamber,C0N0,,,,"no biochar amendment, no N fertilizer",,1.1,2.011
+352,63,Unknown,Conventional,,static chamber,C0N1,,,,"no biochar amendment, urea applied",,1.1,2.011
+353,63,Unknown,Conventional,,static chamber,C1N1,,,,"20 t/ha biochar amendment, urea applied",,1.1,2.011
+354,63,Unknown,Conventional,,static chamber,C2N1,,,,"40 t/ha biochar amendment, urea applied",,1.1,2.011
+355,64,Unknown,Conventional,,static chamber,C0N0,,,,"no biochar amendment, no N fertilizer",,1.24,1.77
+356,64,Unknown,Conventional,,static chamber,C0N20,,,,"no biochar amendment, urea applied",,1.24,1.77
+357,64,Unknown,Conventional,,static chamber,C20N20,,,,"20 t/ha biochar amendment, urea applied",,1.24,1.77
+358,64,Unknown,Conventional,,static chamber,C40N20,,,,"40 t/ha biochar amendment, urea applied",,1.24,1.77
+359,65,Sorghum,,,,N000,37.09,24.37,38.54,,,,
+360,65,Sorghum,,,,N040,37.09,24.37,38.54,,,,
+361,65,Sorghum,,,,N120,37.09,24.37,38.54,,,,
+362,65,Sorghum,,,,N200,37.09,24.37,38.54,,,,
+363,66,sorghum,Conventional,multi,auto chamber,grass.0n,31.0,14.0,55.0,"Sorghum in grass ley pasture-cereal rotation, no fertilisation",,1.18,0.56
+364,66,sorghum,Conventional,multiple,auto chamber,legume.0n,31.0,14.0,55.0,"Sorghum in legume ley pasture-cereal rotation, no fertilisation",,1.18,0.43
+365,66,sorghum,Conventional,multiple,auto chamber,legume.70n,31.0,14.0,55.0,"Sorghum in legume ley pasture-cereal rotation, sorghum fertilised with a total of 70 Kg N ha-1",,1.18,0.43
+366,66,sorghum,Conventional,multiple,auto chamber,grass.100n,31.0,14.0,55.0,"Sorghum in grass ley pasture-cereal rotation, sorghum fertilised with a total of 100 Kg N ha-1",,1.18,0.56
+367,67,Green beans,,,,Ma+Rd,18.0,22.0,60.0,,,,
+368,67,Green beans,,,,Ma+CONV,18.0,22.0,60.0,,,,
+369,67,Green beans,,,,CONV,18.0,22.0,60.0,,,,
+370,67,Green beans,,,,Co+CONV,18.0,22.0,60.0,,,,
+371,67,Green beans,,,,Co+Rd,18.0,22.0,60.0,,,,
+372,68,maize,Conventional,multiple,auto chamber,cnt,33.0,17.0,50.0,"control treatment, 0 kg N/ha applied",,1.23,0.55
+373,68,maize,Conventional,multiple,auto chamber,conv,33.0,17.0,50.0,"optimal N rate, 80 kg N/ha conv urea applied",,1.23,0.55
+374,68,maize,Conventional,multiple,auto chamber,conv-dmpp,33.0,17.0,50.0,"optimal N rate, 80 kg N/ha DMPP urea applied",,1.23,0.55
+375,68,maize,Conventional,multiple,auto chamber,rfr,33.0,17.0,50.0,"sub-optimal N rate, 20 kg N/ha conv urea applied",,1.23,0.55
+376,69,pasture,Conventional,,auto chamber,Urea,,,,CONTROL standard urea,,1.36,2.9
+377,69,pasture,Conventional,,auto chamber,Urea+DMPP,,,,urea + nitrification inhibitor,,1.36,2.9
+378,69,pasture,Conventional,,auto chamber,Urea+NBPT,,,,urea + urease inhibitor,,1.36,2.9
+379,70,pasture,Conventional,,,0n,,,,0 kg N applied,,,
+380,70,pasture,Conventional,,,100n,,,,100 kg N applied,,,
+381,70,pasture,Conventional,,,25n,,,,25 kg N applied,,,
+382,70,pasture,Conventional,,,50n,,,,50 kg N applied,,,
+383,71,Unknown,Conventional,,,T1,,,,winter wheat planted by direct drilling into sprayed out long term pasture,,,
+384,71,Unknown,Conventional,,,T2,,,,"As for treatment 1, with nitrification inhibitor sprayed onto the plots as DCD at 10 kg/ha",,,
+385,71,Unknown,Conventional,,,T3,,,,winter wheat planted after conventional cultivation of the soil,,,
+386,71,Unknown,Conventional,,,T4,,,,"As for treatment 3, with DCD also applied at least twice during the year.",,,
+387,72,maize,Conventional,Field cultivator,auto chamber,band,,,,on the top of fertilization band,,,
+388,72,maize,Conventional,Field cultivator,auto chamber,row,,,,on the planting row,,,
+389,73,Unknown,Organic,,eddy covariance,ParcelA.Control,,,,Grassland with 4-6 harvests and post harvest slurry application,,1.1,
+390,73,Unknown,Organic,,eddy covariance,Parcelb.Control,,,,Grassland with 4-6 harvests and post harvest slurry application,,1.1,
+391,73,Unknown,Conventional,,eddy covariance,Parcelb.Clover,,,,"Clover oversowed on grass, no liquid slurry applied",,1.1,
+392,74,Unknown,Conventional,,static chamber,M1,,,,first converted site,,,
+393,74,Unknown,Conventional,,static chamber,M2,,,,second converted site,,,
+394,74,Unknown,Conventional,,static chamber,M3,,,,third converted site,,,
+395,74,Unknown,Conventional,,static chamber,M4,,,,CRP control site,,,
+396,75,Unknown,Conventional,,static chamber,TSF,,,,Mid-successional community,,,
+397,75,Unknown,Conventional,,static chamber,T1,,,,corn-soy-wheat CT,,,
+398,75,Unknown,Conventional,,static chamber,T2,,,,corn-soy-wheat NT,,,
+399,75,Unknown,Conventional,,static chamber,T3,,,,corn-soy-wheat NT with cover crops and reduced N,,,
+400,75,Unknown,Conventional,,static chamber,T4,,,,corn-soy-wheat organic with manure,,,
+401,75,Unknown,Conventional,,static chamber,T5,,,,Poplar plantation,,,
+402,75,Unknown,Conventional,,static chamber,T6,,,,Alfalfa,,,
+403,75,Unknown,Conventional,,static chamber,T7,,,,Early Successional,,,
+404,75,Unknown,Conventional,,static chamber,T8,,,,Never-tilled mown grassland with herbaceous vegetation mown every fall,,,
+405,75,Unknown,Conventional,,static chamber,TCF,,,,Coniferous forest plantation,,,
+406,75,Unknown,Conventional,,static chamber,TDF,,,,Deciduous forest,,,
+407,76,Unknown,,,,NoTill_Pasture,,,,,,,
+408,76,Unknown,,,,NoTill_Pea,,,,,,,
+409,76,Unknown,,,,Till_Pasture,,,,,,,
+410,76,Unknown,,,,Till_Pea,,,,,,,
+411,77,Unknown,Conventional,,auto chamber,spruce,,,,spruce forest,,,
+412,78,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 11 September 2009,,,
+413,78,pasture,Organic,,auto chamber,t4,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 11 September 2009 plus DCD @ 10 kg a.i./ha applied 14 August 2009,,,
+414,78,pasture,Organic,,auto chamber,t5,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 14 August 2009,,,
+415,78,pasture,Organic,,auto chamber,t6,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 14 August 2009 plus DCD @ 10 kg a.i./ha applied 14 August 2009,,,
+416,79,pasture,Conventional,,auto chamber,t1,53.0,24.0,16.0,nil applied,,,
+417,79,pasture,Organic,,auto chamber,t2,53.0,24.0,16.0,"urine @1000 kgN/ha applied to 25% of chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010",,,
+418,79,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010 with DCD @10 kg a.i./ha applied 23 Sept 2010",,,
+419,79,pasture,Organic,,auto chamber,t4,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 23 Sept 2010, 21 Oct 2010, 10 Nov 2010 and 7 Dec 2010 with DCD @ 10 kg a.i./ha applied each time",,,
+420,80,pasture,Conventional,,auto chamber,t1,53.0,24.0,16.0,nil applied,,,
+421,80,pasture,Organic,,auto chamber,t2,53.0,24.0,16.0,"urine @1000 kgN/ha was original target however urine was only applied three times to 25% of chamber base at each application on 17 Sept 2012, 22 Nov 2012 and 16 May 2013",,,
+422,80,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 17 Sept 2012, 22 Nov 2012 and 16 May 2013 and with DCD @10 kg a.i./ha applied as surface spray on 17 Sept 2012 and again 16 May 2013",,,
+423,80,pasture,Organic,,auto chamber,t4,53.0,24.0,16.0,"urine @ 1000 kg N/ha applied to 25% of the chamber base 17 Sept 2012, 22 Nov 2012, and 16 May 2013 with DCD is mixed in with urine at each application at a rate equivalent to 20 kg a.i./ha",,,
+424,81,pasture,Conventional,,auto chamber,t1,53.0,24.0,16.0,nil applied,,,
+425,81,pasture,Organic,,auto chamber,t2,53.0,24.0,16.0,urine @1000 kgN/ha applied 19 September 2013,,,
+426,81,pasture,Organic,,auto chamber,t3,53.0,24.0,16.0,urine @ 1000 kg N/ha applied 19 September 2013 with nitrapyrin sprayed on after application of urine at 1 kg a.i./ha,,,
+427,81,pasture,Conventional,,auto chamber,t4,53.0,24.0,16.0,fresh dairy cow dung aiming to apply equivalent to 400 kg N/ha applied as three dung pads as circles each of 0.25 m diameter on 19 September 2013,,,
+428,82,Unknown,,,,High,,,,,,,
+429,82,Unknown,,,,Low,,,,,,,
+430,82,Unknown,,,,Medium,,,,,,,
+431,83,Unknown,Conventional,,static chamber,G2,,,,phases of a corn-soybean-canola rotation using best management practices for each system,,,
+432,84,soybean,Conventional,,auto chamber,bare,,,,bare soil treatment,,,
+433,84,soybean,Conventional,,auto chamber,fertilizer,,,,bare soil + fertilizer twice - 65 kg/ha of urea,,,
+434,84,soybean,Conventional,,auto chamber,soybean,,,,"soybeans sown into wheat stubble, irrigation to meet soybean requirement",,,
+435,84,soybean,Conventional,,auto chamber,stubbl,,,,wheat stubble treatment,,,
+436,85,Unknown,Conventional,,auto chamber,Banna_Sand_Bare_Soil,,,,irrigated fallow,,1.28,0.93
+437,85,Unknown,Conventional,,auto chamber,Banna_Sand_Wheat,,,,irrigated wheat,,1.28,0.93
+438,85,Unknown,Conventional,,auto chamber,Hanwood_Loam_Bare_Soil,,,,irrigated fallow,,1.49,1.23
+439,85,Unknown,Conventional,,auto chamber,Hanwood_Loam_Wheat,,,,irrigated wheat,,1.49,1.23
+440,85,Unknown,Conventional,,auto chamber,Mundiwa_Clay_Loam_Bare_Soil,,,,irrigated fallow,,1.27,1.17
+441,85,Unknown,Conventional,,auto chamber,Mundiwa_Clay_Loam_Wheat,,,,irrigated wheat,,1.27,1.17
+442,86,Unknown,Conventional,,auto chamber,120mm_Irri,,,,urea with 3 irrigation events of 120 mm,,1.45,1.18
+443,86,Unknown,Conventional,,auto chamber,30mm_Irri,,,,urea with 12 irrigation events of 30mm,,1.45,1.18
+444,86,Unknown,Conventional,,auto chamber,60mm_Irri,,,,urea with 6 irrigation events of 60 mm,,1.45,1.18
+445,86,Unknown,Conventional,,auto chamber,90mm_Irri,,,,urea with 4 irrigation events of 90 mm,,1.45,1.18
+446,87,Unknown,Conventional,,auto chamber,CONV_DMPP,,,,conventional irrigation with DMPP inhibitor,,1.45,
+447,87,Unknown,Conventional,,auto chamber,CONV_Irri,,,,conventional irrigation,,1.45,
+448,87,Unknown,Conventional,,auto chamber,RED_DMPP,,,,reduced deficit irrigation with DMPP inhibitor,,1.45,
+449,87,Unknown,Conventional,,auto chamber,RED_Irri,,,,reduced deficit irrigation,,1.45,
+450,88,Pasture,,,,DMPP.Low,66.0,16.0,18.0,,,,
+451,88,Pasture,,,,Urea_High,66.0,16.0,18.0,,,,
+452,88,Pasture,,,,Urea_Low,66.0,16.0,18.0,,,,
+453,88,Pasture,,,,Zero,66.0,16.0,18.0,,,,
+454,89,Brome Grass,Conventional,,static chamber,CRP_reference,,,,control CRP field,,,
+455,89,Unknown,Conventional,,static chamber,CT_soybeans,,,,"conventional tillage used for soybean production, coming out of CRP land",,,
+456,89,Brome Grass,Conventional,,static chamber,NT_soybeans,,,,"no till management used for soybean production, coming out of CRP land",,,
+457,90,Unknown,Conventional,,static chamber,0,,,,zero kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+458,90,Unknown,Conventional,,static chamber,112,,,,one hundred and twelve kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+459,90,Unknown,Conventional,,static chamber,140,,,,one hundred and forty kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+460,90,Unknown,Conventional,,static chamber,168,,,,one hundred and sixty eight kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+461,90,Unknown,Conventional,,static chamber,196,,,,one hundred and ninety six kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+462,90,Unknown,Conventional,,static chamber,28,,,,twenty eight kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+463,90,Unknown,Conventional,,static chamber,56,,,,fifty six kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+464,90,Unknown,Conventional,,static chamber,84,,,,eighty four kilograms per hectare per year of nitrogen fertilizer applied,,1.24,10.2
+465,91,Unknown,Conventional,,auto chamber,ambient-snow,,,,control plots where snow was neither added nor removed,,,12.9
+466,91,Unknown,Conventional,,auto chamber,double-snow,,,,snow was added to twice the ambient levels with care to maintain snow density,,,12.9
+467,91,Unknown,Conventional,,auto chamber,no-snow,,,,after each snow event ninety five percent of the snow was removed with a hand towel with care to not disturb snow density,,,12.9
+468,92,Unknown,Conventional,,auto chamber,KT_50%_irrigation,,,,fully irrigated- crop irrigation is stimulated when fifty percent of the plants available water capacity is depleted,,0.9,16.1
+469,92,Unknown,Conventional,,auto chamber,KT_60%_irrigation,,,,deficit irrigated- crop irrigation is stimulated when sixty percent of the plants available water capacity is depleted,,0.9,15.0
+470,92,Unknown,Conventional,,auto chamber,KT_85%_irrigation,,,,deficit irrigated three- crop irrigation is stimulated when eighty five percent of the plants available water capacity is depleted,,0.9,15.5
+471,93,Unknown,Conventional,,auto chamber,KT_50%_irrigation,,,,fully irrigated- crop irrigation is stimulated when fifty percent of the plants available water capacity is depleted,,0.9,16.1
+472,93,Unknown,Conventional,,auto chamber,KT_60%_irrigation,,,,deficit irrigated- crop irrigation is stimulated when sixty percent of the plants available water capacity is depleted,,0.9,15.0
+473,93,Unknown,Conventional,,auto chamber,KT_85%_irrigation,,,,deficit irrigated three- crop irrigation is stimulated when eighty five percent of the plants available water capacity is depleted,,0.9,15.5
+474,94,corn,Conventional,harrow,flux gradient,Field1-rt,,,,"reduced tillage - maize, faba",,1.2,3.2
+475,94,corn,Conventional,chisel/harrow,flux gradient,Field2-ct,,,,"conventional tillage - maize, faba, spring wheat",,1.2,3.2
+476,94,corn,Conventional,chisel/harrow,flux gradient,Field3-ct,,,,"conventional tillage - maize, faba, spring wheat",,1.2,3.2
+477,94,corn,Conventional,harrow,flux gradient,Field4-rt,,,,"reduced tillage - maize, faba",,1.2,3.2
+478,94,alfalfa,Conventional,disk,flux gradient,Field1-perennial,,,,annual converted to perennial,,1.15,3.2
+479,94,barley,Conventional,chisel,flux gradient,Field2-annual,,,,"annual (wheat, canola, barley)",,1.15,3.2
+480,94,barley,Conventional,chisel,flux gradient,Field3-annual,,,,"annual (wheat, canola, barley)",,1.15,3.2
+481,94,alfalfa,Conventional,disk,flux gradient,Field4-perennial,,,,annual converted to perennial,,1.15,3.2
+482,94,corn,Conventional,chisel/harrow,flux gradient,Field2-ferttime,,,,"spring-maize, preplant fert vs late fall fert",,1.15,3.2
+483,94,corn,Conventional,chisel/harrow,flux gradient,Field3-ferttime,,,,"spring-maize, preplant fert vs late fall fert",,1.15,3.2
+484,94,soybean,Conventional,harrow,flux gradient,Field1,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
+485,94,soybean,Conventional,harrow,flux gradient,Field2,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
+486,94,soybean,Conventional,harrow,flux gradient,Field3,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
+487,94,soybean,Conventional,harrow,flux gradient,Field4,,,,conventional mgmt (soy-wheat-maize-canola) monitoring,,1.15,3.2
+488,95,Unknown,,,,Fallow,,,,,,,
+489,95,Unknown,,,,Forest,,,,,,,
+490,95,Unknown,,,,Lawn,,,,,,,
+491,95,Unknown,,,,Pasture,,,,,,,
+492,96,corn,No-till,,flux gradient,nt,29.0,52.0,19.0,"Best management practices, No tillage with cover crop in corn-soy-wheat",,1.32,
+493,96,corn,Conventional,disking,flux gradient,ct,29.0,52.0,19.0,"Conventional practices, CT and fert in corn-soy-wheat",,1.19,
+494,97,sorghum,Conventional,,auto chamber,Entec,,,,urea + DMPP,,0.9,1.65
+495,97,sorghum,Conventional,,auto chamber,eNtrench,,,,urea + Nitrapyrin,,0.9,1.65
+496,97,sorghum,Conventional,,auto chamber,Poly,,,,PCU_polymer-coated urea,,0.9,1.65
+497,97,sorghum,Conventional,,auto chamber,Urea,,,,urea,,0.9,1.65
+498,97,sorghum,Conventional,,auto chamber,zeroN,,,,control - 0N,,0.9,1.65
