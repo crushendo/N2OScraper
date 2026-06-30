@@ -452,6 +452,85 @@ def classify_n_type(form):
 # --------------------------------------------------------------------------- #
 # Library / Summary enrichment lookups
 # --------------------------------------------------------------------------- #
+# --- Treatment-field conventions (match the existing DB rows) --------------- #
+
+# Sitelibrary Measurement_method -> canonical instrument. "flux gradient" is a
+# micrometeorological method conventionally recorded as Eddy Covariance here.
+FLUX_INSTRUMENT = {
+    "static chamber": "Static Chamber",
+    "manual chamber": "Static Chamber",
+    "auto chamber": "Automatic Chamber",
+    "automatic chamber": "Automatic Chamber",
+    "automated chamber": "Automatic Chamber",
+    "flux gradient": "Eddy Covariance",
+    "eddy covariance": "Eddy Covariance",
+}
+
+
+def flux_instrument(v):
+    v = s(v)
+    if not v:
+        return None
+    return FLUX_INSTRUMENT.get(v.strip().lower(), v.strip().title())
+
+
+# Crop -> "Scientific name (Common Name)" for the major crops (matching the
+# existing Treatment rows); grasses / land-uses stay plain. Unmapped names are
+# title-cased. Keep values <= 32 chars (PrimaryCrop max_length).
+CROP_MAP = {
+    "corn": "Zea mays (Corn)", "maize": "Zea mays (Corn)",
+    "soybean": "Glycine max (Soybean)", "soybeans": "Glycine max (Soybean)",
+    "barley": "Hordeum vulgare (Barley)",
+    "wheat": "Triticum aestivum (Wheat)", "winter wheat": "Triticum aestivum (Wheat)",
+    "spring wheat": "Triticum aestivum (Spring Wheat)",
+    "alfalfa": "Medicago sativa (Alfalfa)",
+    "sorghum": "Sorghum bicolor (Sorghum)",
+    "lupin": "Lupinus angustifolius (Lupin)",
+    "cotton": "Gossypium hirsutum (Cotton)",
+    "canola": "Brassica napus (Canola)", "rapeseed": "Brassica napus (Canola)",
+    "rice": "Oryza sativa (Rice)", "double rice": "Oryza sativa (Rice)",
+    "early rice": "Oryza sativa (Rice)", "late rice": "Oryza sativa (Rice)",
+    "oats": "Avena sativa (Oats)",
+    "faba": "Vicia faba (Faba Bean)",
+    "pea": "Pisum sativum (Pea)", "peas": "Pisum sativum (Pea)",
+    "miscanthus": "Miscanthus sinensis (Miscanthus)",
+    "switchgrass": "Panicum virgatum (Switchgrass)",
+    "ryegrass": "Lolium perenne (Ryegrass)",
+    "green beans": "Phaseolus vulgaris (Green Bean)",
+    "green bean": "Phaseolus vulgaris (Green Bean)",
+    "brome grass": "Bromus inermis (Brome Grass)", "brome": "Bromus inermis (Brome Grass)",
+    "potato": "Solanum tuberosum (Potato)",
+    "poplar": "Populus (Poplar)",
+    "pasture": "Pasture", "rangeland": "Rangeland", "fallow": "Fallow",
+    "grass": "Grass", "forest": "Forest", "native": "Native",
+    "restored prairie": "Restored Prairie", "forage brassica": "Forage Brassica",
+}
+
+
+def normalize_crop(v):
+    v = s(v)
+    if not v:
+        return None
+    key = re.sub(r"\s*cv\.?\s.*$", "", v.strip().lower())   # drop "cv. Hindmarsh"
+    key = re.sub(r"\s+", " ", key).strip()
+    return CROP_MAP.get(key, v.strip().title())
+
+
+def load_cropyield(path):
+    """CropYield_V1: (ref_lc, trt_lc) -> Crop, plus ref_lc -> most-common Crop.
+    A second source for PrimaryCrop when the daily file carries no Crop."""
+    pair, refc = {}, {}
+    if not Path(path).exists():
+        return pair, {}
+    for r in csv.DictReader(open(path, newline="", encoding="utf-8-sig", errors="ignore")):
+        ref = lc(r.get("SiteId")); trt = lc(r.get("Treatment")); crop = s(r.get("Crop"))
+        if not ref or not crop or crop.upper() == "NA":
+            continue
+        pair.setdefault((ref, trt), crop)
+        refc.setdefault(ref, Counter())[crop] += 1
+    return pair, {ref: c.most_common(1)[0][0] for ref, c in refc.items()}
+
+
 def load_library(path):
     """Index Sitelibrary by lowercase Reference and (Reference, Treatment)."""
     by_ref = {}          # ref_lc -> dict (first row wins for site-level fields)
@@ -572,6 +651,7 @@ def main():
 
     by_ref, by_pair = load_library(data / "Sitelibrary_V1.csv")
     summary, bd_pair, bd_ref, soilc_pair, soilc_ref, pubyear = load_summary(data / "Summary_V1.csv")
+    cy_pair, cy_ref = load_cropyield(data / "CropYield_V1.csv")
     overrides = load_overrides(args.overrides or (data / "source_overrides.csv"))
     if overrides:
         print(f"Loaded {len(overrides)} verified-source overrides.")
@@ -758,16 +838,20 @@ def main():
         def mean(box):
             return round(box[0] / box[1], 4) if box[1] else None
 
-        primary_crop = clip(a["crops"].most_common(1)[0][0], 32) if a["crops"] else "Unknown"
+        # PrimaryCrop: daily Crop (most common) -> CropYield_V1 (pair, then ref)
+        # fallback; normalized to the "Scientific name (Common Name)" convention.
+        raw_crop = (a["crops"].most_common(1)[0][0] if a["crops"]
+                    else cy_pair.get((ref_l, trt_l)) or cy_ref.get(ref_l))
+        primary_crop = clip(normalize_crop(raw_crop), 32) or "Unknown"
         treatments.append(dict(
             TreatmentID=tid,
             ExperimentID=eid,
-            PrimaryCrop=primary_crop or "Unknown",
+            PrimaryCrop=primary_crop,
             Management=clip(management_of(lib_row.get("N type") if lib_row else None,
                                           lib_row.get("Treatment_Description") if lib_row else None), 16)
                        if lib_row else None,
-            Tillage=clip(a["till"].most_common(1)[0][0], 32) if a["till"] else None,
-            FluxInstrument=clip(lib_row.get("Measurement_method"), 45) if lib_row else None,
+            Tillage=clip(a["till"].most_common(1)[0][0].title(), 32) if a["till"] else None,
+            FluxInstrument=clip(flux_instrument(lib_row.get("Measurement_method")), 45) if lib_row else None,
             TreatmentName=clip(a["trt_orig"], 45),
             SandMean=mean(a["sand"]), SiltMean=mean(a["silt"]), ClayMean=mean(a["clay"]),
             TreatmentDescription=(s(lib_row.get("Treatment_Description")) if lib_row else None),
